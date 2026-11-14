@@ -28,3 +28,8 @@ node_modules/
 disc/
 out/
 work/
+
+# raw extracted dialogue text (copyrighted)
+source_text.json
+*_source_text.json
+
