@@ -1,0 +1,30 @@
+﻿# secrets
+.env
+kilo.json
+*.key
+
+# game data - never distribute
+*.gba
+*.iso
+*.bin
+*.exe
+*.sav
+*.zip
+*.rar
+*.7z
+*.bps
+*.ARC
+*.arc
+
+# build artefacts
+__pycache__/
+*.pyc
+node_modules/
+*.log
+*.tmp
+*.bak
+
+# extracted from the original disc - not ours to publish
+disc/
+out/
+work/

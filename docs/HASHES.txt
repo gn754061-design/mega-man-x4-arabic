@@ -1,0 +1,14 @@
+#fingerprint	value
+bin_sha256	3ceab06ac99add4035f912188bcbf5b16c02056f46a33d38ff0c8dbce6cb613b
+bin_md5	1c425b49bb25c45b3964b2d565dd0ec0
+bin_size	592217136
+disc_matches_DISC.md	YES
+
+catalog_x_entries	55
+catalog_zero_entries	49
+catalog_total_entries	104
+translated	102
+empty	dialogue.x.054,dialogue.zero.048
+source_chars_total	19910
+longest_entry_id	dialogue.zero.026
+longest_entry_chars	827

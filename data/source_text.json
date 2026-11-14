@@ -1,0 +1,7496 @@
+{
+  "game": "Mega Man X4 (USA, SLUS-00561)",
+  "surface": "campaign/dialogue messages only",
+  "textbox": {
+    "columns": 20,
+    "rows": 3,
+    "page_break": "\\f",
+    "line_break": "\\n"
+  },
+  "entry_count": 104,
+  "entries": [
+    {
+      "id": "dialogue.x.000",
+      "source": "JUNGLE\nInfiltrate enemy-\noccupied jungle and\fJUNGLE\ndestroy the weapon\nunder construction.",
+      "chars": 90,
+      "control_codes": [
+        {
+          "pos": 6,
+          "code": "\\n"
+        },
+        {
+          "pos": 24,
+          "code": "\\n"
+        },
+        {
+          "pos": 44,
+          "code": "\\f"
+        },
+        {
+          "pos": 51,
+          "code": "\\n"
+        },
+        {
+          "pos": 70,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "c85a6b3fc4b5c028b51df540db308f713ac7f2a43c88cdf78a91d6594ff8adb5",
+      "current_translation": "SELVA\nInfíltrate en la selva ocupada.\fSELVA\nDestruye el arma que están construyendo."
+    },
+    {
+      "id": "dialogue.x.001",
+      "source": "CYBER SPACE\nA bug has corrupted\nthe network.\fCYBER SPACE\nDive into cyberspace\nand exterminate it.",
+      "chars": 97,
+      "control_codes": [
+        {
+          "pos": 11,
+          "code": "\\n"
+        },
+        {
+          "pos": 31,
+          "code": "\\n"
+        },
+        {
+          "pos": 44,
+          "code": "\\f"
+        },
+        {
+          "pos": 56,
+          "code": "\\n"
+        },
+        {
+          "pos": 77,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "e5a91c8ccc823023556d335323c12b15cc79af5b2e36ffd3319fbf6329dce971",
+      "current_translation": "CIBERESPACIO\nUn virus ha infectado la red.\fCIBERESPACIO\nEntra en la red y elimínalo."
+    },
+    {
+      "id": "dialogue.x.002",
+      "source": "AIR FORCE\nThe Repliforce ship\nhas taken off.\fAIR FORCE\nPursue and blast\nit out of the air.",
+      "chars": 90,
+      "control_codes": [
+        {
+          "pos": 9,
+          "code": "\\n"
+        },
+        {
+          "pos": 29,
+          "code": "\\n"
+        },
+        {
+          "pos": 44,
+          "code": "\\f"
+        },
+        {
+          "pos": 54,
+          "code": "\\n"
+        },
+        {
+          "pos": 71,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "d69b63d4f320e5f5125b8414939dbfd6becee91e73e1e18446f67c7bae0bd4fe",
+      "current_translation": "FUERZA AÉREA\nLa nave de Repliforce ha despegado.\fFUERZA AÉREA\nPersíguela y derríbala."
+    },
+    {
+      "id": "dialogue.x.003",
+      "source": "VOLCANO\nDragoon of the 14th\nunit is a traitor.\fVOLCANO\nLocate and bring him\nback to hunter H.Q.",
+      "chars": 95,
+      "control_codes": [
+        {
+          "pos": 7,
+          "code": "\\n"
+        },
+        {
+          "pos": 27,
+          "code": "\\n"
+        },
+        {
+          "pos": 46,
+          "code": "\\f"
+        },
+        {
+          "pos": 54,
+          "code": "\\n"
+        },
+        {
+          "pos": 75,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "2ad85654feedbb35c52ca9e6ae6149728911fc1e7e2bd8fd06899b1e73d075da",
+      "current_translation": "VOLCÁN\nDragoon, de la unidad 14, nos ha traicionado.\fVOLCÁN\nEncuéntralo y llévalo al cuartel."
+    },
+    {
+      "id": "dialogue.x.004",
+      "source": "MARINE BASE\nRepliforce decimated\nthe city and left.\fMARINE BASE\nPursue them aboard\na Land Chaser.",
+      "chars": 97,
+      "control_codes": [
+        {
+          "pos": 11,
+          "code": "\\n"
+        },
+        {
+          "pos": 32,
+          "code": "\\n"
+        },
+        {
+          "pos": 51,
+          "code": "\\f"
+        },
+        {
+          "pos": 63,
+          "code": "\\n"
+        },
+        {
+          "pos": 82,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "47312cc86fe1ff81a7ae2461cb653c18929f0aaa604a510bd2366746bfbd1e86",
+      "current_translation": "BASE MARINA\nRepliforce arrasó la ciudad y huyó.\fBASE MARINA\nPersíguelos a bordo de un Land Chaser."
+    },
+    {
+      "id": "dialogue.x.005",
+      "source": "BIO LAB.\nThe abandoned lab is\nnow operational.\fBIO LAB.\nInvestigate and\ndestroy the lab.",
+      "chars": 88,
+      "control_codes": [
+        {
+          "pos": 8,
+          "code": "\\n"
+        },
+        {
+          "pos": 29,
+          "code": "\\n"
+        },
+        {
+          "pos": 46,
+          "code": "\\f"
+        },
+        {
+          "pos": 55,
+          "code": "\\n"
+        },
+        {
+          "pos": 71,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "482ca42adae6f075ee602ec09481a98d1df3cdbba70eb8bc55dd6d95b85c5b79",
+      "current_translation": "LABORATORIO\nEl laboratorio abandonado está activo.\fLABORATORIO\nInvestígalo y destrúyelo."
+    },
+    {
+      "id": "dialogue.x.006",
+      "source": "MILITARY TRAIN\nA military train is\nmoving supplies.\fMILITARY TRAIN\nCut off Repliforce's\nsupply route.",
+      "chars": 101,
+      "control_codes": [
+        {
+          "pos": 14,
+          "code": "\\n"
+        },
+        {
+          "pos": 34,
+          "code": "\\n"
+        },
+        {
+          "pos": 51,
+          "code": "\\f"
+        },
+        {
+          "pos": 66,
+          "code": "\\n"
+        },
+        {
+          "pos": 87,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "f35cc658fce78299dc52759cff6bba33a3b335e98d386c7c5983d1d82406c2c8",
+      "current_translation": "TREN MILITAR\nUn tren militar transporta suministros.\fTREN MILITAR\nCorta la ruta de suministros enemiga."
+    },
+    {
+      "id": "dialogue.x.007",
+      "source": "SNOW BASE\nWe've discovered a\nhidden snow base.\fSNOW BASE\nHalt production of\ntheir new weapon.",
+      "chars": 93,
+      "control_codes": [
+        {
+          "pos": 9,
+          "code": "\\n"
+        },
+        {
+          "pos": 28,
+          "code": "\\n"
+        },
+        {
+          "pos": 46,
+          "code": "\\f"
+        },
+        {
+          "pos": 56,
+          "code": "\\n"
+        },
+        {
+          "pos": 75,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 18,
+      "source_sha256": "3c391825d2f192a2b2ab3a3ac26df1b41499f6bb40aade4f95cf495a82981046",
+      "current_translation": "BASE NEVADA\nDescubrimos una base oculta en la nieve.\fBASE NEVADA\nDetén la producción de su nueva arma."
+    },
+    {
+      "id": "dialogue.x.008",
+      "source": "SPIDER\nYou've labeled us\nall as Mavericks!\fSPIDER\nI won't let you\npass. Turn back now!",
+      "chars": 86,
+      "control_codes": [
+        {
+          "pos": 6,
+          "code": "\\n"
+        },
+        {
+          "pos": 24,
+          "code": "\\n"
+        },
+        {
+          "pos": 42,
+          "code": "\\f"
+        },
+        {
+          "pos": 49,
+          "code": "\\n"
+        },
+        {
+          "pos": 65,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "3d828dc069c258507c85b493c518157d0f0f6c1a646c326e659aff3e5745461e",
+      "current_translation": "SPIDER\n¡Nos han acusado a todos de ser Mavericks!\fSPIDER\nNo te dejaré pasar. ¡Da media vuelta!"
+    },
+    {
+      "id": "dialogue.x.009",
+      "source": "WALRUS\nThey sent a kid like\nyou after me?\fWALRUS\nI promise to end\nthis quickly...",
+      "chars": 81,
+      "control_codes": [
+        {
+          "pos": 6,
+          "code": "\\n"
+        },
+        {
+          "pos": 27,
+          "code": "\\n"
+        },
+        {
+          "pos": 41,
+          "code": "\\f"
+        },
+        {
+          "pos": 48,
+          "code": "\\n"
+        },
+        {
+          "pos": 65,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "c6b228723839fb49576100d19843feb692e1e452ac69c6914992de561724e5d0",
+      "current_translation": "WALRUS\n¿Enviaron a un niño como tú a detenerme?\fWALRUS\nTe prometo que esto terminará rápido..."
+    },
+    {
+      "id": "dialogue.x.010",
+      "source": "MUSHROOM\nAre you X?\fMUSHROOM\nI'm under orders to\nterminate you.\fX\nWhat?!\nWho's orders?\fMUSHROOM\nTake a wild guess.",
+      "chars": 114,
+      "control_codes": [
+        {
+          "pos": 8,
+          "code": "\\n"
+        },
+        {
+          "pos": 19,
+          "code": "\\f"
+        },
+        {
+          "pos": 28,
+          "code": "\\n"
+        },
+        {
+          "pos": 48,
+          "code": "\\n"
+        },
+        {
+          "pos": 63,
+          "code": "\\f"
+        },
+        {
+          "pos": 65,
+          "code": "\\n"
+        },
+        {
+          "pos": 72,
+          "code": "\\n"
+        },
+        {
+          "pos": 86,
+          "code": "\\f"
+        },
+        {
+          "pos": 95,
+          "code": "\\n"
+        }
+      ],
+      "pages": 4,
+      "lines_per_page": [
+        2,
+        3,
+        3,
+        2
+      ],
+      "max_line_len": 19,
+      "source_sha256": "6f16b43a2f11782cd8a0faafd94d90c9c502ce36baaf0f67699327a74fdb99f1",
+      "current_translation": "MUSHROOM\n¿Tú eres X?\fMUSHROOM\nTengo órdenes de eliminarte.\fX\n¿Qué? ¿Quién te dio esas órdenes?\fMUSHROOM\nAdivínalo."
+    },
+    {
+      "id": "dialogue.x.011",
+      "source": "DRAGOON\nX... You've arrived.\fX\nDragoon! Why did you\nbetray the H.Q.!?\fDRAGOON\nHeh... You'll have\nto defeat me first.\fX\nBut... We're allies!\fDRAGOON\n...You're so naive.\n...Listen closely.\fDRAGOON\nI let the Sky Lagoon\nfall!\fDRAGOON\nAnd I'd do it again!\nHa ha ha ha ha ha!\fX\nNo! Those were\ninnocent people!\fX\nYou're not Dragoon!\nJust a Maverick!\fDRAGOON\nYou got that right!\nPower up X!\fDRAGOON\nIt's time you showed\nme what you can do!",
+      "chars": 431,
+      "control_codes": [
+        {
+          "pos": 7,
+          "code": "\\n"
+        },
+        {
+          "pos": 28,
+          "code": "\\f"
+        },
+        {
+          "pos": 30,
+          "code": "\\n"
+        },
+        {
+          "pos": 51,
+          "code": "\\n"
+        },
+        {
+          "pos": 69,
+          "code": "\\f"
+        },
+        {
+          "pos": 77,
+          "code": "\\n"
+        },
+        {
+          "pos": 96,
+          "code": "\\n"
+        },
+        {
+          "pos": 116,
+          "code": "\\f"
+        },
+        {
+          "pos": 118,
+          "code": "\\n"
+        },
+        {
+          "pos": 139,
+          "code": "\\f"
+        },
+        {
+          "pos": 147,
+          "code": "\\n"
+        },
+        {
+          "pos": 167,
+          "code": "\\n"
+        },
+        {
+          "pos": 186,
+          "code": "\\f"
+        },
+        {
+          "pos": 194,
+          "code": "\\n"
+        },
+        {
+          "pos": 215,
+          "code": "\\n"
+        },
+        {
+          "pos": 221,
+          "code": "\\f"
+        },
+        {
+          "pos": 229,
+          "code": "\\n"
+        },
+        {
+          "pos": 250,
+          "code": "\\n"
+        },
+        {
+          "pos": 269,
+          "code": "\\f"
+        },
+        {
+          "pos": 271,
+          "code": "\\n"
+        },
+        {
+          "pos": 286,
+          "code": "\\n"
+        },
+        {
+          "pos": 303,
+          "code": "\\f"
+        },
+        {
+          "pos": 305,
+          "code": "\\n"
+        },
+        {
+          "pos": 325,
+          "code": "\\n"
+        },
+        {
+          "pos": 342,
+          "code": "\\f"
+        },
+        {
+          "pos": 350,
+          "code": "\\n"
+        },
+        {
+          "pos": 370,
+          "code": "\\n"
+        },
+        {
+          "pos": 382,
+          "code": "\\f"
+        },
+        {
+          "pos": 390,
+          "code": "\\n"
+        },
+        {
+          "pos": 411,
+          "code": "\\n"
+        }
+      ],
+      "pages": 11,
+      "lines_per_page": [
+        2,
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "968db853f8c09c4f7994107a5ca79f722e8be41fdd06a3d00e5f15ee8ac29575",
+      "current_translation": "DRAGOON\nX... Has llegado.\fX\n¡Dragoon! ¿Por qué traicionaste al cuartel?\fDRAGOON\nJe... Tendrás que vencerme primero.\fX\nPero... ¡Somos aliados!\fDRAGOON\n...Eres tan ingenuo. Escucha bien.\fDRAGOON\n¡Yo provoqué la caída de Sky Lagoon!\fDRAGOON\n¡Y volvería a hacerlo! ¡Ja, ja, ja!\fX\n¡No! ¡Eran personas inocentes!\fX\n¡Tú no eres Dragoon! ¡Eres un Maverick!\fDRAGOON\n¡Exacto! ¡Prepárate, X!\fDRAGOON\n¡Muéstrame de lo que eres capaz!"
+    },
+    {
+      "id": "dialogue.x.012",
+      "source": "DRAGOON\n...You... are...\nstrong... X...\fX\nSuch a waste...\nWhy Dragoon?\fDRAGOON\n...Always... wanted\n... to fight... you.\fDRAGOON\n...Then ...he\n...appeared ...and\fX\nHe appeared? Who?!\fDRAGOON\ntold me to work for\nRepliforce. To goad\fDRAGOON\nyou into fighting...\fX\nYou did it just so\nyou could fight me?\fDRAGOON\n...was worth it...\nfor a final duel...\fX\nDragoon!!!",
+      "chars": 359,
+      "control_codes": [
+        {
+          "pos": 7,
+          "code": "\\n"
+        },
+        {
+          "pos": 24,
+          "code": "\\n"
+        },
+        {
+          "pos": 39,
+          "code": "\\f"
+        },
+        {
+          "pos": 41,
+          "code": "\\n"
+        },
+        {
+          "pos": 57,
+          "code": "\\n"
+        },
+        {
+          "pos": 70,
+          "code": "\\f"
+        },
+        {
+          "pos": 78,
+          "code": "\\n"
+        },
+        {
+          "pos": 98,
+          "code": "\\n"
+        },
+        {
+          "pos": 119,
+          "code": "\\f"
+        },
+        {
+          "pos": 127,
+          "code": "\\n"
+        },
+        {
+          "pos": 141,
+          "code": "\\n"
+        },
+        {
+          "pos": 160,
+          "code": "\\f"
+        },
+        {
+          "pos": 162,
+          "code": "\\n"
+        },
+        {
+          "pos": 181,
+          "code": "\\f"
+        },
+        {
+          "pos": 189,
+          "code": "\\n"
+        },
+        {
+          "pos": 209,
+          "code": "\\n"
+        },
+        {
+          "pos": 229,
+          "code": "\\f"
+        },
+        {
+          "pos": 237,
+          "code": "\\n"
+        },
+        {
+          "pos": 258,
+          "code": "\\f"
+        },
+        {
+          "pos": 260,
+          "code": "\\n"
+        },
+        {
+          "pos": 279,
+          "code": "\\n"
+        },
+        {
+          "pos": 299,
+          "code": "\\f"
+        },
+        {
+          "pos": 307,
+          "code": "\\n"
+        },
+        {
+          "pos": 326,
+          "code": "\\n"
+        },
+        {
+          "pos": 346,
+          "code": "\\f"
+        },
+        {
+          "pos": 348,
+          "code": "\\n"
+        }
+      ],
+      "pages": 10,
+      "lines_per_page": [
+        3,
+        3,
+        3,
+        3,
+        2,
+        3,
+        2,
+        3,
+        3,
+        2
+      ],
+      "max_line_len": 20,
+      "source_sha256": "0f66e0b3e935f84c22362be425ea68eca9c72b856ef03c21f95052111fb54990",
+      "current_translation": "DRAGOON\n...Eres... muy... fuerte... X...\fX\nQué desperdicio... ¿Por qué, Dragoon?\fDRAGOON\n...Siempre... quise... luchar... contigo.\fDRAGOON\n...Entonces... él... apareció... y...\fX\n¿Él? ¡¿Quién?!\fDRAGOON\nMe dijo que me uniera a Repliforce...\fDRAGOON\n...para obligarte a luchar conmigo...\fX\n¿Hiciste todo esto solo para enfrentarme?\fDRAGOON\n...Valió la pena... por un último duelo...\fX\n¡¡¡Dragoon!!!"
+    },
+    {
+      "id": "dialogue.x.013",
+      "source": "STINGRAY\nI'm impressed that\nyou found me...\fSTINGRAY\nBut your search is\nover. Get ready X!",
+      "chars": 90,
+      "control_codes": [
+        {
+          "pos": 8,
+          "code": "\\n"
+        },
+        {
+          "pos": 27,
+          "code": "\\n"
+        },
+        {
+          "pos": 43,
+          "code": "\\f"
+        },
+        {
+          "pos": 52,
+          "code": "\\n"
+        },
+        {
+          "pos": 71,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 18,
+      "source_sha256": "a3386928692a2da4c7d8226b0c66d40d0dc4a2b3e30c4136a049719f34713c22",
+      "current_translation": "STINGRAY\nMe impresiona que me hayas encontrado...\fSTINGRAY\nTu búsqueda terminó. ¡Prepárate, X!"
+    },
+    {
+      "id": "dialogue.x.014",
+      "source": "PEACOCK\nHis potential...\nis limitless?!\fPEACOCK\n...not possible.\fX\nWho are you?\nWhy are you doing\fX\nthis to me?\fPEACOCK\nI was ordered to\ntest your abilities.\fPEACOCK\nIt's quite simple.\fX\nWhat!?\fPEACOCK\nPrepare yourself!",
+      "chars": 219,
+      "control_codes": [
+        {
+          "pos": 7,
+          "code": "\\n"
+        },
+        {
+          "pos": 24,
+          "code": "\\n"
+        },
+        {
+          "pos": 39,
+          "code": "\\f"
+        },
+        {
+          "pos": 47,
+          "code": "\\n"
+        },
+        {
+          "pos": 64,
+          "code": "\\f"
+        },
+        {
+          "pos": 66,
+          "code": "\\n"
+        },
+        {
+          "pos": 79,
+          "code": "\\n"
+        },
+        {
+          "pos": 97,
+          "code": "\\f"
+        },
+        {
+          "pos": 99,
+          "code": "\\n"
+        },
+        {
+          "pos": 111,
+          "code": "\\f"
+        },
+        {
+          "pos": 119,
+          "code": "\\n"
+        },
+        {
+          "pos": 136,
+          "code": "\\n"
+        },
+        {
+          "pos": 157,
+          "code": "\\f"
+        },
+        {
+          "pos": 165,
+          "code": "\\n"
+        },
+        {
+          "pos": 184,
+          "code": "\\f"
+        },
+        {
+          "pos": 186,
+          "code": "\\n"
+        },
+        {
+          "pos": 193,
+          "code": "\\f"
+        },
+        {
+          "pos": 201,
+          "code": "\\n"
+        }
+      ],
+      "pages": 8,
+      "lines_per_page": [
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        2
+      ],
+      "max_line_len": 20,
+      "source_sha256": "63646aad6848fdff926aaaead0f0cff206a3b88b792a030c2506a2ed80f2d7d5",
+      "current_translation": "PEACOCK\n¿Su potencial... es ilimitado?\fPEACOCK\n...Imposible.\fX\n¿Quién eres? ¿Por qué me haces esto?\fPEACOCK\nMe ordenaron poner a prueba tus aptitudes.\fPEACOCK\nEs muy sencillo.\fX\n¡¿Qué?!\fPEACOCK\n¡Prepárate!"
+    },
+    {
+      "id": "dialogue.x.015",
+      "source": "OWL\nHow dare you\ndestroy my unit!\fOWL\nYou'll pay for this\nwith your life!",
+      "chars": 73,
+      "control_codes": [
+        {
+          "pos": 3,
+          "code": "\\n"
+        },
+        {
+          "pos": 16,
+          "code": "\\n"
+        },
+        {
+          "pos": 33,
+          "code": "\\f"
+        },
+        {
+          "pos": 37,
+          "code": "\\n"
+        },
+        {
+          "pos": 57,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "f129c71359d2430a64af95362df01ac4de246d64d8c0c2f7634c8722c330e025",
+      "current_translation": "OWL\n¡¿Cómo te atreves a destruir mi unidad?!\fOWL\n¡Pagarás por ello con tu vida!"
+    },
+    {
+      "id": "dialogue.x.016",
+      "source": "BEAST\nChallenging my unit\nwas both foolish\fBEAST\nand reckless!\fBEAST\nYou are nothing more\nthan my prey...\fBEAST\nOne that is soon to\nbe retired!",
+      "chars": 143,
+      "control_codes": [
+        {
+          "pos": 5,
+          "code": "\\n"
+        },
+        {
+          "pos": 25,
+          "code": "\\n"
+        },
+        {
+          "pos": 42,
+          "code": "\\f"
+        },
+        {
+          "pos": 48,
+          "code": "\\n"
+        },
+        {
+          "pos": 62,
+          "code": "\\f"
+        },
+        {
+          "pos": 68,
+          "code": "\\n"
+        },
+        {
+          "pos": 89,
+          "code": "\\n"
+        },
+        {
+          "pos": 105,
+          "code": "\\f"
+        },
+        {
+          "pos": 111,
+          "code": "\\n"
+        },
+        {
+          "pos": 131,
+          "code": "\\n"
+        }
+      ],
+      "pages": 4,
+      "lines_per_page": [
+        3,
+        2,
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "1f5cdc3310f9f5778b25e8b934cc351b4f013284fac28f5fb3d4b2fb9bac566a",
+      "current_translation": "BEAST\n¡Desafiar a mi unidad fue una imprudencia!\fBEAST\n¡Y una estupidez!\fBEAST\nNo eres más que mi presa...\fBEAST\n¡Una presa que pronto dejará de existir!"
+    },
+    {
+      "id": "dialogue.x.017",
+      "source": "LIGHTNING WEB\nFires a spider net\ncharged with\felectricity. Can be\nused to attack,\nwall jump or double\fjump.",
+      "chars": 107,
+      "control_codes": [
+        {
+          "pos": 13,
+          "code": "\\n"
+        },
+        {
+          "pos": 32,
+          "code": "\\n"
+        },
+        {
+          "pos": 45,
+          "code": "\\f"
+        },
+        {
+          "pos": 65,
+          "code": "\\n"
+        },
+        {
+          "pos": 81,
+          "code": "\\n"
+        },
+        {
+          "pos": 101,
+          "code": "\\f"
+        }
+      ],
+      "pages": 3,
+      "lines_per_page": [
+        3,
+        3,
+        1
+      ],
+      "max_line_len": 19,
+      "source_sha256": "7c8693761d55e1334c7a4d3a6a12c60c0dff8d6ee18d3e20b89da3fa48afd787",
+      "current_translation": "LIGHTNING WEB\nDispara una telaraña cargada de energía.\fSirve para atacar, saltar en paredes o dar un doble salto."
+    },
+    {
+      "id": "dialogue.x.018",
+      "source": "FROST TOWER\nGenerates a huge ice\nblock that acts as a\fshield. May also be\nused to trap enemies\nbefore dissipating.",
+      "chars": 114,
+      "control_codes": [
+        {
+          "pos": 11,
+          "code": "\\n"
+        },
+        {
+          "pos": 32,
+          "code": "\\n"
+        },
+        {
+          "pos": 53,
+          "code": "\\f"
+        },
+        {
+          "pos": 73,
+          "code": "\\n"
+        },
+        {
+          "pos": 94,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "02b8f5b0ac7ba46063e6257b30cd8335da8066e046f7f0772e0ecddb802917cb",
+      "current_translation": "FROST TOWER\nCrea un enorme bloque de hielo como escudo.\fTambién puede atrapar enemigos antes de desaparecer."
+    },
+    {
+      "id": "dialogue.x.019",
+      "source": "SOUL BODY\nAccumulates energy\nand generates an\fillusion. Enemies\nwill sustain damage\nif struck by the\fsoul energy.\nRequires high energy\nexpenditures however\fand will eventually\ndissipate in time\nor if it sustains\fheavy damage.",
+      "chars": 225,
+      "control_codes": [
+        {
+          "pos": 9,
+          "code": "\\n"
+        },
+        {
+          "pos": 28,
+          "code": "\\n"
+        },
+        {
+          "pos": 45,
+          "code": "\\f"
+        },
+        {
+          "pos": 63,
+          "code": "\\n"
+        },
+        {
+          "pos": 83,
+          "code": "\\n"
+        },
+        {
+          "pos": 100,
+          "code": "\\f"
+        },
+        {
+          "pos": 113,
+          "code": "\\n"
+        },
+        {
+          "pos": 134,
+          "code": "\\n"
+        },
+        {
+          "pos": 155,
+          "code": "\\f"
+        },
+        {
+          "pos": 175,
+          "code": "\\n"
+        },
+        {
+          "pos": 193,
+          "code": "\\n"
+        },
+        {
+          "pos": 211,
+          "code": "\\f"
+        }
+      ],
+      "pages": 5,
+      "lines_per_page": [
+        3,
+        3,
+        3,
+        3,
+        1
+      ],
+      "max_line_len": 20,
+      "source_sha256": "fcd3cf0615215527610db153ad5466223720929e28272d0ba19c1fe6bd714f4e",
+      "current_translation": "SOUL BODY\nAcumula energía y crea una ilusión.\fLos enemigos reciben daño al tocar la energía del alma.\fConsume mucha energía.\fDesaparece con el tiempo o al recibir mucho daño."
+    },
+    {
+      "id": "dialogue.x.020",
+      "source": "RISING FIRE\nShoots fire energy\nvertically.\fEffective against\nall airborne\nenemies.\fSome objects may be\nburned by this\nattack as well.",
+      "chars": 133,
+      "control_codes": [
+        {
+          "pos": 11,
+          "code": "\\n"
+        },
+        {
+          "pos": 30,
+          "code": "\\n"
+        },
+        {
+          "pos": 42,
+          "code": "\\f"
+        },
+        {
+          "pos": 60,
+          "code": "\\n"
+        },
+        {
+          "pos": 73,
+          "code": "\\n"
+        },
+        {
+          "pos": 82,
+          "code": "\\f"
+        },
+        {
+          "pos": 102,
+          "code": "\\n"
+        },
+        {
+          "pos": 117,
+          "code": "\\n"
+        }
+      ],
+      "pages": 3,
+      "lines_per_page": [
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "8c7886990dbdd524982502690003f80e3041be5c404f93cea4e4eb78b6092f22",
+      "current_translation": "RISING FIRE\nDispara fuego hacia arriba.\fEs eficaz contra enemigos aéreos.\fTambién permite quemar ciertos objetos."
+    },
+    {
+      "id": "dialogue.x.021",
+      "source": "GROUND HUNTER\nFires mini Stingray\ndrones that race\facross the ground.\nEffective against\nenemies on walls\fand floors.\nPush Down while\nthe Stingray \fdrones are flying\nto command them to\nfall.",
+      "chars": 189,
+      "control_codes": [
+        {
+          "pos": 13,
+          "code": "\\n"
+        },
+        {
+          "pos": 33,
+          "code": "\\n"
+        },
+        {
+          "pos": 50,
+          "code": "\\f"
+        },
+        {
+          "pos": 69,
+          "code": "\\n"
+        },
+        {
+          "pos": 87,
+          "code": "\\n"
+        },
+        {
+          "pos": 104,
+          "code": "\\f"
+        },
+        {
+          "pos": 116,
+          "code": "\\n"
+        },
+        {
+          "pos": 132,
+          "code": "\\n"
+        },
+        {
+          "pos": 146,
+          "code": "\\f"
+        },
+        {
+          "pos": 164,
+          "code": "\\n"
+        },
+        {
+          "pos": 183,
+          "code": "\\n"
+        }
+      ],
+      "pages": 4,
+      "lines_per_page": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "74fe1961b49b887248ee1f37d5febf1f361176c44b90588fc53a89378bd32c32",
+      "current_translation": "GROUND HUNTER\nDispara pequeños drones Stingray.\fRecorren el suelo y atacan a enemigos en paredes y pisos.\fPulsa Abajo durante el vuelo del dron para hacerlo caer."
+    },
+    {
+      "id": "dialogue.x.022",
+      "source": "AIMING LASER\nMove the cursor to\nlock onto enemies.\fAttacks the enemy\nwith the aiming\nlaser.",
+      "chars": 91,
+      "control_codes": [
+        {
+          "pos": 12,
+          "code": "\\n"
+        },
+        {
+          "pos": 31,
+          "code": "\\n"
+        },
+        {
+          "pos": 50,
+          "code": "\\f"
+        },
+        {
+          "pos": 68,
+          "code": "\\n"
+        },
+        {
+          "pos": 84,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 18,
+      "source_sha256": "63af9ad8db842f7ce3355c2c778780ef4ea3d5e1993e9d8e5443b08d3e7f3ce3",
+      "current_translation": "AIMING LASER\nMueve el cursor para fijar enemigos.\fAtaca a los objetivos con un rayo láser."
+    },
+    {
+      "id": "dialogue.x.023",
+      "source": "DOUBLE CYCLONE\nFires vacuum\ncyclones left and\fright.\nMost effective when\nsurrounded by \fthe enemies and\nagainst skyborne\nenemies.",
+      "chars": 129,
+      "control_codes": [
+        {
+          "pos": 14,
+          "code": "\\n"
+        },
+        {
+          "pos": 27,
+          "code": "\\n"
+        },
+        {
+          "pos": 45,
+          "code": "\\f"
+        },
+        {
+          "pos": 52,
+          "code": "\\n"
+        },
+        {
+          "pos": 72,
+          "code": "\\n"
+        },
+        {
+          "pos": 87,
+          "code": "\\f"
+        },
+        {
+          "pos": 103,
+          "code": "\\n"
+        },
+        {
+          "pos": 120,
+          "code": "\\n"
+        }
+      ],
+      "pages": 3,
+      "lines_per_page": [
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "c2b83394b8d3d6811abcb74de8966dc40e3fe22209ff79dfd1421fb11a416bc3",
+      "current_translation": "DOUBLE CYCLONE\nDispara ciclones a izquierda y derecha.\fEs útil al estar rodeado de enemigos.\fTambién es eficaz contra blancos aéreos."
+    },
+    {
+      "id": "dialogue.x.024",
+      "source": "TWIN SLASHER\nShoots Twin Slashers\nforward in two\fdirections.\nThis weapon has wide\nrange capabilities\fmaking it easier to\nhit enemies.",
+      "chars": 133,
+      "control_codes": [
+        {
+          "pos": 12,
+          "code": "\\n"
+        },
+        {
+          "pos": 33,
+          "code": "\\n"
+        },
+        {
+          "pos": 48,
+          "code": "\\f"
+        },
+        {
+          "pos": 60,
+          "code": "\\n"
+        },
+        {
+          "pos": 81,
+          "code": "\\n"
+        },
+        {
+          "pos": 100,
+          "code": "\\f"
+        },
+        {
+          "pos": 120,
+          "code": "\\n"
+        }
+      ],
+      "pages": 3,
+      "lines_per_page": [
+        3,
+        3,
+        2
+      ],
+      "max_line_len": 20,
+      "source_sha256": "eddd0bf6befa62995d1470ef399ca03432a523994df9aa371c0bf2d9389760e9",
+      "current_translation": "TWIN SLASHER\nDispara dos cuchillas en distintas direcciones.\fSu amplio alcance facilita acertar a los enemigos."
+    },
+    {
+      "id": "dialogue.x.025",
+      "source": "DR. LIGHT\nThis battle\nshould never have\fDR. LIGHT\nhappened, X...\fDR. LIGHT\nWhy must Reploids\nfight each other?\fDR. LIGHT\nWhy do these peace\nkeepers persist in\fDR. LIGHT\nfighting each other?\fDR. LIGHT\nThis must be some\nsort of mistake...\fDR. LIGHT\nX, enter this\ncapsule.\fDR. LIGHT\nEquip with this to\ndiscover the truth.\fDR. LIGHT\nEquip with this boot\nmodule and jump\fDR. LIGHT\ntwice in the air to\nhover.\fDR. LIGHT\nYou can move either\nleft or right and\fDR. LIGHT\nwill remain airborne\nfor a few moments.\fDR. LIGHT\nIt is effective for\nnegotiating through\fDR. LIGHT\nhigher and more\ndangerous terrain.\fDR. LIGHT\nStop this tragic war\nas soon as possible,\fDR. LIGHT\nX.",
+      "chars": 660,
+      "control_codes": [
+        {
+          "pos": 9,
+          "code": "\\n"
+        },
+        {
+          "pos": 21,
+          "code": "\\n"
+        },
+        {
+          "pos": 39,
+          "code": "\\f"
+        },
+        {
+          "pos": 49,
+          "code": "\\n"
+        },
+        {
+          "pos": 64,
+          "code": "\\f"
+        },
+        {
+          "pos": 74,
+          "code": "\\n"
+        },
+        {
+          "pos": 92,
+          "code": "\\n"
+        },
+        {
+          "pos": 110,
+          "code": "\\f"
+        },
+        {
+          "pos": 120,
+          "code": "\\n"
+        },
+        {
+          "pos": 139,
+          "code": "\\n"
+        },
+        {
+          "pos": 158,
+          "code": "\\f"
+        },
+        {
+          "pos": 168,
+          "code": "\\n"
+        },
+        {
+          "pos": 189,
+          "code": "\\f"
+        },
+        {
+          "pos": 199,
+          "code": "\\n"
+        },
+        {
+          "pos": 217,
+          "code": "\\n"
+        },
+        {
+          "pos": 236,
+          "code": "\\f"
+        },
+        {
+          "pos": 246,
+          "code": "\\n"
+        },
+        {
+          "pos": 260,
+          "code": "\\n"
+        },
+        {
+          "pos": 269,
+          "code": "\\f"
+        },
+        {
+          "pos": 279,
+          "code": "\\n"
+        },
+        {
+          "pos": 298,
+          "code": "\\n"
+        },
+        {
+          "pos": 318,
+          "code": "\\f"
+        },
+        {
+          "pos": 328,
+          "code": "\\n"
+        },
+        {
+          "pos": 349,
+          "code": "\\n"
+        },
+        {
+          "pos": 365,
+          "code": "\\f"
+        },
+        {
+          "pos": 375,
+          "code": "\\n"
+        },
+        {
+          "pos": 395,
+          "code": "\\n"
+        },
+        {
+          "pos": 402,
+          "code": "\\f"
+        },
+        {
+          "pos": 412,
+          "code": "\\n"
+        },
+        {
+          "pos": 432,
+          "code": "\\n"
+        },
+        {
+          "pos": 450,
+          "code": "\\f"
+        },
+        {
+          "pos": 460,
+          "code": "\\n"
+        },
+        {
+          "pos": 481,
+          "code": "\\n"
+        },
+        {
+          "pos": 500,
+          "code": "\\f"
+        },
+        {
+          "pos": 510,
+          "code": "\\n"
+        },
+        {
+          "pos": 530,
+          "code": "\\n"
+        },
+        {
+          "pos": 550,
+          "code": "\\f"
+        },
+        {
+          "pos": 560,
+          "code": "\\n"
+        },
+        {
+          "pos": 576,
+          "code": "\\n"
+        },
+        {
+          "pos": 595,
+          "code": "\\f"
+        },
+        {
+          "pos": 605,
+          "code": "\\n"
+        },
+        {
+          "pos": 626,
+          "code": "\\n"
+        },
+        {
+          "pos": 647,
+          "code": "\\f"
+        },
+        {
+          "pos": 657,
+          "code": "\\n"
+        }
+      ],
+      "pages": 16,
+      "lines_per_page": [
+        3,
+        2,
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2
+      ],
+      "max_line_len": 20,
+      "source_sha256": "7059c157bcda5cf32f554753b20e360164bff157ab4240158b5a653300820f5b",
+      "current_translation": "DR. LIGHT\nEsta batalla jamás debió ocurrir, X...\fDR. LIGHT\n¿Por qué luchan los Reploids entre sí?\fDR. LIGHT\n¿Por qué quienes velan por la paz...\fDR. LIGHT\n...siguen luchando entre ellos?\fDR. LIGHT\nTodo esto debe ser un error...\fDR. LIGHT\nX, entra en esta cápsula.\fDR. LIGHT\nUsa este equipo para descubrir la verdad.\fDR. LIGHT\nCon este módulo de piernas...\fDR. LIGHT\n...salta dos veces para flotar en el aire.\fDR. LIGHT\nPuedes desplazarte a izquierda y derecha.\fDR. LIGHT\nPermanecerás en el aire unos instantes.\fDR. LIGHT\nTe servirá para cruzar zonas...\fDR. LIGHT\n...más altas y peligrosas.\fDR. LIGHT\nDetén esta guerra trágica cuanto antes...\fDR. LIGHT\nX."
+    },
+    {
+      "id": "dialogue.x.026",
+      "source": "DR. LIGHT\nI'm giving you a new\nhead module, X.\fDR. LIGHT\nThis module will\nimprove your\fDR. LIGHT\nspecial weapons\nabilities. It should\fDR. LIGHT\nreduce your special\nweapon energy\fDR. LIGHT\nrequirements to near\nzero.\fDR. LIGHT\nYou may now use your\nspecial weapons as\fDR. LIGHT\noften as you want.",
+      "chars": 293,
+      "control_codes": [
+        {
+          "pos": 9,
+          "code": "\\n"
+        },
+        {
+          "pos": 30,
+          "code": "\\n"
+        },
+        {
+          "pos": 46,
+          "code": "\\f"
+        },
+        {
+          "pos": 56,
+          "code": "\\n"
+        },
+        {
+          "pos": 73,
+          "code": "\\n"
+        },
+        {
+          "pos": 86,
+          "code": "\\f"
+        },
+        {
+          "pos": 96,
+          "code": "\\n"
+        },
+        {
+          "pos": 112,
+          "code": "\\n"
+        },
+        {
+          "pos": 133,
+          "code": "\\f"
+        },
+        {
+          "pos": 143,
+          "code": "\\n"
+        },
+        {
+          "pos": 163,
+          "code": "\\n"
+        },
+        {
+          "pos": 177,
+          "code": "\\f"
+        },
+        {
+          "pos": 187,
+          "code": "\\n"
+        },
+        {
+          "pos": 208,
+          "code": "\\n"
+        },
+        {
+          "pos": 214,
+          "code": "\\f"
+        },
+        {
+          "pos": 224,
+          "code": "\\n"
+        },
+        {
+          "pos": 245,
+          "code": "\\n"
+        },
+        {
+          "pos": 264,
+          "code": "\\f"
+        },
+        {
+          "pos": 274,
+          "code": "\\n"
+        }
+      ],
+      "pages": 7,
+      "lines_per_page": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2
+      ],
+      "max_line_len": 20,
+      "source_sha256": "8494f735f924db395ad90624a0cf56c294a10313c43f9f1a517262e7b008f8b3",
+      "current_translation": "DR. LIGHT\nTe daré un nuevo módulo de cabeza, X.\fDR. LIGHT\nEste módulo mejora tus armas especiales.\fDR. LIGHT\nReducirá su consumo de energía...\fDR. LIGHT\n...hasta dejarlo casi en cero.\fDR. LIGHT\nPodrás usar tus armas especiales...\fDR. LIGHT\n...tantas veces como quieras."
+    },
+    {
+      "id": "dialogue.x.027",
+      "source": "DR. LIGHT\nEquip with this new\nbody module, X.\fDR. LIGHT\nThis body part\nabsorbs damage\fDR. LIGHT\ninflicted by enemies\nand will gradually\fDR. LIGHT\naccumulate within.\fDR. LIGHT\nWhen it is filled to\ncapacity with energy\fDR. LIGHT\nyou can execute the\ninvincible Nova\fDR. LIGHT\nStrike.\fDR. LIGHT\nHowever, a single\nuse will consume all\fDR. LIGHT\nyour energy stores,\nso use it only\fDR. LIGHT\nto pull through\ntight situations.",
+      "chars": 418,
+      "control_codes": [
+        {
+          "pos": 9,
+          "code": "\\n"
+        },
+        {
+          "pos": 29,
+          "code": "\\n"
+        },
+        {
+          "pos": 45,
+          "code": "\\f"
+        },
+        {
+          "pos": 55,
+          "code": "\\n"
+        },
+        {
+          "pos": 70,
+          "code": "\\n"
+        },
+        {
+          "pos": 85,
+          "code": "\\f"
+        },
+        {
+          "pos": 95,
+          "code": "\\n"
+        },
+        {
+          "pos": 116,
+          "code": "\\n"
+        },
+        {
+          "pos": 135,
+          "code": "\\f"
+        },
+        {
+          "pos": 145,
+          "code": "\\n"
+        },
+        {
+          "pos": 164,
+          "code": "\\f"
+        },
+        {
+          "pos": 174,
+          "code": "\\n"
+        },
+        {
+          "pos": 195,
+          "code": "\\n"
+        },
+        {
+          "pos": 216,
+          "code": "\\f"
+        },
+        {
+          "pos": 226,
+          "code": "\\n"
+        },
+        {
+          "pos": 246,
+          "code": "\\n"
+        },
+        {
+          "pos": 262,
+          "code": "\\f"
+        },
+        {
+          "pos": 272,
+          "code": "\\n"
+        },
+        {
+          "pos": 280,
+          "code": "\\f"
+        },
+        {
+          "pos": 290,
+          "code": "\\n"
+        },
+        {
+          "pos": 308,
+          "code": "\\n"
+        },
+        {
+          "pos": 329,
+          "code": "\\f"
+        },
+        {
+          "pos": 339,
+          "code": "\\n"
+        },
+        {
+          "pos": 359,
+          "code": "\\n"
+        },
+        {
+          "pos": 374,
+          "code": "\\f"
+        },
+        {
+          "pos": 384,
+          "code": "\\n"
+        },
+        {
+          "pos": 400,
+          "code": "\\n"
+        }
+      ],
+      "pages": 10,
+      "lines_per_page": [
+        3,
+        3,
+        3,
+        2,
+        3,
+        3,
+        2,
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "4aadf4fe0dea848010f9acd82836b00e01779a482346a597eec11be129e50bcd",
+      "current_translation": "DR. LIGHT\nEquipa este nuevo módulo de cuerpo, X.\fDR. LIGHT\nEsta pieza absorbe el daño enemigo...\fDR. LIGHT\n...y acumula poco a poco esa energía.\fDR. LIGHT\nCuando se llene...\fDR. LIGHT\n...podrás ejecutar el Nova Strike.\fDR. LIGHT\n¡Es un ataque invencible!\fDR. LIGHT\nSin embargo, un solo uso...\fDR. LIGHT\n...consumirá toda la energía acumulada.\fDR. LIGHT\nÚsalo para salir de situaciones difíciles."
+    },
+    {
+      "id": "dialogue.x.028",
+      "source": "DR. LIGHT\nWith this arm part,\nyou can fire the\fDR. LIGHT\nPlasma Shot which is\neffective against\fDR. LIGHT\nstronger enemies.\fDR. LIGHT\nIf the shot hits the\nopponent, plasma is\fDR. LIGHT\ngenerated which\nwill cause\fDR. LIGHT\nadditional damage\nto the enemy.\fDR. LIGHT\nThis arm module is\nchangeable.\fDR. LIGHT\nEnter this capsule\nto change parts.",
+      "chars": 340,
+      "control_codes": [
+        {
+          "pos": 9,
+          "code": "\\n"
+        },
+        {
+          "pos": 29,
+          "code": "\\n"
+        },
+        {
+          "pos": 46,
+          "code": "\\f"
+        },
+        {
+          "pos": 56,
+          "code": "\\n"
+        },
+        {
+          "pos": 77,
+          "code": "\\n"
+        },
+        {
+          "pos": 95,
+          "code": "\\f"
+        },
+        {
+          "pos": 105,
+          "code": "\\n"
+        },
+        {
+          "pos": 123,
+          "code": "\\f"
+        },
+        {
+          "pos": 133,
+          "code": "\\n"
+        },
+        {
+          "pos": 154,
+          "code": "\\n"
+        },
+        {
+          "pos": 174,
+          "code": "\\f"
+        },
+        {
+          "pos": 184,
+          "code": "\\n"
+        },
+        {
+          "pos": 200,
+          "code": "\\n"
+        },
+        {
+          "pos": 211,
+          "code": "\\f"
+        },
+        {
+          "pos": 221,
+          "code": "\\n"
+        },
+        {
+          "pos": 239,
+          "code": "\\n"
+        },
+        {
+          "pos": 253,
+          "code": "\\f"
+        },
+        {
+          "pos": 263,
+          "code": "\\n"
+        },
+        {
+          "pos": 282,
+          "code": "\\n"
+        },
+        {
+          "pos": 294,
+          "code": "\\f"
+        },
+        {
+          "pos": 304,
+          "code": "\\n"
+        },
+        {
+          "pos": 323,
+          "code": "\\n"
+        }
+      ],
+      "pages": 8,
+      "lines_per_page": [
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "f5d0edd37ba85209b8c2b6308647f2e7e1ca32afa0950bfd41caff529a68cbc4",
+      "current_translation": "DR. LIGHT\nCon esta pieza de brazos podrás...\fDR. LIGHT\n...disparar Plasma Shot, eficaz...\fDR. LIGHT\n...contra enemigos resistentes.\fDR. LIGHT\nAl golpear al enemigo, el disparo...\fDR. LIGHT\n...genera plasma que le causa...\fDR. LIGHT\n...daño adicional.\fDR. LIGHT\nPuedes cambiar este módulo de brazos.\fDR. LIGHT\nEntra en la cápsula para cambiarlo."
+    },
+    {
+      "id": "dialogue.x.029",
+      "source": "DR. LIGHT\nYou can charge up to\nfour blasts at\fDR. LIGHT\na time with this arm\nmodule.\fDR. LIGHT\nIt takes a while to\ncharge, but you\fDR. LIGHT\ncan fire a charged\nshot at any time you\fDR. LIGHT\nso wish with it.\fDR. LIGHT\nThis arm module is\nalso changeable.\fDR. LIGHT\nEnter this capsule\nto change parts.",
+      "chars": 299,
+      "control_codes": [
+        {
+          "pos": 9,
+          "code": "\\n"
+        },
+        {
+          "pos": 30,
+          "code": "\\n"
+        },
+        {
+          "pos": 45,
+          "code": "\\f"
+        },
+        {
+          "pos": 55,
+          "code": "\\n"
+        },
+        {
+          "pos": 76,
+          "code": "\\n"
+        },
+        {
+          "pos": 84,
+          "code": "\\f"
+        },
+        {
+          "pos": 94,
+          "code": "\\n"
+        },
+        {
+          "pos": 114,
+          "code": "\\n"
+        },
+        {
+          "pos": 130,
+          "code": "\\f"
+        },
+        {
+          "pos": 140,
+          "code": "\\n"
+        },
+        {
+          "pos": 159,
+          "code": "\\n"
+        },
+        {
+          "pos": 180,
+          "code": "\\f"
+        },
+        {
+          "pos": 190,
+          "code": "\\n"
+        },
+        {
+          "pos": 207,
+          "code": "\\f"
+        },
+        {
+          "pos": 217,
+          "code": "\\n"
+        },
+        {
+          "pos": 236,
+          "code": "\\n"
+        },
+        {
+          "pos": 253,
+          "code": "\\f"
+        },
+        {
+          "pos": 263,
+          "code": "\\n"
+        },
+        {
+          "pos": 282,
+          "code": "\\n"
+        }
+      ],
+      "pages": 7,
+      "lines_per_page": [
+        3,
+        3,
+        3,
+        3,
+        2,
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "0bfa14dc6a97552fd1f659c1d49ffde37fc719a61c615a026f28cac4452ed8ed",
+      "current_translation": "DR. LIGHT\nCon este módulo puedes cargar...\fDR. LIGHT\n...hasta cuatro disparos a la vez.\fDR. LIGHT\nLa carga tarda un poco...\fDR. LIGHT\n...pero puedes lanzar un disparo cargado...\fDR. LIGHT\n...cuando lo necesites.\fDR. LIGHT\nEste módulo de brazos también se cambia.\fDR. LIGHT\nEntra en la cápsula para cambiarlo."
+    },
+    {
+      "id": "dialogue.x.030",
+      "source": "HUNTER H.Q.\nMavericks have been\nfound at point 5567!\fHUNTER H.Q.\nThe Mavericks\noccupied the Sky\fHUNTER H.Q.\nLagoon using the\nmost advanced\fHUNTER H.Q.\nweapons available!\fHUNTER H.Q.\nThe army appears to\nbe the Repliforce!\fX\nRoger that.\nI'm on my way now!",
+      "chars": 253,
+      "control_codes": [
+        {
+          "pos": 11,
+          "code": "\\n"
+        },
+        {
+          "pos": 31,
+          "code": "\\n"
+        },
+        {
+          "pos": 52,
+          "code": "\\f"
+        },
+        {
+          "pos": 64,
+          "code": "\\n"
+        },
+        {
+          "pos": 78,
+          "code": "\\n"
+        },
+        {
+          "pos": 95,
+          "code": "\\f"
+        },
+        {
+          "pos": 107,
+          "code": "\\n"
+        },
+        {
+          "pos": 124,
+          "code": "\\n"
+        },
+        {
+          "pos": 138,
+          "code": "\\f"
+        },
+        {
+          "pos": 150,
+          "code": "\\n"
+        },
+        {
+          "pos": 169,
+          "code": "\\f"
+        },
+        {
+          "pos": 181,
+          "code": "\\n"
+        },
+        {
+          "pos": 201,
+          "code": "\\n"
+        },
+        {
+          "pos": 220,
+          "code": "\\f"
+        },
+        {
+          "pos": 222,
+          "code": "\\n"
+        },
+        {
+          "pos": 234,
+          "code": "\\n"
+        }
+      ],
+      "pages": 6,
+      "lines_per_page": [
+        3,
+        3,
+        3,
+        2,
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "93fde6bab2d9e8fb5587b7e1117f0a6b3ea022421042ef4951b036be2d0474a5",
+      "current_translation": "CUARTEL\n¡Hay Mavericks en el punto 5567!\fCUARTEL\n¡Los Mavericks han ocupado Sky Lagoon!\fCUARTEL\n¡Disponen de armas muy avanzadas!\fCUARTEL\n¡El ejército parece ser Repliforce!\fX\nEntendido. ¡Voy para allá!"
+    },
+    {
+      "id": "dialogue.x.031",
+      "source": "X\n...Who are you?\fCOLONEL\nI'm the Colonel\nof the Repliforce.\fX\nHas the Repliforce\nbeen occupying this\fX\narea?\fCOLONEL\nWhat are you talking\nabout!? I only came\fCOLONEL\nto save my sister.\fCOLONEL\nThe army responsible\nfor all the violence\fCOLONEL\nin this region is\nnot the Repliforce!\fX\nNevertheless, I want\nyou to disarm and\fX\nfollow me back to\nthe H.Q.\fCOLONEL\nNever!\nYou're asking my\fCOLONEL\nsoldiers to drop\ntheir weapons?\fCOLONEL\nThe only time we\ndrop our weapons is\fCOLONEL\nwhen we aren't able\nto fight any longer!\fX\nBut you will be\nregarded a Maverick\fX\nand treated as such.\fCOLONEL\nDo as you will!\nThe Repliforce\fCOLONEL\nwould sooner fight\nand die than discard\fCOLONEL\nour pride!\fCOLONEL\nConsider us\nMavericks if this is\fCOLONEL\nwhat you wish!\fX\nWait! Calm down\nColonel!",
+      "chars": 775,
+      "control_codes": [
+        {
+          "pos": 1,
+          "code": "\\n"
+        },
+        {
+          "pos": 17,
+          "code": "\\f"
+        },
+        {
+          "pos": 25,
+          "code": "\\n"
+        },
+        {
+          "pos": 41,
+          "code": "\\n"
+        },
+        {
+          "pos": 60,
+          "code": "\\f"
+        },
+        {
+          "pos": 62,
+          "code": "\\n"
+        },
+        {
+          "pos": 81,
+          "code": "\\n"
+        },
+        {
+          "pos": 101,
+          "code": "\\f"
+        },
+        {
+          "pos": 103,
+          "code": "\\n"
+        },
+        {
+          "pos": 109,
+          "code": "\\f"
+        },
+        {
+          "pos": 117,
+          "code": "\\n"
+        },
+        {
+          "pos": 138,
+          "code": "\\n"
+        },
+        {
+          "pos": 158,
+          "code": "\\f"
+        },
+        {
+          "pos": 166,
+          "code": "\\n"
+        },
+        {
+          "pos": 185,
+          "code": "\\f"
+        },
+        {
+          "pos": 193,
+          "code": "\\n"
+        },
+        {
+          "pos": 214,
+          "code": "\\n"
+        },
+        {
+          "pos": 235,
+          "code": "\\f"
+        },
+        {
+          "pos": 243,
+          "code": "\\n"
+        },
+        {
+          "pos": 261,
+          "code": "\\n"
+        },
+        {
+          "pos": 281,
+          "code": "\\f"
+        },
+        {
+          "pos": 283,
+          "code": "\\n"
+        },
+        {
+          "pos": 304,
+          "code": "\\n"
+        },
+        {
+          "pos": 322,
+          "code": "\\f"
+        },
+        {
+          "pos": 324,
+          "code": "\\n"
+        },
+        {
+          "pos": 342,
+          "code": "\\n"
+        },
+        {
+          "pos": 351,
+          "code": "\\f"
+        },
+        {
+          "pos": 359,
+          "code": "\\n"
+        },
+        {
+          "pos": 366,
+          "code": "\\n"
+        },
+        {
+          "pos": 383,
+          "code": "\\f"
+        },
+        {
+          "pos": 391,
+          "code": "\\n"
+        },
+        {
+          "pos": 408,
+          "code": "\\n"
+        },
+        {
+          "pos": 423,
+          "code": "\\f"
+        },
+        {
+          "pos": 431,
+          "code": "\\n"
+        },
+        {
+          "pos": 448,
+          "code": "\\n"
+        },
+        {
+          "pos": 468,
+          "code": "\\f"
+        },
+        {
+          "pos": 476,
+          "code": "\\n"
+        },
+        {
+          "pos": 496,
+          "code": "\\n"
+        },
+        {
+          "pos": 517,
+          "code": "\\f"
+        },
+        {
+          "pos": 519,
+          "code": "\\n"
+        },
+        {
+          "pos": 535,
+          "code": "\\n"
+        },
+        {
+          "pos": 555,
+          "code": "\\f"
+        },
+        {
+          "pos": 557,
+          "code": "\\n"
+        },
+        {
+          "pos": 578,
+          "code": "\\f"
+        },
+        {
+          "pos": 586,
+          "code": "\\n"
+        },
+        {
+          "pos": 602,
+          "code": "\\n"
+        },
+        {
+          "pos": 617,
+          "code": "\\f"
+        },
+        {
+          "pos": 625,
+          "code": "\\n"
+        },
+        {
+          "pos": 644,
+          "code": "\\n"
+        },
+        {
+          "pos": 665,
+          "code": "\\f"
+        },
+        {
+          "pos": 673,
+          "code": "\\n"
+        },
+        {
+          "pos": 684,
+          "code": "\\f"
+        },
+        {
+          "pos": 692,
+          "code": "\\n"
+        },
+        {
+          "pos": 704,
+          "code": "\\n"
+        },
+        {
+          "pos": 725,
+          "code": "\\f"
+        },
+        {
+          "pos": 733,
+          "code": "\\n"
+        },
+        {
+          "pos": 748,
+          "code": "\\f"
+        },
+        {
+          "pos": 750,
+          "code": "\\n"
+        },
+        {
+          "pos": 766,
+          "code": "\\n"
+        }
+      ],
+      "pages": 22,
+      "lines_per_page": [
+        2,
+        3,
+        3,
+        2,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        3,
+        3,
+        2,
+        3,
+        2,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "bb834089e0ce901d9ba36caf559279a98f8c1b85c4a4f9aa314fb38a2dded29a",
+      "current_translation": "X\n...¿Quién eres?\fCOLONEL\nSoy Colonel, de Repliforce.\fX\n¿Repliforce ha ocupado esta zona?\fCOLONEL\n¡¿De qué hablas?! Solo vine...\fCOLONEL\n...a rescatar a mi hermana.\fCOLONEL\nEl ejército que sembró la violencia...\fCOLONEL\n...aquí no es Repliforce.\fX\nAun así, depón las armas...\fX\n...y acompáñame al cuartel.\fCOLONEL\n¡Jamás! ¿Pides que mis soldados...\fCOLONEL\n...entreguen sus armas?\fCOLONEL\n¡Solo las dejaremos cuando...\fCOLONEL\n...ya no podamos combatir!\fX\nEntonces serán declarados Mavericks...\fX\n...y tratados como tales.\fCOLONEL\n¡Haz lo que quieras! ¡Repliforce...\fCOLONEL\n...prefiere luchar y morir...\fCOLONEL\n...antes que perder su orgullo!\fCOLONEL\n¡Llámanos Mavericks si eso deseas!\fX\n¡Espera! ¡Cálmate, Colonel!"
+    },
+    {
+      "id": "dialogue.x.032",
+      "source": "X\n...Who are you?\fDOUBLE\nCall me Double,\nthe rookie hunter.\fDOUBLE\nMy liege, the\nRepliforce has\fDOUBLE\nbegun it's coup!\fX\n...Wait! ...Colonel,\nyou're jumping to\fX\nconclusions here!\fDOUBLE\nSir, you've been\ngiven the order to\fDOUBLE\nscramble!\fX\nRight. I'm leaving\nright now!",
+      "chars": 272,
+      "control_codes": [
+        {
+          "pos": 1,
+          "code": "\\n"
+        },
+        {
+          "pos": 17,
+          "code": "\\f"
+        },
+        {
+          "pos": 24,
+          "code": "\\n"
+        },
+        {
+          "pos": 40,
+          "code": "\\n"
+        },
+        {
+          "pos": 59,
+          "code": "\\f"
+        },
+        {
+          "pos": 66,
+          "code": "\\n"
+        },
+        {
+          "pos": 80,
+          "code": "\\n"
+        },
+        {
+          "pos": 95,
+          "code": "\\f"
+        },
+        {
+          "pos": 102,
+          "code": "\\n"
+        },
+        {
+          "pos": 119,
+          "code": "\\f"
+        },
+        {
+          "pos": 121,
+          "code": "\\n"
+        },
+        {
+          "pos": 142,
+          "code": "\\n"
+        },
+        {
+          "pos": 160,
+          "code": "\\f"
+        },
+        {
+          "pos": 162,
+          "code": "\\n"
+        },
+        {
+          "pos": 180,
+          "code": "\\f"
+        },
+        {
+          "pos": 187,
+          "code": "\\n"
+        },
+        {
+          "pos": 204,
+          "code": "\\n"
+        },
+        {
+          "pos": 223,
+          "code": "\\f"
+        },
+        {
+          "pos": 230,
+          "code": "\\n"
+        },
+        {
+          "pos": 240,
+          "code": "\\f"
+        },
+        {
+          "pos": 242,
+          "code": "\\n"
+        },
+        {
+          "pos": 261,
+          "code": "\\n"
+        }
+      ],
+      "pages": 9,
+      "lines_per_page": [
+        2,
+        3,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "7e78fc92b4c92af96d616f7ee42a313754880d40e39e726e317254a8a8ec498a",
+      "current_translation": "X\n...¿Quién eres?\fDOUBLE\nMe llamo Double. Soy un cazador nuevo.\fDOUBLE\nSeñor, ¡Repliforce ha iniciado...\fDOUBLE\n...un golpe de estado!\fX\n¡Espera, Colonel! ¡Te estás...\fX\n...precipitando!\fDOUBLE\n¡Señor, tiene órdenes de salir...\fDOUBLE\n...de inmediato!\fX\nBien. ¡Me voy ahora mismo!"
+    },
+    {
+      "id": "dialogue.x.033",
+      "source": "DOUBLE\nSir, it's a\nmessage from\fDOUBLE\nthe Colonel!\fCOLONEL\nX! I'll wait for you\nat Memorial Hall.\fCOLONEL\nMake sure you show\nup on time!\fDOUBLE\nSir, this must\nbe a trap!\fX\n...Perhaps. But I\nwon't run this time!",
+      "chars": 211,
+      "control_codes": [
+        {
+          "pos": 6,
+          "code": "\\n"
+        },
+        {
+          "pos": 18,
+          "code": "\\n"
+        },
+        {
+          "pos": 31,
+          "code": "\\f"
+        },
+        {
+          "pos": 38,
+          "code": "\\n"
+        },
+        {
+          "pos": 51,
+          "code": "\\f"
+        },
+        {
+          "pos": 59,
+          "code": "\\n"
+        },
+        {
+          "pos": 80,
+          "code": "\\n"
+        },
+        {
+          "pos": 98,
+          "code": "\\f"
+        },
+        {
+          "pos": 106,
+          "code": "\\n"
+        },
+        {
+          "pos": 125,
+          "code": "\\n"
+        },
+        {
+          "pos": 137,
+          "code": "\\f"
+        },
+        {
+          "pos": 144,
+          "code": "\\n"
+        },
+        {
+          "pos": 159,
+          "code": "\\n"
+        },
+        {
+          "pos": 170,
+          "code": "\\f"
+        },
+        {
+          "pos": 172,
+          "code": "\\n"
+        },
+        {
+          "pos": 190,
+          "code": "\\n"
+        }
+      ],
+      "pages": 6,
+      "lines_per_page": [
+        3,
+        2,
+        3,
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "4405a230f703a722164d43971e4a5b99c846bbe8b159c2ce3594e14b02803f3b",
+      "current_translation": "DOUBLE\n¡Señor, es un mensaje...\fDOUBLE\n...de Colonel!\fCOLONEL\n¡X! Te espero en Memorial Hall.\fCOLONEL\n¡No llegues tarde!\fDOUBLE\n¡Señor, debe de ser una trampa!\fX\nQuizá... ¡Pero esta vez no huiré!"
+    },
+    {
+      "id": "dialogue.x.034",
+      "source": "X\nColonel! Stop this\nfoolishness now!\fCOLONEL\n...Never!\fX\nColonel, please!\nThink this over!\fCOLONEL\nThe Repliforce\nmust be independent!\fCOLONEL\nOur battle will\ndetermine this!",
+      "chars": 175,
+      "control_codes": [
+        {
+          "pos": 1,
+          "code": "\\n"
+        },
+        {
+          "pos": 20,
+          "code": "\\n"
+        },
+        {
+          "pos": 37,
+          "code": "\\f"
+        },
+        {
+          "pos": 45,
+          "code": "\\n"
+        },
+        {
+          "pos": 55,
+          "code": "\\f"
+        },
+        {
+          "pos": 57,
+          "code": "\\n"
+        },
+        {
+          "pos": 74,
+          "code": "\\n"
+        },
+        {
+          "pos": 91,
+          "code": "\\f"
+        },
+        {
+          "pos": 99,
+          "code": "\\n"
+        },
+        {
+          "pos": 114,
+          "code": "\\n"
+        },
+        {
+          "pos": 135,
+          "code": "\\f"
+        },
+        {
+          "pos": 143,
+          "code": "\\n"
+        },
+        {
+          "pos": 159,
+          "code": "\\n"
+        }
+      ],
+      "pages": 5,
+      "lines_per_page": [
+        3,
+        2,
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "416a00c377047e72609666368afe6e88d358f9b6f5df5c8f24c5148649a0157e",
+      "current_translation": "X\n¡Colonel! ¡Detén esta locura!\fCOLONEL\n...¡Nunca!\fX\n¡Colonel, por favor! ¡Piénsalo bien!\fCOLONEL\n¡Repliforce debe ser independiente!\fCOLONEL\n¡Esta batalla lo decidirá!"
+    },
+    {
+      "id": "dialogue.x.035",
+      "source": "COLONEL\nImpressive! But the\nresult won't be the\fCOLONEL\nsame next time.\nUntil then...\fX\nColonel!",
+      "chars": 96,
+      "control_codes": [
+        {
+          "pos": 7,
+          "code": "\\n"
+        },
+        {
+          "pos": 27,
+          "code": "\\n"
+        },
+        {
+          "pos": 47,
+          "code": "\\f"
+        },
+        {
+          "pos": 55,
+          "code": "\\n"
+        },
+        {
+          "pos": 71,
+          "code": "\\n"
+        },
+        {
+          "pos": 85,
+          "code": "\\f"
+        },
+        {
+          "pos": 87,
+          "code": "\\n"
+        }
+      ],
+      "pages": 3,
+      "lines_per_page": [
+        3,
+        3,
+        2
+      ],
+      "max_line_len": 19,
+      "source_sha256": "532c7c1addd21a7e57574fec7dc66e6c8f29c3707ddd18d528d1c1c7e566b7af",
+      "current_translation": "COLONEL\n¡Impresionante! Pero la próxima...\fCOLONEL\n...vez será distinto. Hasta entonces...\fX\n¡Colonel!"
+    },
+    {
+      "id": "dialogue.x.036",
+      "source": "DOUBLE\nThe Repliforce has\nbegun assembling!\fX\nWhere are they?\fDOUBLE\nThe space port! They\nplan to take off\fDOUBLE\ninto space!\fX\nHurry! We have to\nstop the Colonel!",
+      "chars": 163,
+      "control_codes": [
+        {
+          "pos": 6,
+          "code": "\\n"
+        },
+        {
+          "pos": 25,
+          "code": "\\n"
+        },
+        {
+          "pos": 43,
+          "code": "\\f"
+        },
+        {
+          "pos": 45,
+          "code": "\\n"
+        },
+        {
+          "pos": 61,
+          "code": "\\f"
+        },
+        {
+          "pos": 68,
+          "code": "\\n"
+        },
+        {
+          "pos": 89,
+          "code": "\\n"
+        },
+        {
+          "pos": 106,
+          "code": "\\f"
+        },
+        {
+          "pos": 113,
+          "code": "\\n"
+        },
+        {
+          "pos": 125,
+          "code": "\\f"
+        },
+        {
+          "pos": 127,
+          "code": "\\n"
+        },
+        {
+          "pos": 145,
+          "code": "\\n"
+        }
+      ],
+      "pages": 5,
+      "lines_per_page": [
+        3,
+        2,
+        3,
+        2,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "0d55385ef3a7e7aec831e272ee8a56195c9fcc1e9ccd0c1a1ba587756b094c77",
+      "current_translation": "DOUBLE\n¡Repliforce está reuniendo sus tropas!\fX\n¿Dónde están?\fDOUBLE\n¡En el puerto espacial! ¡Quieren...\fDOUBLE\n...despegar al espacio!\fX\n¡Rápido! ¡Debemos detener a Colonel!"
+    },
+    {
+      "id": "dialogue.x.037",
+      "source": "X\nColonel, step back!\fCOLONEL\nI'll stop anyone who\ntries to interfere\fCOLONEL\nwith our\nindependence!\fX\nEnough of this! It's\nonly an illusion!\fCOLONEL\n...You hunters will\nnever be able to\fCOLONEL\nunderstand us!\fCOLONEL\nGet ready, X!",
+      "chars": 231,
+      "control_codes": [
+        {
+          "pos": 1,
+          "code": "\\n"
+        },
+        {
+          "pos": 21,
+          "code": "\\f"
+        },
+        {
+          "pos": 29,
+          "code": "\\n"
+        },
+        {
+          "pos": 50,
+          "code": "\\n"
+        },
+        {
+          "pos": 69,
+          "code": "\\f"
+        },
+        {
+          "pos": 77,
+          "code": "\\n"
+        },
+        {
+          "pos": 86,
+          "code": "\\n"
+        },
+        {
+          "pos": 100,
+          "code": "\\f"
+        },
+        {
+          "pos": 102,
+          "code": "\\n"
+        },
+        {
+          "pos": 123,
+          "code": "\\n"
+        },
+        {
+          "pos": 141,
+          "code": "\\f"
+        },
+        {
+          "pos": 149,
+          "code": "\\n"
+        },
+        {
+          "pos": 169,
+          "code": "\\n"
+        },
+        {
+          "pos": 186,
+          "code": "\\f"
+        },
+        {
+          "pos": 194,
+          "code": "\\n"
+        },
+        {
+          "pos": 209,
+          "code": "\\f"
+        },
+        {
+          "pos": 217,
+          "code": "\\n"
+        }
+      ],
+      "pages": 7,
+      "lines_per_page": [
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2
+      ],
+      "max_line_len": 20,
+      "source_sha256": "51fc43b032ada1cf4d48c934b8c5081ead908cff3b3e33e4907916e05c4d29a2",
+      "current_translation": "X\n¡Colonel, apártate!\fCOLONEL\n¡Detendré a quien intente impedir...\fCOLONEL\n...nuestra independencia!\fX\n¡Basta! ¡Eso es solo una ilusión!\fCOLONEL\n...¡Ustedes, los cazadores, jamás...\fCOLONEL\n...nos entenderán!\fCOLONEL\n¡Prepárate, X!"
+    },
+    {
+      "id": "dialogue.x.038",
+      "source": "DOUBLE\nRepliforce has\nflown off into\fDOUBLE\nspace...\fX\n...Double, watch the\nship for me. I'll\fX\ngo after them!\fDOUBLE\nSir! Reconsider what\nyou're doing, it's\fDOUBLE\nfar too dangerous!\fX\nWe don't have any\nother option! I'm\fX\nleaving you in\ncharge here, Double!",
+      "chars": 259,
+      "control_codes": [
+        {
+          "pos": 6,
+          "code": "\\n"
+        },
+        {
+          "pos": 21,
+          "code": "\\n"
+        },
+        {
+          "pos": 36,
+          "code": "\\f"
+        },
+        {
+          "pos": 43,
+          "code": "\\n"
+        },
+        {
+          "pos": 52,
+          "code": "\\f"
+        },
+        {
+          "pos": 54,
+          "code": "\\n"
+        },
+        {
+          "pos": 75,
+          "code": "\\n"
+        },
+        {
+          "pos": 93,
+          "code": "\\f"
+        },
+        {
+          "pos": 95,
+          "code": "\\n"
+        },
+        {
+          "pos": 110,
+          "code": "\\f"
+        },
+        {
+          "pos": 117,
+          "code": "\\n"
+        },
+        {
+          "pos": 138,
+          "code": "\\n"
+        },
+        {
+          "pos": 157,
+          "code": "\\f"
+        },
+        {
+          "pos": 164,
+          "code": "\\n"
+        },
+        {
+          "pos": 183,
+          "code": "\\f"
+        },
+        {
+          "pos": 185,
+          "code": "\\n"
+        },
+        {
+          "pos": 203,
+          "code": "\\n"
+        },
+        {
+          "pos": 221,
+          "code": "\\f"
+        },
+        {
+          "pos": 223,
+          "code": "\\n"
+        },
+        {
+          "pos": 238,
+          "code": "\\n"
+        }
+      ],
+      "pages": 8,
+      "lines_per_page": [
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "3bc34c06efd18f161f31cce474e6e54feea9bfe9b99340ed19b7cca7c2921cd3",
+      "current_translation": "DOUBLE\nRepliforce ha partido...\fDOUBLE\n...hacia el espacio.\fX\nDouble, cuida la nave. ¡Iré tras ellos!\fDOUBLE\n¡Señor! ¡Piénselo bien! ¡Es...\fDOUBLE\n...demasiado peligroso!\fX\n¡No tenemos otra opción!\fX\n¡Te dejo a cargo, Double!"
+    },
+    {
+      "id": "dialogue.x.039",
+      "source": "X\nDouble! What...\nWhy are you here!?\fDOUBLE\n...Hee hee hee.\nHa ha ha ha ha ha!\fDOUBLE\nThe Mavericks,\nHunters and\fDOUBLE\nRepliforce...\nIdiots, all of them.\fDOUBLE\nThey're making my\njob too easy!\fX\n...W... What are you\ntalking about?\fX\nDouble, what are you\nsaying?!\fDOUBLE\nThink it over in\nheaven! Die, X!",
+      "chars": 303,
+      "control_codes": [
+        {
+          "pos": 1,
+          "code": "\\n"
+        },
+        {
+          "pos": 17,
+          "code": "\\n"
+        },
+        {
+          "pos": 36,
+          "code": "\\f"
+        },
+        {
+          "pos": 43,
+          "code": "\\n"
+        },
+        {
+          "pos": 59,
+          "code": "\\n"
+        },
+        {
+          "pos": 78,
+          "code": "\\f"
+        },
+        {
+          "pos": 85,
+          "code": "\\n"
+        },
+        {
+          "pos": 100,
+          "code": "\\n"
+        },
+        {
+          "pos": 112,
+          "code": "\\f"
+        },
+        {
+          "pos": 119,
+          "code": "\\n"
+        },
+        {
+          "pos": 133,
+          "code": "\\n"
+        },
+        {
+          "pos": 154,
+          "code": "\\f"
+        },
+        {
+          "pos": 161,
+          "code": "\\n"
+        },
+        {
+          "pos": 179,
+          "code": "\\n"
+        },
+        {
+          "pos": 193,
+          "code": "\\f"
+        },
+        {
+          "pos": 195,
+          "code": "\\n"
+        },
+        {
+          "pos": 216,
+          "code": "\\n"
+        },
+        {
+          "pos": 231,
+          "code": "\\f"
+        },
+        {
+          "pos": 233,
+          "code": "\\n"
+        },
+        {
+          "pos": 254,
+          "code": "\\n"
+        },
+        {
+          "pos": 263,
+          "code": "\\f"
+        },
+        {
+          "pos": 270,
+          "code": "\\n"
+        },
+        {
+          "pos": 287,
+          "code": "\\n"
+        }
+      ],
+      "pages": 8,
+      "lines_per_page": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "cea1981d9cb4f9f654956a2877d11d4b28f06d9628a2c16c3f6f6412e0f2470b",
+      "current_translation": "X\n¡Double! ¿Qué...? ¡¿Por qué estás aquí?!\fDOUBLE\n...Je, je, je. ¡Ja, ja, ja!\fDOUBLE\nLos Mavericks, los cazadores...\fDOUBLE\n...y Repliforce. ¡Todos son idiotas!\fDOUBLE\n¡Me facilitan el trabajo!\fX\n...¿Q-qué estás diciendo?\fX\n¡¿De qué hablas, Double?!\fDOUBLE\n¡Piénsalo en el otro mundo! ¡Muere, X!"
+    },
+    {
+      "id": "dialogue.x.040",
+      "source": "X\nDouble!\fDOUBLE\n...Damn! ...How\ncould I lose to a\fDOUBLE\nweakling like you...\fX\nDouble, tell me!\nWhy did you do this?\fDOUBLE\n...Hee hee hee.\nHa ha ha! You're so\fDOUBLE\nnaive, X!\fDOUBLE\nI was sent as a spy\nfrom the very\fDOUBLE\nbeginning to keep\nan eye on you!\fX\n...Double! I... I\ntrusted you!\fDOUBLE\nHa ha ha ha!\nThat naiveness may\fDOUBLE\nbe your fatal flaw!\fDOUBLE\nGood bye, X!\nSee you in the\fDOUBLE\nafter life!\fX\nDouble!!",
+      "chars": 423,
+      "control_codes": [
+        {
+          "pos": 1,
+          "code": "\\n"
+        },
+        {
+          "pos": 9,
+          "code": "\\f"
+        },
+        {
+          "pos": 16,
+          "code": "\\n"
+        },
+        {
+          "pos": 32,
+          "code": "\\n"
+        },
+        {
+          "pos": 50,
+          "code": "\\f"
+        },
+        {
+          "pos": 57,
+          "code": "\\n"
+        },
+        {
+          "pos": 78,
+          "code": "\\f"
+        },
+        {
+          "pos": 80,
+          "code": "\\n"
+        },
+        {
+          "pos": 97,
+          "code": "\\n"
+        },
+        {
+          "pos": 118,
+          "code": "\\f"
+        },
+        {
+          "pos": 125,
+          "code": "\\n"
+        },
+        {
+          "pos": 141,
+          "code": "\\n"
+        },
+        {
+          "pos": 161,
+          "code": "\\f"
+        },
+        {
+          "pos": 168,
+          "code": "\\n"
+        },
+        {
+          "pos": 178,
+          "code": "\\f"
+        },
+        {
+          "pos": 185,
+          "code": "\\n"
+        },
+        {
+          "pos": 205,
+          "code": "\\n"
+        },
+        {
+          "pos": 219,
+          "code": "\\f"
+        },
+        {
+          "pos": 226,
+          "code": "\\n"
+        },
+        {
+          "pos": 244,
+          "code": "\\n"
+        },
+        {
+          "pos": 259,
+          "code": "\\f"
+        },
+        {
+          "pos": 261,
+          "code": "\\n"
+        },
+        {
+          "pos": 279,
+          "code": "\\n"
+        },
+        {
+          "pos": 292,
+          "code": "\\f"
+        },
+        {
+          "pos": 299,
+          "code": "\\n"
+        },
+        {
+          "pos": 312,
+          "code": "\\n"
+        },
+        {
+          "pos": 331,
+          "code": "\\f"
+        },
+        {
+          "pos": 338,
+          "code": "\\n"
+        },
+        {
+          "pos": 358,
+          "code": "\\f"
+        },
+        {
+          "pos": 365,
+          "code": "\\n"
+        },
+        {
+          "pos": 378,
+          "code": "\\n"
+        },
+        {
+          "pos": 393,
+          "code": "\\f"
+        },
+        {
+          "pos": 400,
+          "code": "\\n"
+        },
+        {
+          "pos": 412,
+          "code": "\\f"
+        },
+        {
+          "pos": 414,
+          "code": "\\n"
+        }
+      ],
+      "pages": 14,
+      "lines_per_page": [
+        2,
+        3,
+        2,
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        3,
+        2,
+        2
+      ],
+      "max_line_len": 20,
+      "source_sha256": "7b1fdf492e9df271aa4fdbb33a3d12ef91ee0c898c213adb18fcda08a57cb5f6",
+      "current_translation": "X\n¡Double!\fDOUBLE\n...¡Maldición! ¿Cómo pude perder...\fDOUBLE\n...contra un debilucho como tú?\fX\n¡Dime, Double! ¿Por qué lo hiciste?\fDOUBLE\n...Je, je, je. ¡Ja, ja, ja!\fDOUBLE\n¡Eres tan ingenuo, X!\fDOUBLE\n¡Desde el principio me enviaron...\fDOUBLE\n...como espía para vigilarte!\fX\n¡Double! ¡Yo... confiaba en ti!\fDOUBLE\n¡Ja, ja, ja! ¡Esa ingenuidad...\fDOUBLE\n...puede ser tu perdición!\fDOUBLE\n¡Adiós, X! ¡Nos vemos...\fDOUBLE\n...en la otra vida!\fX\n¡¡Double!!"
+    },
+    {
+      "id": "dialogue.x.041",
+      "source": "X\nGeneral! What are\nyou planning to do?\fGENERAL\n...We're going to\nbuild a nation for\fGENRAL\nthe Reploids. That's\nour ultimate goal.\fGENERAL\nWe'll fight anyone\nwho tries to\fGENERAL\ninterfere with our\nindependence.\fX\nThere must be\nalternatives to this\fX\nmindless fighting!\fGENERAL\n...We were called\nMavericks without\fGENERAL\njustifiable reason.\fGENERAL\nWhat other choice\ndid we have than to\fGENERAL\nfight?\fX\n...But...\fGENERAL\nIt's too late now!\nGet ready, X!",
+      "chars": 456,
+      "control_codes": [
+        {
+          "pos": 1,
+          "code": "\\n"
+        },
+        {
+          "pos": 19,
+          "code": "\\n"
+        },
+        {
+          "pos": 39,
+          "code": "\\f"
+        },
+        {
+          "pos": 47,
+          "code": "\\n"
+        },
+        {
+          "pos": 65,
+          "code": "\\n"
+        },
+        {
+          "pos": 84,
+          "code": "\\f"
+        },
+        {
+          "pos": 91,
+          "code": "\\n"
+        },
+        {
+          "pos": 112,
+          "code": "\\n"
+        },
+        {
+          "pos": 131,
+          "code": "\\f"
+        },
+        {
+          "pos": 139,
+          "code": "\\n"
+        },
+        {
+          "pos": 158,
+          "code": "\\n"
+        },
+        {
+          "pos": 171,
+          "code": "\\f"
+        },
+        {
+          "pos": 179,
+          "code": "\\n"
+        },
+        {
+          "pos": 198,
+          "code": "\\n"
+        },
+        {
+          "pos": 212,
+          "code": "\\f"
+        },
+        {
+          "pos": 214,
+          "code": "\\n"
+        },
+        {
+          "pos": 228,
+          "code": "\\n"
+        },
+        {
+          "pos": 249,
+          "code": "\\f"
+        },
+        {
+          "pos": 251,
+          "code": "\\n"
+        },
+        {
+          "pos": 270,
+          "code": "\\f"
+        },
+        {
+          "pos": 278,
+          "code": "\\n"
+        },
+        {
+          "pos": 296,
+          "code": "\\n"
+        },
+        {
+          "pos": 314,
+          "code": "\\f"
+        },
+        {
+          "pos": 322,
+          "code": "\\n"
+        },
+        {
+          "pos": 342,
+          "code": "\\f"
+        },
+        {
+          "pos": 350,
+          "code": "\\n"
+        },
+        {
+          "pos": 368,
+          "code": "\\n"
+        },
+        {
+          "pos": 388,
+          "code": "\\f"
+        },
+        {
+          "pos": 396,
+          "code": "\\n"
+        },
+        {
+          "pos": 403,
+          "code": "\\f"
+        },
+        {
+          "pos": 405,
+          "code": "\\n"
+        },
+        {
+          "pos": 415,
+          "code": "\\f"
+        },
+        {
+          "pos": 423,
+          "code": "\\n"
+        },
+        {
+          "pos": 442,
+          "code": "\\n"
+        }
+      ],
+      "pages": 13,
+      "lines_per_page": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "abd8cb84e6fd9f77b6a49c3fd800231e73609e982099c0322dae41bc739fe175",
+      "current_translation": "X\n¡General! ¿Qué planeas hacer?\fGENERAL\nVamos a construir una nación...\fGENERAL\n...para los Reploids. Ese es el fin.\fGENERAL\nLucharemos contra quien intente...\fGENERAL\n...impedir nuestra independencia.\fX\n¡Debe de haber otra solución...\fX\n...sin luchar así!\fGENERAL\nNos llamaron Mavericks sin...\fGENERAL\n...ningún motivo justificado.\fGENERAL\n¿Qué otra opción teníamos...\fGENERAL\n...más que luchar?\fX\n...Pero...\fGENERAL\n¡Ya es demasiado tarde! ¡Prepárate, X!"
+    },
+    {
+      "id": "dialogue.x.042",
+      "source": "X\n.. what?\nWhat happened!?\fGENERAL\n...It can't be...\nThis weapon must be\fGENERAL\nmalfunctioning...\fX\nGeneral! What do you\nmean?\fGENERAL\nSomeone else is\ncontrolling it!\fGENERAL\n...You must hurry X.\nThe earth is...\fGENERAL\nin danger!\fX\nAlright. I'll stop\nthe weapon myself!",
+      "chars": 271,
+      "control_codes": [
+        {
+          "pos": 1,
+          "code": "\\n"
+        },
+        {
+          "pos": 10,
+          "code": "\\n"
+        },
+        {
+          "pos": 26,
+          "code": "\\f"
+        },
+        {
+          "pos": 34,
+          "code": "\\n"
+        },
+        {
+          "pos": 52,
+          "code": "\\n"
+        },
+        {
+          "pos": 72,
+          "code": "\\f"
+        },
+        {
+          "pos": 80,
+          "code": "\\n"
+        },
+        {
+          "pos": 98,
+          "code": "\\f"
+        },
+        {
+          "pos": 100,
+          "code": "\\n"
+        },
+        {
+          "pos": 121,
+          "code": "\\n"
+        },
+        {
+          "pos": 127,
+          "code": "\\f"
+        },
+        {
+          "pos": 135,
+          "code": "\\n"
+        },
+        {
+          "pos": 151,
+          "code": "\\n"
+        },
+        {
+          "pos": 167,
+          "code": "\\f"
+        },
+        {
+          "pos": 175,
+          "code": "\\n"
+        },
+        {
+          "pos": 196,
+          "code": "\\n"
+        },
+        {
+          "pos": 212,
+          "code": "\\f"
+        },
+        {
+          "pos": 220,
+          "code": "\\n"
+        },
+        {
+          "pos": 231,
+          "code": "\\f"
+        },
+        {
+          "pos": 233,
+          "code": "\\n"
+        },
+        {
+          "pos": 252,
+          "code": "\\n"
+        }
+      ],
+      "pages": 8,
+      "lines_per_page": [
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        2,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "4517888af967c391802e9c43cfe2a650de90466ca3b8902deb6730196181cd8a",
+      "current_translation": "X\n¿Qué...? ¡¿Qué ha ocurrido?!\fGENERAL\n...No puede ser. Esta arma...\fGENERAL\n...debe de estar fallando.\fX\n¡General! ¿Qué quieres decir?\fGENERAL\n¡Alguien más la está controlando!\fGENERAL\nDebes darte prisa, X. ¡La Tierra...\fGENERAL\n...está en peligro!\fX\n¡Bien! ¡Yo mismo detendré el arma!"
+    },
+    {
+      "id": "dialogue.x.043",
+      "source": "SIGMA\nThis is amusing...\nIt really is X...\fX\nYou're... Sigma!\fSIGMA\nHee hee hee. My plan\nto keep Repliforce\fSIGMA\nand the Maverick\nHunters at each\fSIGMA\nothers' throats\nworked perfectly!\fSIGMA\n...Double did a good\njob as a spy!\fX\nWhy you...!\fSIGMA\nHee hee hee.\nRepliforce are the\fSIGMA\nfools this time!\fSIGMA\nNow all that's left\nis to destroy Earth\fSIGMA\nwith the very weapon\nthey made.\fX\nNo! I'll never\nlet you do that!\fSIGMA\nTry hard X. Your\nlife depends on it!",
+      "chars": 463,
+      "control_codes": [
+        {
+          "pos": 5,
+          "code": "\\n"
+        },
+        {
+          "pos": 24,
+          "code": "\\n"
+        },
+        {
+          "pos": 42,
+          "code": "\\f"
+        },
+        {
+          "pos": 44,
+          "code": "\\n"
+        },
+        {
+          "pos": 61,
+          "code": "\\f"
+        },
+        {
+          "pos": 67,
+          "code": "\\n"
+        },
+        {
+          "pos": 88,
+          "code": "\\n"
+        },
+        {
+          "pos": 107,
+          "code": "\\f"
+        },
+        {
+          "pos": 113,
+          "code": "\\n"
+        },
+        {
+          "pos": 130,
+          "code": "\\n"
+        },
+        {
+          "pos": 146,
+          "code": "\\f"
+        },
+        {
+          "pos": 152,
+          "code": "\\n"
+        },
+        {
+          "pos": 168,
+          "code": "\\n"
+        },
+        {
+          "pos": 186,
+          "code": "\\f"
+        },
+        {
+          "pos": 192,
+          "code": "\\n"
+        },
+        {
+          "pos": 213,
+          "code": "\\n"
+        },
+        {
+          "pos": 227,
+          "code": "\\f"
+        },
+        {
+          "pos": 229,
+          "code": "\\n"
+        },
+        {
+          "pos": 241,
+          "code": "\\f"
+        },
+        {
+          "pos": 247,
+          "code": "\\n"
+        },
+        {
+          "pos": 260,
+          "code": "\\n"
+        },
+        {
+          "pos": 279,
+          "code": "\\f"
+        },
+        {
+          "pos": 285,
+          "code": "\\n"
+        },
+        {
+          "pos": 302,
+          "code": "\\f"
+        },
+        {
+          "pos": 308,
+          "code": "\\n"
+        },
+        {
+          "pos": 328,
+          "code": "\\n"
+        },
+        {
+          "pos": 348,
+          "code": "\\f"
+        },
+        {
+          "pos": 354,
+          "code": "\\n"
+        },
+        {
+          "pos": 375,
+          "code": "\\n"
+        },
+        {
+          "pos": 386,
+          "code": "\\f"
+        },
+        {
+          "pos": 388,
+          "code": "\\n"
+        },
+        {
+          "pos": 403,
+          "code": "\\n"
+        },
+        {
+          "pos": 420,
+          "code": "\\f"
+        },
+        {
+          "pos": 426,
+          "code": "\\n"
+        },
+        {
+          "pos": 443,
+          "code": "\\n"
+        }
+      ],
+      "pages": 13,
+      "lines_per_page": [
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "2cca8d1b253050ed93051612d7e2b458dc69a5e3c680da90348100023d1e273a",
+      "current_translation": "SIGMA\nQué divertido... En verdad lo es, X.\fX\n¡Eres... Sigma!\fSIGMA\nJe, je. Mi plan para enfrentar...\fSIGMA\n...a Repliforce y a los cazadores...\fSIGMA\n...¡funcionó a la perfección!\fSIGMA\n¡Double fue un excelente espía!\fX\n¡Tú...!\fSIGMA\nJe, je, je. Esta vez Repliforce...\fSIGMA\n...fue la tonta.\fSIGMA\nSolo queda destruir la Tierra...\fSIGMA\n...con el arma que ellos crearon.\fX\n¡No! ¡Jamás te dejaré hacerlo!\fSIGMA\n¡Esfuérzate, X! ¡Tu vida depende de ello!"
+    },
+    {
+      "id": "dialogue.x.044",
+      "source": "SIGMA\n...Hee hee hee.\fX\nWhat's so funny?\fSIGMA\nThis weapon is aimed\nstraight at earth\fSIGMA\nalready...\fSIGMA\nNo one can stop it\nnow!\fX\nDamn!\fSIGMA\nHa ha ha ha ha!\nGood bye, X!",
+      "chars": 175,
+      "control_codes": [
+        {
+          "pos": 5,
+          "code": "\\n"
+        },
+        {
+          "pos": 21,
+          "code": "\\f"
+        },
+        {
+          "pos": 23,
+          "code": "\\n"
+        },
+        {
+          "pos": 40,
+          "code": "\\f"
+        },
+        {
+          "pos": 46,
+          "code": "\\n"
+        },
+        {
+          "pos": 67,
+          "code": "\\n"
+        },
+        {
+          "pos": 85,
+          "code": "\\f"
+        },
+        {
+          "pos": 91,
+          "code": "\\n"
+        },
+        {
+          "pos": 102,
+          "code": "\\f"
+        },
+        {
+          "pos": 108,
+          "code": "\\n"
+        },
+        {
+          "pos": 127,
+          "code": "\\n"
+        },
+        {
+          "pos": 132,
+          "code": "\\f"
+        },
+        {
+          "pos": 134,
+          "code": "\\n"
+        },
+        {
+          "pos": 140,
+          "code": "\\f"
+        },
+        {
+          "pos": 146,
+          "code": "\\n"
+        },
+        {
+          "pos": 162,
+          "code": "\\n"
+        }
+      ],
+      "pages": 7,
+      "lines_per_page": [
+        2,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "903ce1275411399b9d3d22ea977117acc04a95c6286e4454b592088ca3c3ded1",
+      "current_translation": "SIGMA\n...Je, je, je.\fX\n¿Qué te hace tanta gracia?\fSIGMA\nEsta arma ya está apuntando...\fSIGMA\n...directamente a la Tierra.\fSIGMA\n¡Nadie puede detenerla!\fX\n¡Maldición!\fSIGMA\n¡Ja, ja, ja! ¡Adiós, X!"
+    },
+    {
+      "id": "dialogue.x.045",
+      "source": "X\nGeneral!\fGENERAL\n...The weapon can\nbe stopped with my\fGENERAL\nbody.\fX\nBut then you'll...\fGENERAL\n...Many of my men\nhave died. As their\fGENERAL\nleader, I must\nleave with them...\fGENERAL\nX, please forgive\nour foolishness...\fX\nGeneral!",
+      "chars": 234,
+      "control_codes": [
+        {
+          "pos": 1,
+          "code": "\\n"
+        },
+        {
+          "pos": 10,
+          "code": "\\f"
+        },
+        {
+          "pos": 18,
+          "code": "\\n"
+        },
+        {
+          "pos": 36,
+          "code": "\\n"
+        },
+        {
+          "pos": 55,
+          "code": "\\f"
+        },
+        {
+          "pos": 63,
+          "code": "\\n"
+        },
+        {
+          "pos": 69,
+          "code": "\\f"
+        },
+        {
+          "pos": 71,
+          "code": "\\n"
+        },
+        {
+          "pos": 90,
+          "code": "\\f"
+        },
+        {
+          "pos": 98,
+          "code": "\\n"
+        },
+        {
+          "pos": 116,
+          "code": "\\n"
+        },
+        {
+          "pos": 136,
+          "code": "\\f"
+        },
+        {
+          "pos": 144,
+          "code": "\\n"
+        },
+        {
+          "pos": 159,
+          "code": "\\n"
+        },
+        {
+          "pos": 178,
+          "code": "\\f"
+        },
+        {
+          "pos": 186,
+          "code": "\\n"
+        },
+        {
+          "pos": 204,
+          "code": "\\n"
+        },
+        {
+          "pos": 223,
+          "code": "\\f"
+        },
+        {
+          "pos": 225,
+          "code": "\\n"
+        }
+      ],
+      "pages": 8,
+      "lines_per_page": [
+        2,
+        3,
+        2,
+        2,
+        3,
+        3,
+        3,
+        2
+      ],
+      "max_line_len": 19,
+      "source_sha256": "de66145caa53bb177dd913c0401de5da1df62bef8c9cfeccc626ea1312512fda",
+      "current_translation": "X\n¡General!\fGENERAL\nPuedo detener el arma...\fGENERAL\n...con mi cuerpo.\fX\nPero entonces tú...\fGENERAL\nMuchos de mis hombres murieron...\fGENERAL\n...y, como su líder, debo ir con ellos.\fGENERAL\nX, perdona nuestra insensatez...\fX\n¡General!"
+    },
+    {
+      "id": "dialogue.x.046",
+      "source": "X\nYou're Dragoon from\nthe 14th unit!\fDRAGOON\nThis isn't good, X!\fDRAGOON\nThat Maverick just\ndestroyed the power\fDRAGOON\nreactor!\fX\nWhat?! Then the Sky\nLagoon will...\fX\ncome crashing into\nthe ground!\fDRAGOON\nIt's too late, X!\fDRAGOON\nIt's time I made my\nescape.\fDRAGOON\nI suggest you do the\nsame... Don't do\fDRAGOON\nanything reckless on\nthe way out, okay?",
+      "chars": 354,
+      "control_codes": [
+        {
+          "pos": 1,
+          "code": "\\n"
+        },
+        {
+          "pos": 21,
+          "code": "\\n"
+        },
+        {
+          "pos": 36,
+          "code": "\\f"
+        },
+        {
+          "pos": 44,
+          "code": "\\n"
+        },
+        {
+          "pos": 64,
+          "code": "\\f"
+        },
+        {
+          "pos": 72,
+          "code": "\\n"
+        },
+        {
+          "pos": 91,
+          "code": "\\n"
+        },
+        {
+          "pos": 111,
+          "code": "\\f"
+        },
+        {
+          "pos": 119,
+          "code": "\\n"
+        },
+        {
+          "pos": 128,
+          "code": "\\f"
+        },
+        {
+          "pos": 130,
+          "code": "\\n"
+        },
+        {
+          "pos": 150,
+          "code": "\\n"
+        },
+        {
+          "pos": 165,
+          "code": "\\f"
+        },
+        {
+          "pos": 167,
+          "code": "\\n"
+        },
+        {
+          "pos": 186,
+          "code": "\\n"
+        },
+        {
+          "pos": 198,
+          "code": "\\f"
+        },
+        {
+          "pos": 206,
+          "code": "\\n"
+        },
+        {
+          "pos": 224,
+          "code": "\\f"
+        },
+        {
+          "pos": 232,
+          "code": "\\n"
+        },
+        {
+          "pos": 252,
+          "code": "\\n"
+        },
+        {
+          "pos": 260,
+          "code": "\\f"
+        },
+        {
+          "pos": 268,
+          "code": "\\n"
+        },
+        {
+          "pos": 289,
+          "code": "\\n"
+        },
+        {
+          "pos": 306,
+          "code": "\\f"
+        },
+        {
+          "pos": 314,
+          "code": "\\n"
+        },
+        {
+          "pos": 335,
+          "code": "\\n"
+        }
+      ],
+      "pages": 10,
+      "lines_per_page": [
+        3,
+        2,
+        3,
+        2,
+        3,
+        3,
+        2,
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "d83368d19d71e72e35c983d2658f084d5e92c00905fd66e00b8a1076849f27a2",
+      "current_translation": "X\n¡Eres Dragoon, de la unidad 14!\fDRAGOON\n¡Esto no pinta bien, X!\fDRAGOON\n¡Ese Maverick acaba de destruir...\fDRAGOON\n...el reactor de energía!\fX\n¡¿Qué?! ¡Entonces Sky Lagoon...\fX\n...caerá al suelo!\fDRAGOON\n¡Es demasiado tarde, X!\fDRAGOON\nDebo escapar.\fDRAGOON\nTe sugiero que hagas lo mismo...\fDRAGOON\n...¡y no cometas ninguna imprudencia!"
+    },
+    {
+      "id": "dialogue.x.047",
+      "source": "X\nThe city below will\nsoon become a sea of\fX\nflames.\fX\nMany people will\nperish...\fX\nI have no choice but\nto escape from here\fX\nand head to the city\nbelow!",
+      "chars": 154,
+      "control_codes": [
+        {
+          "pos": 1,
+          "code": "\\n"
+        },
+        {
+          "pos": 21,
+          "code": "\\n"
+        },
+        {
+          "pos": 42,
+          "code": "\\f"
+        },
+        {
+          "pos": 44,
+          "code": "\\n"
+        },
+        {
+          "pos": 52,
+          "code": "\\f"
+        },
+        {
+          "pos": 54,
+          "code": "\\n"
+        },
+        {
+          "pos": 71,
+          "code": "\\n"
+        },
+        {
+          "pos": 81,
+          "code": "\\f"
+        },
+        {
+          "pos": 83,
+          "code": "\\n"
+        },
+        {
+          "pos": 104,
+          "code": "\\n"
+        },
+        {
+          "pos": 124,
+          "code": "\\f"
+        },
+        {
+          "pos": 126,
+          "code": "\\n"
+        },
+        {
+          "pos": 147,
+          "code": "\\n"
+        }
+      ],
+      "pages": 5,
+      "lines_per_page": [
+        3,
+        2,
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "a16e3664346dc9e0bee27793e5f10ed079dbae5375de898c0c5df3512d18ac1a",
+      "current_translation": "X\n¡La ciudad pronto será...\fX\n...un mar de llamas!\fX\nMorirán muchas personas...\fX\n¡Debo escapar de aquí...\fX\n...y dirigirme a la ciudad!"
+    },
+    {
+      "id": "dialogue.x.048",
+      "source": "X\nWhat the ...!\fX\nSomething's got to\ngive. Otherwise the\fX\nentire Repliforce\nwill be considered\fX\nto be Mavericks!",
+      "chars": 114,
+      "control_codes": [
+        {
+          "pos": 1,
+          "code": "\\n"
+        },
+        {
+          "pos": 15,
+          "code": "\\f"
+        },
+        {
+          "pos": 17,
+          "code": "\\n"
+        },
+        {
+          "pos": 36,
+          "code": "\\n"
+        },
+        {
+          "pos": 56,
+          "code": "\\f"
+        },
+        {
+          "pos": 58,
+          "code": "\\n"
+        },
+        {
+          "pos": 76,
+          "code": "\\n"
+        },
+        {
+          "pos": 95,
+          "code": "\\f"
+        },
+        {
+          "pos": 97,
+          "code": "\\n"
+        }
+      ],
+      "pages": 4,
+      "lines_per_page": [
+        2,
+        3,
+        3,
+        2
+      ],
+      "max_line_len": 19,
+      "source_sha256": "c4bd8d4d94ac8d255d36d12bf83296434265cc85e7c13dbbfbdf8b8aef94774b",
+      "current_translation": "X\n¡¿Qué está pasando?!\fX\nHay que hacer algo o de lo contrario...\fX\n...toda Repliforce será declarada...\fX\n...Maverick."
+    },
+    {
+      "id": "dialogue.x.049",
+      "source": "SIGMA\nHee hee hee. You\nare very good, X!\fSIGMA\nBut not for long.\nYou won't be able to\fSIGMA\nevade this attack!",
+      "chars": 110,
+      "control_codes": [
+        {
+          "pos": 5,
+          "code": "\\n"
+        },
+        {
+          "pos": 22,
+          "code": "\\n"
+        },
+        {
+          "pos": 40,
+          "code": "\\f"
+        },
+        {
+          "pos": 46,
+          "code": "\\n"
+        },
+        {
+          "pos": 64,
+          "code": "\\n"
+        },
+        {
+          "pos": 85,
+          "code": "\\f"
+        },
+        {
+          "pos": 91,
+          "code": "\\n"
+        }
+      ],
+      "pages": 3,
+      "lines_per_page": [
+        3,
+        3,
+        2
+      ],
+      "max_line_len": 20,
+      "source_sha256": "d47b2f0fbd2507db2c94f528ab521f9019e0c8d80c74f034d708337f6d94bc96",
+      "current_translation": "SIGMA\n¡Je, je, je! ¡Eres muy bueno, X!\fSIGMA\n¡Pero no podrás esquivar...\fSIGMA\n...este ataque!"
+    },
+    {
+      "id": "dialogue.x.050",
+      "source": "SIGMA\nHa ha ha ha ha! Feel\nmy incredible power!\fSIGMA\nDrown in the empty\nvastness of space!",
+      "chars": 91,
+      "control_codes": [
+        {
+          "pos": 5,
+          "code": "\\n"
+        },
+        {
+          "pos": 26,
+          "code": "\\n"
+        },
+        {
+          "pos": 47,
+          "code": "\\f"
+        },
+        {
+          "pos": 53,
+          "code": "\\n"
+        },
+        {
+          "pos": 72,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "280aef7919e4a10dab4c5e231818f87e2cf8b2feeb94f6c0aa2ee20eb03f9816",
+      "current_translation": "SIGMA\n¡Ja, ja, ja! ¡Siente mi increíble poder!\fSIGMA\n¡Húndete en el vacío del espacio!"
+    },
+    {
+      "id": "dialogue.x.051",
+      "source": "COLONEL\n...Impressive... But\n... it's too late!\fX\nWhat?\fCOLONEL\nThe Repliforce...\nalready left for\fCOLONEL\nspace!\fCOLONEL\n...I'm beaten...\nbut the Repliforce\fCOLONEL\nwill never perish!\fCOLONEL\n...The Reploids'\nnation will be born\fCOLONEL\nin the vastness of\nspace!\fX\nColonel!!!",
+      "chars": 276,
+      "control_codes": [
+        {
+          "pos": 7,
+          "code": "\\n"
+        },
+        {
+          "pos": 28,
+          "code": "\\n"
+        },
+        {
+          "pos": 47,
+          "code": "\\f"
+        },
+        {
+          "pos": 49,
+          "code": "\\n"
+        },
+        {
+          "pos": 55,
+          "code": "\\f"
+        },
+        {
+          "pos": 63,
+          "code": "\\n"
+        },
+        {
+          "pos": 81,
+          "code": "\\n"
+        },
+        {
+          "pos": 98,
+          "code": "\\f"
+        },
+        {
+          "pos": 106,
+          "code": "\\n"
+        },
+        {
+          "pos": 113,
+          "code": "\\f"
+        },
+        {
+          "pos": 121,
+          "code": "\\n"
+        },
+        {
+          "pos": 138,
+          "code": "\\n"
+        },
+        {
+          "pos": 157,
+          "code": "\\f"
+        },
+        {
+          "pos": 165,
+          "code": "\\n"
+        },
+        {
+          "pos": 184,
+          "code": "\\f"
+        },
+        {
+          "pos": 192,
+          "code": "\\n"
+        },
+        {
+          "pos": 209,
+          "code": "\\n"
+        },
+        {
+          "pos": 229,
+          "code": "\\f"
+        },
+        {
+          "pos": 237,
+          "code": "\\n"
+        },
+        {
+          "pos": 256,
+          "code": "\\n"
+        },
+        {
+          "pos": 263,
+          "code": "\\f"
+        },
+        {
+          "pos": 265,
+          "code": "\\n"
+        }
+      ],
+      "pages": 9,
+      "lines_per_page": [
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        3,
+        2
+      ],
+      "max_line_len": 20,
+      "source_sha256": "3ef843e8a2450a4a94593c8cef5402c63eabd1c5295203fd7c3f07a27ce06271",
+      "current_translation": "COLONEL\nImpresionante... ¡Pero ya es tarde!\fX\n¿Qué?\fCOLONEL\nRepliforce ya ha partido...\fCOLONEL\n...¡hacia el espacio!\fCOLONEL\nHe perdido, pero Repliforce...\fCOLONEL\n...¡jamás desaparecerá!\fCOLONEL\nLa nación de los Reploids nacerá...\fCOLONEL\n...en la inmensidad del espacio.\fX\n¡¡¡Colonel!!!"
+    },
+    {
+      "id": "dialogue.x.052",
+      "source": "X\n...Wha?!\nThe city has been\fX\ncompletely\ndestroyed.\fX\nThey were innocent\npeople...  I won't\fX\nforget this!",
+      "chars": 107,
+      "control_codes": [
+        {
+          "pos": 1,
+          "code": "\\n"
+        },
+        {
+          "pos": 10,
+          "code": "\\n"
+        },
+        {
+          "pos": 28,
+          "code": "\\f"
+        },
+        {
+          "pos": 30,
+          "code": "\\n"
+        },
+        {
+          "pos": 41,
+          "code": "\\n"
+        },
+        {
+          "pos": 52,
+          "code": "\\f"
+        },
+        {
+          "pos": 54,
+          "code": "\\n"
+        },
+        {
+          "pos": 73,
+          "code": "\\n"
+        },
+        {
+          "pos": 92,
+          "code": "\\f"
+        },
+        {
+          "pos": 94,
+          "code": "\\n"
+        }
+      ],
+      "pages": 4,
+      "lines_per_page": [
+        3,
+        3,
+        3,
+        2
+      ],
+      "max_line_len": 18,
+      "source_sha256": "5ce1ebe8f1b136c56ce4702d2a9b403575d18a0de7064a6bdf969433f862ae7d",
+      "current_translation": "X\n¡¿Qué?! La ciudad ha sido...\fX\n...totalmente destruida.\fX\nEran personas inocentes...\fX\n¡No olvidaré esto!"
+    },
+    {
+      "id": "dialogue.x.053",
+      "source": "DR. LIGHT\n...X, you've finally\narrived...\fDR. LIGHT\nThis capsule\ncontains the sealed\fDR. LIGHT\nsecret parts for\nthe Ultimate Armor.\fDR. LIGHT\nWhen you execute\nthe Nova Strike, the\fDR. LIGHT\nwings will open and\nyou can execute the\fDR. LIGHT\ninvincible body\ncrash attack.\fDR. LIGHT\n...However, this\narmor is not\fDR. LIGHT\ncompleted yet and\nyour safety is not\fDR. LIGHT\nassured. If this\nis acceptable to\fDR. LIGHT\nyou, enter now...",
+      "chars": 428,
+      "control_codes": [
+        {
+          "pos": 9,
+          "code": "\\n"
+        },
+        {
+          "pos": 30,
+          "code": "\\n"
+        },
+        {
+          "pos": 41,
+          "code": "\\f"
+        },
+        {
+          "pos": 51,
+          "code": "\\n"
+        },
+        {
+          "pos": 64,
+          "code": "\\n"
+        },
+        {
+          "pos": 84,
+          "code": "\\f"
+        },
+        {
+          "pos": 94,
+          "code": "\\n"
+        },
+        {
+          "pos": 111,
+          "code": "\\n"
+        },
+        {
+          "pos": 131,
+          "code": "\\f"
+        },
+        {
+          "pos": 141,
+          "code": "\\n"
+        },
+        {
+          "pos": 158,
+          "code": "\\n"
+        },
+        {
+          "pos": 179,
+          "code": "\\f"
+        },
+        {
+          "pos": 189,
+          "code": "\\n"
+        },
+        {
+          "pos": 209,
+          "code": "\\n"
+        },
+        {
+          "pos": 229,
+          "code": "\\f"
+        },
+        {
+          "pos": 239,
+          "code": "\\n"
+        },
+        {
+          "pos": 255,
+          "code": "\\n"
+        },
+        {
+          "pos": 269,
+          "code": "\\f"
+        },
+        {
+          "pos": 279,
+          "code": "\\n"
+        },
+        {
+          "pos": 296,
+          "code": "\\n"
+        },
+        {
+          "pos": 309,
+          "code": "\\f"
+        },
+        {
+          "pos": 319,
+          "code": "\\n"
+        },
+        {
+          "pos": 337,
+          "code": "\\n"
+        },
+        {
+          "pos": 356,
+          "code": "\\f"
+        },
+        {
+          "pos": 366,
+          "code": "\\n"
+        },
+        {
+          "pos": 383,
+          "code": "\\n"
+        },
+        {
+          "pos": 400,
+          "code": "\\f"
+        },
+        {
+          "pos": 410,
+          "code": "\\n"
+        }
+      ],
+      "pages": 10,
+      "lines_per_page": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2
+      ],
+      "max_line_len": 20,
+      "source_sha256": "0822dcfbdbcdbdef57e60ff96b93505ed2edd02c818ce60a35f4b28f99576d6d",
+      "current_translation": "DR. LIGHT\n...X, al fin has llegado...\fDR. LIGHT\nEsta cápsula guarda...\fDR. LIGHT\n...las piezas de la Ultimate Armor.\fDR. LIGHT\nAl ejecutar el Nova Strike...\fDR. LIGHT\n...se abrirán las alas y podrás...\fDR. LIGHT\n...lanzar una embestida invencible.\fDR. LIGHT\nSin embargo, esta armadura...\fDR. LIGHT\n...todavía no está completa.\fDR. LIGHT\nNo puedo garantizar tu seguridad.\fDR. LIGHT\nSi aceptas el riesgo, entra ahora..."
+    },
+    {
+      "id": "dialogue.x.054",
+      "source": "{glyph:38}",
+      "chars": 10,
+      "control_codes": [],
+      "pages": 1,
+      "lines_per_page": [
+        1
+      ],
+      "max_line_len": 10,
+      "source_sha256": "3ee61c13c00be8ed627baf784445afe23bbe813fe1a23ffc47863f1d2f4d2fbb",
+      "current_translation": ""
+    },
+    {
+      "id": "dialogue.zero.000",
+      "source": "JUNGLE\nInfiltrate enemy-\noccupied jungle and\fJUNGLE\ndestroy the weapon\nunder construction.",
+      "chars": 90,
+      "control_codes": [
+        {
+          "pos": 6,
+          "code": "\\n"
+        },
+        {
+          "pos": 24,
+          "code": "\\n"
+        },
+        {
+          "pos": 44,
+          "code": "\\f"
+        },
+        {
+          "pos": 51,
+          "code": "\\n"
+        },
+        {
+          "pos": 70,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "c85a6b3fc4b5c028b51df540db308f713ac7f2a43c88cdf78a91d6594ff8adb5",
+      "current_translation": "SELVA\nInfíltrate en la selva ocupada.\fSELVA\nDestruye el arma que están construyendo."
+    },
+    {
+      "id": "dialogue.zero.001",
+      "source": "CYBER SPACE\nA bug has corrupted\nthe network.\fCYBER SPACE\nDive into cyberspace\nand exterminate it.",
+      "chars": 97,
+      "control_codes": [
+        {
+          "pos": 11,
+          "code": "\\n"
+        },
+        {
+          "pos": 31,
+          "code": "\\n"
+        },
+        {
+          "pos": 44,
+          "code": "\\f"
+        },
+        {
+          "pos": 56,
+          "code": "\\n"
+        },
+        {
+          "pos": 77,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "e5a91c8ccc823023556d335323c12b15cc79af5b2e36ffd3319fbf6329dce971",
+      "current_translation": "CIBERESPACIO\nUn virus ha infectado la red.\fCIBERESPACIO\nEntra en la red y elimínalo."
+    },
+    {
+      "id": "dialogue.zero.002",
+      "source": "AIR FORCE\nThe Repliforce ship\nhas taken off.\fAIR FORCE\nPursue and blast\nit out of the air.",
+      "chars": 90,
+      "control_codes": [
+        {
+          "pos": 9,
+          "code": "\\n"
+        },
+        {
+          "pos": 29,
+          "code": "\\n"
+        },
+        {
+          "pos": 44,
+          "code": "\\f"
+        },
+        {
+          "pos": 54,
+          "code": "\\n"
+        },
+        {
+          "pos": 71,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "d69b63d4f320e5f5125b8414939dbfd6becee91e73e1e18446f67c7bae0bd4fe",
+      "current_translation": "FUERZA AÉREA\nLa nave de Repliforce ha despegado.\fFUERZA AÉREA\nPersíguela y derríbala."
+    },
+    {
+      "id": "dialogue.zero.003",
+      "source": "VOLCANO\nDragoon of the 14th\nunit is a traitor.\fVOLCANO\nLocate and bring him\nback to hunter H.Q.",
+      "chars": 95,
+      "control_codes": [
+        {
+          "pos": 7,
+          "code": "\\n"
+        },
+        {
+          "pos": 27,
+          "code": "\\n"
+        },
+        {
+          "pos": 46,
+          "code": "\\f"
+        },
+        {
+          "pos": 54,
+          "code": "\\n"
+        },
+        {
+          "pos": 75,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "2ad85654feedbb35c52ca9e6ae6149728911fc1e7e2bd8fd06899b1e73d075da",
+      "current_translation": "VOLCÁN\nDragoon, de la unidad 14, nos ha traicionado.\fVOLCÁN\nEncuéntralo y llévalo al cuartel."
+    },
+    {
+      "id": "dialogue.zero.004",
+      "source": "MARINE BASE\nRepliforce decimated\nthe city and left.\fMARINE BASE\nPursue them aboard\na Land Chaser.",
+      "chars": 97,
+      "control_codes": [
+        {
+          "pos": 11,
+          "code": "\\n"
+        },
+        {
+          "pos": 32,
+          "code": "\\n"
+        },
+        {
+          "pos": 51,
+          "code": "\\f"
+        },
+        {
+          "pos": 63,
+          "code": "\\n"
+        },
+        {
+          "pos": 82,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "47312cc86fe1ff81a7ae2461cb653c18929f0aaa604a510bd2366746bfbd1e86",
+      "current_translation": "BASE MARINA\nRepliforce arrasó la ciudad y huyó.\fBASE MARINA\nPersíguelos a bordo de un Land Chaser."
+    },
+    {
+      "id": "dialogue.zero.005",
+      "source": "BIO LAB.\nThe abandoned lab is\nnow operational.\fBIO LAB.\nInvestigate and\ndestroy the lab.",
+      "chars": 88,
+      "control_codes": [
+        {
+          "pos": 8,
+          "code": "\\n"
+        },
+        {
+          "pos": 29,
+          "code": "\\n"
+        },
+        {
+          "pos": 46,
+          "code": "\\f"
+        },
+        {
+          "pos": 55,
+          "code": "\\n"
+        },
+        {
+          "pos": 71,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "482ca42adae6f075ee602ec09481a98d1df3cdbba70eb8bc55dd6d95b85c5b79",
+      "current_translation": "LABORATORIO\nEl laboratorio abandonado está activo.\fLABORATORIO\nInvestígalo y destrúyelo."
+    },
+    {
+      "id": "dialogue.zero.006",
+      "source": "MILITARY TRAIN\nA military train is\nmoving supplies.\fMILITARY TRAIN\nCut off Repliforce's\nsupply route.",
+      "chars": 101,
+      "control_codes": [
+        {
+          "pos": 14,
+          "code": "\\n"
+        },
+        {
+          "pos": 34,
+          "code": "\\n"
+        },
+        {
+          "pos": 51,
+          "code": "\\f"
+        },
+        {
+          "pos": 66,
+          "code": "\\n"
+        },
+        {
+          "pos": 87,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "f35cc658fce78299dc52759cff6bba33a3b335e98d386c7c5983d1d82406c2c8",
+      "current_translation": "TREN MILITAR\nUn tren militar transporta suministros.\fTREN MILITAR\nCorta la ruta de suministros enemiga."
+    },
+    {
+      "id": "dialogue.zero.007",
+      "source": "SNOW BASE\nWe've discovered a\nhidden snow base.\fSNOW BASE\nHalt production of\ntheir new weapon.",
+      "chars": 93,
+      "control_codes": [
+        {
+          "pos": 9,
+          "code": "\\n"
+        },
+        {
+          "pos": 28,
+          "code": "\\n"
+        },
+        {
+          "pos": 46,
+          "code": "\\f"
+        },
+        {
+          "pos": 56,
+          "code": "\\n"
+        },
+        {
+          "pos": 75,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 18,
+      "source_sha256": "3c391825d2f192a2b2ab3a3ac26df1b41499f6bb40aade4f95cf495a82981046",
+      "current_translation": "BASE NEVADA\nDescubrimos una base oculta en la nieve.\fBASE NEVADA\nDetén la producción de su nueva arma."
+    },
+    {
+      "id": "dialogue.zero.008",
+      "source": "SPIDER\nAh... Zero. I've\nbeen expecting you.\fZERO\nSpider! You work\nfor Repliforce?!\fSPIDER\nYes... I lead a\nrenegade unit now.\fZERO\nThere's still time,\ncall off the coup!\fSPIDER\nNo. I know where my\nloyalties lie.",
+      "chars": 210,
+      "control_codes": [
+        {
+          "pos": 6,
+          "code": "\\n"
+        },
+        {
+          "pos": 23,
+          "code": "\\n"
+        },
+        {
+          "pos": 43,
+          "code": "\\f"
+        },
+        {
+          "pos": 48,
+          "code": "\\n"
+        },
+        {
+          "pos": 65,
+          "code": "\\n"
+        },
+        {
+          "pos": 82,
+          "code": "\\f"
+        },
+        {
+          "pos": 89,
+          "code": "\\n"
+        },
+        {
+          "pos": 105,
+          "code": "\\n"
+        },
+        {
+          "pos": 124,
+          "code": "\\f"
+        },
+        {
+          "pos": 129,
+          "code": "\\n"
+        },
+        {
+          "pos": 149,
+          "code": "\\n"
+        },
+        {
+          "pos": 168,
+          "code": "\\f"
+        },
+        {
+          "pos": 175,
+          "code": "\\n"
+        },
+        {
+          "pos": 195,
+          "code": "\\n"
+        }
+      ],
+      "pages": 5,
+      "lines_per_page": [
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "5d59c4cbda5f351a14baecaacdf625e50c94a07796512f66a6e9d4677045707c",
+      "current_translation": "SPIDER\nAh... Zero. Te estaba esperando.\fZERO\n¡Spider! ¿Trabajas para Repliforce?\fSPIDER\nSí... Ahora dirijo una unidad rebelde.\fZERO\n¡Aún estás a tiempo! ¡Detén el golpe!\fSPIDER\nNo. Sé muy bien a quién soy leal."
+    },
+    {
+      "id": "dialogue.zero.009",
+      "source": "WALRUS\nWhat's that blonde\nkid up to?!\fWALRUS\nI don't have time\nfor you junior!\fZERO\nHey! Shut up and\nfight already!\fWALRUS\nOh... That does it,\nyou're goin' down!",
+      "chars": 161,
+      "control_codes": [
+        {
+          "pos": 6,
+          "code": "\\n"
+        },
+        {
+          "pos": 25,
+          "code": "\\n"
+        },
+        {
+          "pos": 37,
+          "code": "\\f"
+        },
+        {
+          "pos": 44,
+          "code": "\\n"
+        },
+        {
+          "pos": 62,
+          "code": "\\n"
+        },
+        {
+          "pos": 78,
+          "code": "\\f"
+        },
+        {
+          "pos": 83,
+          "code": "\\n"
+        },
+        {
+          "pos": 100,
+          "code": "\\n"
+        },
+        {
+          "pos": 115,
+          "code": "\\f"
+        },
+        {
+          "pos": 122,
+          "code": "\\n"
+        },
+        {
+          "pos": 142,
+          "code": "\\n"
+        }
+      ],
+      "pages": 4,
+      "lines_per_page": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "6376bbd41776069f36ffa6713d174939e19bc40a3a13f2493d3098a32ca06561",
+      "current_translation": "WALRUS\n¡¿Qué quiere ese niño rubio?!\fWALRUS\n¡No tengo tiempo para ti, mocoso!\fZERO\n¡Oye! ¡Cállate y pelea de una vez!\fWALRUS\n¡Ah, ahora sí! ¡Te voy a aplastar!"
+    },
+    {
+      "id": "dialogue.zero.010",
+      "source": "MUSHROOM\nYou made it this\nfar. I'm impressed!\fMUSHROOM\nYou interested in a\nreal challenge?\fZERO\nWho's your\ncommanding officer?\fMUSHROOM\nNever mind that,\nit's time to fight!",
+      "chars": 172,
+      "control_codes": [
+        {
+          "pos": 8,
+          "code": "\\n"
+        },
+        {
+          "pos": 25,
+          "code": "\\n"
+        },
+        {
+          "pos": 45,
+          "code": "\\f"
+        },
+        {
+          "pos": 54,
+          "code": "\\n"
+        },
+        {
+          "pos": 74,
+          "code": "\\n"
+        },
+        {
+          "pos": 90,
+          "code": "\\f"
+        },
+        {
+          "pos": 95,
+          "code": "\\n"
+        },
+        {
+          "pos": 106,
+          "code": "\\n"
+        },
+        {
+          "pos": 126,
+          "code": "\\f"
+        },
+        {
+          "pos": 135,
+          "code": "\\n"
+        },
+        {
+          "pos": 152,
+          "code": "\\n"
+        }
+      ],
+      "pages": 4,
+      "lines_per_page": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "3263d9f522f7e6988eff29c4b5e290029e53aa863674fa78dc97fbb96b9ec6ba",
+      "current_translation": "MUSHROOM\n¡Llegaste muy lejos! ¡Me sorprendes!\fMUSHROOM\n¿Quieres un desafío de verdad?\fZERO\n¿Quién es tu superior?\fMUSHROOM\n¡Eso no importa! ¡Es hora de luchar!"
+    },
+    {
+      "id": "dialogue.zero.011",
+      "source": "DRAGOON\nZero... It's\nreally you!\fZERO\nWhy did you\nbetray us?!\fDRAGOON\n.........\fZERO\nAnswer me, Dragoon!\fDRAGOON\nI have no answer\nfor you my friend.\fZERO\nDragoon!",
+      "chars": 162,
+      "control_codes": [
+        {
+          "pos": 7,
+          "code": "\\n"
+        },
+        {
+          "pos": 20,
+          "code": "\\n"
+        },
+        {
+          "pos": 32,
+          "code": "\\f"
+        },
+        {
+          "pos": 37,
+          "code": "\\n"
+        },
+        {
+          "pos": 49,
+          "code": "\\n"
+        },
+        {
+          "pos": 61,
+          "code": "\\f"
+        },
+        {
+          "pos": 69,
+          "code": "\\n"
+        },
+        {
+          "pos": 79,
+          "code": "\\f"
+        },
+        {
+          "pos": 84,
+          "code": "\\n"
+        },
+        {
+          "pos": 104,
+          "code": "\\f"
+        },
+        {
+          "pos": 112,
+          "code": "\\n"
+        },
+        {
+          "pos": 129,
+          "code": "\\n"
+        },
+        {
+          "pos": 148,
+          "code": "\\f"
+        },
+        {
+          "pos": 153,
+          "code": "\\n"
+        }
+      ],
+      "pages": 6,
+      "lines_per_page": [
+        3,
+        3,
+        2,
+        2,
+        3,
+        2
+      ],
+      "max_line_len": 19,
+      "source_sha256": "3ea3d47fdc45f42cbf779929c6fac9f119a1934314efd657667d9ebd037159df",
+      "current_translation": "DRAGOON\nZero... ¡De verdad eres tú!\fZERO\n¡¿Por qué nos traicionaste?!\fDRAGOON\n.........\fZERO\n¡Respóndeme, Dragoon!\fDRAGOON\nNo tengo una respuesta para ti, amigo.\fZERO\n¡Dragoon!"
+    },
+    {
+      "id": "dialogue.zero.012",
+      "source": "DRAGOON\n...I ...wanted ...to\ndefeat... you...\fDRAGOON\n...Then ..he\n...appeared...\fZERO\nHe? Who!?\fDRAGOON\n...He ...told me...\nhe'd give me power.\fDRAGOON\nonly if I worked...\nfor Repliforce...\fZERO\n...What!?\fDRAGOON\nI couldn't...\nrefuse the offer...\fDRAGOON\nSorry Zero...\fZERO\n...Dragoon!!!",
+      "chars": 288,
+      "control_codes": [
+        {
+          "pos": 7,
+          "code": "\\n"
+        },
+        {
+          "pos": 28,
+          "code": "\\n"
+        },
+        {
+          "pos": 45,
+          "code": "\\f"
+        },
+        {
+          "pos": 53,
+          "code": "\\n"
+        },
+        {
+          "pos": 66,
+          "code": "\\n"
+        },
+        {
+          "pos": 81,
+          "code": "\\f"
+        },
+        {
+          "pos": 86,
+          "code": "\\n"
+        },
+        {
+          "pos": 96,
+          "code": "\\f"
+        },
+        {
+          "pos": 104,
+          "code": "\\n"
+        },
+        {
+          "pos": 124,
+          "code": "\\n"
+        },
+        {
+          "pos": 144,
+          "code": "\\f"
+        },
+        {
+          "pos": 152,
+          "code": "\\n"
+        },
+        {
+          "pos": 172,
+          "code": "\\n"
+        },
+        {
+          "pos": 190,
+          "code": "\\f"
+        },
+        {
+          "pos": 195,
+          "code": "\\n"
+        },
+        {
+          "pos": 205,
+          "code": "\\f"
+        },
+        {
+          "pos": 213,
+          "code": "\\n"
+        },
+        {
+          "pos": 227,
+          "code": "\\n"
+        },
+        {
+          "pos": 247,
+          "code": "\\f"
+        },
+        {
+          "pos": 255,
+          "code": "\\n"
+        },
+        {
+          "pos": 269,
+          "code": "\\f"
+        },
+        {
+          "pos": 274,
+          "code": "\\n"
+        }
+      ],
+      "pages": 9,
+      "lines_per_page": [
+        3,
+        3,
+        2,
+        3,
+        3,
+        2,
+        3,
+        2,
+        2
+      ],
+      "max_line_len": 20,
+      "source_sha256": "b86f1b8db35d7da9e51ff4687c1178a9629c22d7495694675262e0dd4fac67f4",
+      "current_translation": "DRAGOON\n...Quería... derrotarte...\fDRAGOON\n...Entonces... él... apareció...\fZERO\n¿Él? ¡¿Quién?!\fDRAGOON\n...Me dijo... que me daría poder...\fDRAGOON\n...si trabajaba... para Repliforce...\fZERO\n...¡¿Qué?!\fDRAGOON\nNo pude... rechazar su oferta...\fDRAGOON\nPerdóname, Zero...\fZERO\n...¡¡¡Dragoon!!!"
+    },
+    {
+      "id": "dialogue.zero.013",
+      "source": "STINGRAY\nArgh! He's still\nafter me!\fSTINGRAY\nEnough already.\nWe settle this now!",
+      "chars": 80,
+      "control_codes": [
+        {
+          "pos": 8,
+          "code": "\\n"
+        },
+        {
+          "pos": 25,
+          "code": "\\n"
+        },
+        {
+          "pos": 35,
+          "code": "\\f"
+        },
+        {
+          "pos": 44,
+          "code": "\\n"
+        },
+        {
+          "pos": 60,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "d30482df2bf4297c385f6679806787280e4e6925493c2835aecf53256d19b9be",
+      "current_translation": "STINGRAY\n¡Argh! ¡Todavía me sigue!\fSTINGRAY\n¡Ya basta! ¡Lo resolveremos aquí!"
+    },
+    {
+      "id": "dialogue.zero.014",
+      "source": "PEACOCK\nI'm impressed you\nmade it this far!\fPEACOCK\nBut you can't beat\nme! Get ready!",
+      "chars": 85,
+      "control_codes": [
+        {
+          "pos": 7,
+          "code": "\\n"
+        },
+        {
+          "pos": 25,
+          "code": "\\n"
+        },
+        {
+          "pos": 43,
+          "code": "\\f"
+        },
+        {
+          "pos": 51,
+          "code": "\\n"
+        },
+        {
+          "pos": 70,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 18,
+      "source_sha256": "9279712963166688b3d9e9391f014573078ff1cae577d7bafe4c812fd5ed8577",
+      "current_translation": "PEACOCK\n¡Me sorprende que llegaras hasta aquí!\fPEACOCK\n¡Pero no puedes vencerme! ¡Prepárate!"
+    },
+    {
+      "id": "dialogue.zero.015",
+      "source": "OWL\nWhy did you judge\nus as Mavericks!?\fZERO\nWait!\nStop the coup!\fOWL\nNo. We're justified\nin doing this!",
+      "chars": 104,
+      "control_codes": [
+        {
+          "pos": 3,
+          "code": "\\n"
+        },
+        {
+          "pos": 21,
+          "code": "\\n"
+        },
+        {
+          "pos": 39,
+          "code": "\\f"
+        },
+        {
+          "pos": 44,
+          "code": "\\n"
+        },
+        {
+          "pos": 50,
+          "code": "\\n"
+        },
+        {
+          "pos": 65,
+          "code": "\\f"
+        },
+        {
+          "pos": 69,
+          "code": "\\n"
+        },
+        {
+          "pos": 89,
+          "code": "\\n"
+        }
+      ],
+      "pages": 3,
+      "lines_per_page": [
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "6b0baef85483e8b25cf749c8ac8af7c5d31bf002ed0ef672a0b41dd71e71d57f",
+      "current_translation": "OWL\n¡¿Por qué nos declararon Mavericks?!\fZERO\n¡Espera! ¡Detén el golpe de estado!\fOWL\n¡No! ¡Tenemos motivos para hacerlo!"
+    },
+    {
+      "id": "dialogue.zero.016",
+      "source": "BEAST\nYou dared to attack\nmy unit?!\fBEAST\nI'm gonna enjoy\nfighting you!",
+      "chars": 71,
+      "control_codes": [
+        {
+          "pos": 5,
+          "code": "\\n"
+        },
+        {
+          "pos": 25,
+          "code": "\\n"
+        },
+        {
+          "pos": 35,
+          "code": "\\f"
+        },
+        {
+          "pos": 41,
+          "code": "\\n"
+        },
+        {
+          "pos": 57,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "dc1fed7925cbc8cb9fb4ff03f3984f0b67e52e83034220ed9144ce29700e4d60",
+      "current_translation": "BEAST\n¡¿Te atreves a atacar a mi unidad?!\fBEAST\n¡Disfrutaré mucho esta pelea!"
+    },
+    {
+      "id": "dialogue.zero.017",
+      "source": "RAIJINGEKI\nS.M. button on\nthe ground.\fLightning attack.\nEffective against\ndistant enemies.",
+      "chars": 90,
+      "control_codes": [
+        {
+          "pos": 10,
+          "code": "\\n"
+        },
+        {
+          "pos": 25,
+          "code": "\\n"
+        },
+        {
+          "pos": 37,
+          "code": "\\f"
+        },
+        {
+          "pos": 55,
+          "code": "\\n"
+        },
+        {
+          "pos": 73,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 17,
+      "source_sha256": "d8768d64ac4de09d964352cc3ab2da920b7d25cc3326be7aa8923c27d89401ca",
+      "current_translation": "RAIJINGEKI\nPulsa el botón S.M. estando en el suelo.\fUn ataque eléctrico eficaz contra enemigos lejanos."
+    },
+    {
+      "id": "dialogue.zero.018",
+      "source": "HYOURETSUZAN\nDown + S.M. button\nwhile jumping.\fA dive attack.\nEffective against\nsurface enemies.",
+      "chars": 96,
+      "control_codes": [
+        {
+          "pos": 12,
+          "code": "\\n"
+        },
+        {
+          "pos": 31,
+          "code": "\\n"
+        },
+        {
+          "pos": 46,
+          "code": "\\f"
+        },
+        {
+          "pos": 61,
+          "code": "\\n"
+        },
+        {
+          "pos": 79,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 18,
+      "source_sha256": "96ff42f88d493ba2d74eceffc6ba3378f2cb1705b34d05314e930c251eed3341",
+      "current_translation": "HYOURETSUZAN\nAbajo + botón S.M. durante un salto.\fUn ataque en picado eficaz contra enemigos del suelo."
+    },
+    {
+      "id": "dialogue.zero.019",
+      "source": "KUUENBU\nWith the correct\ntiming, higher and\ffurther jumps are\npossible while\nairborne.\fKuuenzan may be\nactivated while\nattacking in \fthe air.",
+      "chars": 141,
+      "control_codes": [
+        {
+          "pos": 7,
+          "code": "\\n"
+        },
+        {
+          "pos": 24,
+          "code": "\\n"
+        },
+        {
+          "pos": 43,
+          "code": "\\f"
+        },
+        {
+          "pos": 61,
+          "code": "\\n"
+        },
+        {
+          "pos": 76,
+          "code": "\\n"
+        },
+        {
+          "pos": 86,
+          "code": "\\f"
+        },
+        {
+          "pos": 102,
+          "code": "\\n"
+        },
+        {
+          "pos": 118,
+          "code": "\\n"
+        },
+        {
+          "pos": 132,
+          "code": "\\f"
+        }
+      ],
+      "pages": 4,
+      "lines_per_page": [
+        3,
+        3,
+        3,
+        1
+      ],
+      "max_line_len": 18,
+      "source_sha256": "2c71451248a335388e878f59171f782f8fb6e276024a54ede7fda33ffecebc1f",
+      "current_translation": "KUUENBU\nCon el ritmo adecuado puedes saltar...\f...más alto y más lejos desde el aire.\fActiva Kuuenzan al atacar en el aire."
+    },
+    {
+      "id": "dialogue.zero.020",
+      "source": "RYUENJEIN\nUp + S.M. button on\nthe ground.\fA powerful attack\nthat burns enemies\nwith flames.\fSome objects may be\nburned with this\ntechnique.",
+      "chars": 139,
+      "control_codes": [
+        {
+          "pos": 9,
+          "code": "\\n"
+        },
+        {
+          "pos": 29,
+          "code": "\\n"
+        },
+        {
+          "pos": 41,
+          "code": "\\f"
+        },
+        {
+          "pos": 59,
+          "code": "\\n"
+        },
+        {
+          "pos": 78,
+          "code": "\\n"
+        },
+        {
+          "pos": 91,
+          "code": "\\f"
+        },
+        {
+          "pos": 111,
+          "code": "\\n"
+        },
+        {
+          "pos": 128,
+          "code": "\\n"
+        }
+      ],
+      "pages": 3,
+      "lines_per_page": [
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "03d7553da15a9360fa53bbd311c49aff1f38e5e6ed4583a8258fa322160087ef",
+      "current_translation": "RYUENJEIN\nArriba + botón S.M. desde el suelo.\fUn poderoso ataque que quema a los enemigos.\fTambién permite quemar ciertos objetos."
+    },
+    {
+      "id": "dialogue.zero.021",
+      "source": "HIENKYAKU\nDash button while\njumping. May be\fexecuted in the air.",
+      "chars": 64,
+      "control_codes": [
+        {
+          "pos": 9,
+          "code": "\\n"
+        },
+        {
+          "pos": 27,
+          "code": "\\n"
+        },
+        {
+          "pos": 43,
+          "code": "\\f"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        1
+      ],
+      "max_line_len": 20,
+      "source_sha256": "b118235de90b54db49f60a7aaa6a6befd42585b52c80a70c71f7199e8ba1df4f",
+      "current_translation": "HIENKYAKU\nPulsa el botón de aceleración al saltar.\fPermite acelerar en el aire."
+    },
+    {
+      "id": "dialogue.zero.022",
+      "source": "RAKUHOUHA\nGiga attack button\non the ground.\fThe ultimate special\nattack that channels\nall stored\fenergy into one\nblast. Use this\nmove selectively as\fit consumes energy.",
+      "chars": 168,
+      "control_codes": [
+        {
+          "pos": 9,
+          "code": "\\n"
+        },
+        {
+          "pos": 28,
+          "code": "\\n"
+        },
+        {
+          "pos": 43,
+          "code": "\\f"
+        },
+        {
+          "pos": 64,
+          "code": "\\n"
+        },
+        {
+          "pos": 85,
+          "code": "\\n"
+        },
+        {
+          "pos": 96,
+          "code": "\\f"
+        },
+        {
+          "pos": 112,
+          "code": "\\n"
+        },
+        {
+          "pos": 128,
+          "code": "\\n"
+        },
+        {
+          "pos": 148,
+          "code": "\\f"
+        }
+      ],
+      "pages": 4,
+      "lines_per_page": [
+        3,
+        3,
+        3,
+        1
+      ],
+      "max_line_len": 20,
+      "source_sha256": "de3cb5d7f2f62bd77bb38dbb229ca0cd6a40faed1ca75137c0bb72aafa158311",
+      "current_translation": "RAKUHOUHA\nPulsa el botón Giga desde el suelo.\fUn ataque especial que concentra toda tu energía...\f...en una sola descarga.\fConsume energía. ¡Úsalo con cuidado!"
+    },
+    {
+      "id": "dialogue.zero.023",
+      "source": "TENKUUHA\nEnhanced Z Saber!\nYou can cut enemy\fenergy shots with\nyour saber.",
+      "chars": 74,
+      "control_codes": [
+        {
+          "pos": 8,
+          "code": "\\n"
+        },
+        {
+          "pos": 26,
+          "code": "\\n"
+        },
+        {
+          "pos": 44,
+          "code": "\\f"
+        },
+        {
+          "pos": 62,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        2
+      ],
+      "max_line_len": 17,
+      "source_sha256": "cde9018c06176e39ed451f3542e7ff2446fa81061b1dc463a02dbc23318e148b",
+      "current_translation": "TENKUUHA\n¡Mejora el Z Saber! Puedes cortar...\f...los disparos de energía enemigos con el sable."
+    },
+    {
+      "id": "dialogue.zero.024",
+      "source": "SIPPUUGA\nS.M. button while\ndashing. You can\fexecute a powerful\ndash blade attack.\nApproach your enemy\fwith Sippuuga and\nperform a combo!",
+      "chars": 136,
+      "control_codes": [
+        {
+          "pos": 8,
+          "code": "\\n"
+        },
+        {
+          "pos": 26,
+          "code": "\\n"
+        },
+        {
+          "pos": 43,
+          "code": "\\f"
+        },
+        {
+          "pos": 62,
+          "code": "\\n"
+        },
+        {
+          "pos": 81,
+          "code": "\\n"
+        },
+        {
+          "pos": 101,
+          "code": "\\f"
+        },
+        {
+          "pos": 119,
+          "code": "\\n"
+        }
+      ],
+      "pages": 3,
+      "lines_per_page": [
+        3,
+        3,
+        2
+      ],
+      "max_line_len": 19,
+      "source_sha256": "3a92d992799953ce6cac028a3d291d5876281866c996fb7368bccb97f7343150",
+      "current_translation": "SIPPUUGA\nPulsa el botón S.M. mientras aceleras.\fEjecuta una poderosa estocada en carrera.\f¡Acércate con Sippuuga y enlaza un combo!"
+    },
+    {
+      "id": "dialogue.zero.025",
+      "source": "HUNTER H.Q.\nMavericks emerged\nat the point 5567.\fHUNTER H.Q.\nThey've occupied\nSky Lagoon!\fHUNTER H.Q.\nThis looks like\nRepliforce's doing!\fZERO\nRepliforce? ...OK.\nI'm on my way.",
+      "chars": 176,
+      "control_codes": [
+        {
+          "pos": 11,
+          "code": "\\n"
+        },
+        {
+          "pos": 29,
+          "code": "\\n"
+        },
+        {
+          "pos": 48,
+          "code": "\\f"
+        },
+        {
+          "pos": 60,
+          "code": "\\n"
+        },
+        {
+          "pos": 77,
+          "code": "\\n"
+        },
+        {
+          "pos": 89,
+          "code": "\\f"
+        },
+        {
+          "pos": 101,
+          "code": "\\n"
+        },
+        {
+          "pos": 117,
+          "code": "\\n"
+        },
+        {
+          "pos": 137,
+          "code": "\\f"
+        },
+        {
+          "pos": 142,
+          "code": "\\n"
+        },
+        {
+          "pos": 161,
+          "code": "\\n"
+        }
+      ],
+      "pages": 4,
+      "lines_per_page": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "ac319f667be0db307aba8295de27c0c47a90376a35235b2762ab400b577939da",
+      "current_translation": "CUARTEL\nHay Mavericks en el punto 5567.\fCUARTEL\n¡Han ocupado Sky Lagoon!\fCUARTEL\n¡Parece obra de Repliforce!\fZERO\n¿Repliforce? ...Bien. Voy para allá."
+    },
+    {
+      "id": "dialogue.zero.026",
+      "source": "COLONEL\nZero! \nLong time no see!\fZERO\nColonel... What\nare you doing here?\fCOLONEL\nI've come to save\nmy sister Iris.\fCOLONEL\nI only hope she's\nokay...\fZERO\nShe's fine! I just\nrescued her.\fCOLONEL\nOh? Thanks Zero!\nI owe you one...\fZERO\n...Colonel. I have\na question for you.\fZERO\n...Did your unit\nattack this place?\fCOLONEL\nWhat are you\ntalking about?\fCOLONEL\nRepliforce came\nhere for help.\fCOLONEL\nWe weren't involved\nin the attack!\fZERO\nThey suspect you've\nbecome a Maverick.\fCOLONEL\nWhat!?\fZERO\nDisarm and come\nwith me to the H.Q.\fCOLONEL\nI'm afraid I can't.\nSoldiers never\fCOLONEL\ndrop their weapons!\fCOLONEL\nI won't do it, not\neven for you Zero!\fZERO\nThen they'll think\nyou're a Maverick!\fCOLONEL\nSo be it!\nThe Repliforce\fCOLONEL\nprefers war over\ndishonor and shame!\fCOLONEL\nGood bye, Zero!\fZERO\nWait! Colonel!\nListen to me!",
+      "chars": 827,
+      "control_codes": [
+        {
+          "pos": 7,
+          "code": "\\n"
+        },
+        {
+          "pos": 14,
+          "code": "\\n"
+        },
+        {
+          "pos": 32,
+          "code": "\\f"
+        },
+        {
+          "pos": 37,
+          "code": "\\n"
+        },
+        {
+          "pos": 53,
+          "code": "\\n"
+        },
+        {
+          "pos": 73,
+          "code": "\\f"
+        },
+        {
+          "pos": 81,
+          "code": "\\n"
+        },
+        {
+          "pos": 99,
+          "code": "\\n"
+        },
+        {
+          "pos": 115,
+          "code": "\\f"
+        },
+        {
+          "pos": 123,
+          "code": "\\n"
+        },
+        {
+          "pos": 141,
+          "code": "\\n"
+        },
+        {
+          "pos": 149,
+          "code": "\\f"
+        },
+        {
+          "pos": 154,
+          "code": "\\n"
+        },
+        {
+          "pos": 173,
+          "code": "\\n"
+        },
+        {
+          "pos": 186,
+          "code": "\\f"
+        },
+        {
+          "pos": 194,
+          "code": "\\n"
+        },
+        {
+          "pos": 211,
+          "code": "\\n"
+        },
+        {
+          "pos": 228,
+          "code": "\\f"
+        },
+        {
+          "pos": 233,
+          "code": "\\n"
+        },
+        {
+          "pos": 252,
+          "code": "\\n"
+        },
+        {
+          "pos": 272,
+          "code": "\\f"
+        },
+        {
+          "pos": 277,
+          "code": "\\n"
+        },
+        {
+          "pos": 294,
+          "code": "\\n"
+        },
+        {
+          "pos": 313,
+          "code": "\\f"
+        },
+        {
+          "pos": 321,
+          "code": "\\n"
+        },
+        {
+          "pos": 334,
+          "code": "\\n"
+        },
+        {
+          "pos": 349,
+          "code": "\\f"
+        },
+        {
+          "pos": 357,
+          "code": "\\n"
+        },
+        {
+          "pos": 373,
+          "code": "\\n"
+        },
+        {
+          "pos": 388,
+          "code": "\\f"
+        },
+        {
+          "pos": 396,
+          "code": "\\n"
+        },
+        {
+          "pos": 416,
+          "code": "\\n"
+        },
+        {
+          "pos": 431,
+          "code": "\\f"
+        },
+        {
+          "pos": 436,
+          "code": "\\n"
+        },
+        {
+          "pos": 456,
+          "code": "\\n"
+        },
+        {
+          "pos": 475,
+          "code": "\\f"
+        },
+        {
+          "pos": 483,
+          "code": "\\n"
+        },
+        {
+          "pos": 490,
+          "code": "\\f"
+        },
+        {
+          "pos": 495,
+          "code": "\\n"
+        },
+        {
+          "pos": 511,
+          "code": "\\n"
+        },
+        {
+          "pos": 531,
+          "code": "\\f"
+        },
+        {
+          "pos": 539,
+          "code": "\\n"
+        },
+        {
+          "pos": 559,
+          "code": "\\n"
+        },
+        {
+          "pos": 574,
+          "code": "\\f"
+        },
+        {
+          "pos": 582,
+          "code": "\\n"
+        },
+        {
+          "pos": 602,
+          "code": "\\f"
+        },
+        {
+          "pos": 610,
+          "code": "\\n"
+        },
+        {
+          "pos": 629,
+          "code": "\\n"
+        },
+        {
+          "pos": 648,
+          "code": "\\f"
+        },
+        {
+          "pos": 653,
+          "code": "\\n"
+        },
+        {
+          "pos": 672,
+          "code": "\\n"
+        },
+        {
+          "pos": 691,
+          "code": "\\f"
+        },
+        {
+          "pos": 699,
+          "code": "\\n"
+        },
+        {
+          "pos": 709,
+          "code": "\\n"
+        },
+        {
+          "pos": 724,
+          "code": "\\f"
+        },
+        {
+          "pos": 732,
+          "code": "\\n"
+        },
+        {
+          "pos": 749,
+          "code": "\\n"
+        },
+        {
+          "pos": 769,
+          "code": "\\f"
+        },
+        {
+          "pos": 777,
+          "code": "\\n"
+        },
+        {
+          "pos": 793,
+          "code": "\\f"
+        },
+        {
+          "pos": 798,
+          "code": "\\n"
+        },
+        {
+          "pos": 813,
+          "code": "\\n"
+        }
+      ],
+      "pages": 22,
+      "lines_per_page": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "560979bc47be6038e3cf14422c353f84443ce52d13c7427919de8cb364841924",
+      "current_translation": "COLONEL\n¡Zero! ¡Cuánto tiempo!\fZERO\nColonel... ¿Qué haces aquí?\fCOLONEL\nVine a rescatar a mi hermana Iris.\fCOLONEL\nEspero que esté bien...\fZERO\n¡Está bien! Acabo de rescatarla.\fCOLONEL\n¡Gracias, Zero! Te debo una.\fZERO\nColonel... Debo preguntarte algo.\fZERO\n¿Tu unidad atacó este lugar?\fCOLONEL\n¿De qué hablas?\fCOLONEL\nRepliforce vino a prestar ayuda.\fCOLONEL\n¡No participamos en el ataque!\fZERO\nSospechan que eres un Maverick.\fCOLONEL\n¡¿Qué?!\fZERO\nDepón las armas y ven al cuartel.\fCOLONEL\nNo puedo hacerlo. Un soldado jamás...\fCOLONEL\n...¡entrega sus armas!\fCOLONEL\n¡No lo haré ni por ti, Zero!\fZERO\n¡Entonces te declararán Maverick!\fCOLONEL\n¡Que así sea! ¡Repliforce...\fCOLONEL\n...prefiere la guerra al deshonor!\fCOLONEL\n¡Adiós, Zero!\fZERO\n¡Espera, Colonel! ¡Escúchame!"
+    },
+    {
+      "id": "dialogue.zero.027",
+      "source": "ZERO\nIris! ...What are\nyou doing here?\fIRIS\nMy brother Colonel\nstarted the coup!\fZERO\nI know...\fIRIS\nPlease don't fight\nagainst him!\fIRIS\nThis must be some\nkind of mistake!\fZERO\nThey've occupied\nseveral\fZERO\ncities already.\fZERO\nAs a hunter, I must\nstop them!\fIRIS\nZero...\fZERO\nI must go now!",
+      "chars": 292,
+      "control_codes": [
+        {
+          "pos": 4,
+          "code": "\\n"
+        },
+        {
+          "pos": 22,
+          "code": "\\n"
+        },
+        {
+          "pos": 38,
+          "code": "\\f"
+        },
+        {
+          "pos": 43,
+          "code": "\\n"
+        },
+        {
+          "pos": 62,
+          "code": "\\n"
+        },
+        {
+          "pos": 80,
+          "code": "\\f"
+        },
+        {
+          "pos": 85,
+          "code": "\\n"
+        },
+        {
+          "pos": 95,
+          "code": "\\f"
+        },
+        {
+          "pos": 100,
+          "code": "\\n"
+        },
+        {
+          "pos": 119,
+          "code": "\\n"
+        },
+        {
+          "pos": 132,
+          "code": "\\f"
+        },
+        {
+          "pos": 137,
+          "code": "\\n"
+        },
+        {
+          "pos": 155,
+          "code": "\\n"
+        },
+        {
+          "pos": 172,
+          "code": "\\f"
+        },
+        {
+          "pos": 177,
+          "code": "\\n"
+        },
+        {
+          "pos": 194,
+          "code": "\\n"
+        },
+        {
+          "pos": 202,
+          "code": "\\f"
+        },
+        {
+          "pos": 207,
+          "code": "\\n"
+        },
+        {
+          "pos": 223,
+          "code": "\\f"
+        },
+        {
+          "pos": 228,
+          "code": "\\n"
+        },
+        {
+          "pos": 248,
+          "code": "\\n"
+        },
+        {
+          "pos": 259,
+          "code": "\\f"
+        },
+        {
+          "pos": 264,
+          "code": "\\n"
+        },
+        {
+          "pos": 272,
+          "code": "\\f"
+        },
+        {
+          "pos": 277,
+          "code": "\\n"
+        }
+      ],
+      "pages": 10,
+      "lines_per_page": [
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        2,
+        3,
+        2,
+        2
+      ],
+      "max_line_len": 19,
+      "source_sha256": "6bc5293f3677de60c9e1d205a31b71fd6b85e3f88ef5bd4dd73526d720a8b001",
+      "current_translation": "ZERO\n¡Iris! ¿Qué haces aquí?\fIRIS\n¡Mi hermano Colonel inició el golpe!\fZERO\nLo sé...\fIRIS\n¡Por favor, no luches contra él!\fIRIS\n¡Esto debe de ser un error!\fZERO\nYa han ocupado varias...\fZERO\n...ciudades.\fZERO\n¡Como cazador, debo detenerlos!\fIRIS\nZero...\fZERO\n¡Debo irme!"
+    },
+    {
+      "id": "dialogue.zero.028",
+      "source": "IRIS\nI've got a message\nfrom Repliforce...\fCOLONEL\nZero! I'll be at the\nMemorial Hall!\fCOLONEL\nBe there!\fIRIS\nDon't go Zero!\nDon't fight him!\fZERO\nThis is a matter of\npersonal pride now.\fZERO\nThere's no avoiding\nthis... I must go.",
+      "chars": 230,
+      "control_codes": [
+        {
+          "pos": 4,
+          "code": "\\n"
+        },
+        {
+          "pos": 23,
+          "code": "\\n"
+        },
+        {
+          "pos": 42,
+          "code": "\\f"
+        },
+        {
+          "pos": 50,
+          "code": "\\n"
+        },
+        {
+          "pos": 71,
+          "code": "\\n"
+        },
+        {
+          "pos": 86,
+          "code": "\\f"
+        },
+        {
+          "pos": 94,
+          "code": "\\n"
+        },
+        {
+          "pos": 104,
+          "code": "\\f"
+        },
+        {
+          "pos": 109,
+          "code": "\\n"
+        },
+        {
+          "pos": 124,
+          "code": "\\n"
+        },
+        {
+          "pos": 141,
+          "code": "\\f"
+        },
+        {
+          "pos": 146,
+          "code": "\\n"
+        },
+        {
+          "pos": 166,
+          "code": "\\n"
+        },
+        {
+          "pos": 186,
+          "code": "\\f"
+        },
+        {
+          "pos": 191,
+          "code": "\\n"
+        },
+        {
+          "pos": 211,
+          "code": "\\n"
+        }
+      ],
+      "pages": 6,
+      "lines_per_page": [
+        3,
+        3,
+        2,
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 20,
+      "source_sha256": "8e81dfdb2acb7f6899262f59cf180b17b912a18dd8ce0747477028250eb7ad17",
+      "current_translation": "IRIS\nTengo un mensaje de Repliforce...\fCOLONEL\n¡Zero! ¡Te espero en Memorial Hall!\fCOLONEL\n¡No faltes!\fIRIS\n¡No vayas, Zero! ¡No luches con él!\fZERO\nAhora es una cuestión de orgullo.\fZERO\nNo puedo evitarlo... Debo ir."
+    },
+    {
+      "id": "dialogue.zero.029",
+      "source": "IRIS\nRepliforce is at\nthe space harbor...\fZERO\nI have to go.\fIRIS\nNo! ...Please wait\nZero!\fIRIS\nI don't want to see\nyou two fight...\fZERO\nSomeone has to stop\nyour brother.\fZERO\nI'm leaving...",
+      "chars": 191,
+      "control_codes": [
+        {
+          "pos": 4,
+          "code": "\\n"
+        },
+        {
+          "pos": 21,
+          "code": "\\n"
+        },
+        {
+          "pos": 41,
+          "code": "\\f"
+        },
+        {
+          "pos": 46,
+          "code": "\\n"
+        },
+        {
+          "pos": 60,
+          "code": "\\f"
+        },
+        {
+          "pos": 65,
+          "code": "\\n"
+        },
+        {
+          "pos": 84,
+          "code": "\\n"
+        },
+        {
+          "pos": 90,
+          "code": "\\f"
+        },
+        {
+          "pos": 95,
+          "code": "\\n"
+        },
+        {
+          "pos": 115,
+          "code": "\\n"
+        },
+        {
+          "pos": 132,
+          "code": "\\f"
+        },
+        {
+          "pos": 137,
+          "code": "\\n"
+        },
+        {
+          "pos": 157,
+          "code": "\\n"
+        },
+        {
+          "pos": 171,
+          "code": "\\f"
+        },
+        {
+          "pos": 176,
+          "code": "\\n"
+        }
+      ],
+      "pages": 6,
+      "lines_per_page": [
+        3,
+        2,
+        3,
+        3,
+        3,
+        2
+      ],
+      "max_line_len": 19,
+      "source_sha256": "324f1a8d5385e0cd817601d09fc2e8470d68053bfad5e08a81825cbfeb130c64",
+      "current_translation": "IRIS\nRepliforce está en el puerto espacial...\fZERO\nTengo que ir.\fIRIS\n¡No! ¡Por favor, espera, Zero!\fIRIS\nNo quiero verlos luchar...\fZERO\nAlguien debe detener a tu hermano.\fZERO\nMe voy..."
+    },
+    {
+      "id": "dialogue.zero.030",
+      "source": "ZERO\nI don't want to\nfight. Step back.\fCOLONEL\nI'm sorry. I can't\nlet you through...\fZERO\nIris will be sad if\nshe loses you...\fCOLONEL\nDon't be so\npresumptuous Zero!\fCOLONEL\nSave it until after\nyou've defeated me!",
+      "chars": 213,
+      "control_codes": [
+        {
+          "pos": 4,
+          "code": "\\n"
+        },
+        {
+          "pos": 20,
+          "code": "\\n"
+        },
+        {
+          "pos": 38,
+          "code": "\\f"
+        },
+        {
+          "pos": 46,
+          "code": "\\n"
+        },
+        {
+          "pos": 65,
+          "code": "\\n"
+        },
+        {
+          "pos": 84,
+          "code": "\\f"
+        },
+        {
+          "pos": 89,
+          "code": "\\n"
+        },
+        {
+          "pos": 109,
+          "code": "\\n"
+        },
+        {
+          "pos": 126,
+          "code": "\\f"
+        },
+        {
+          "pos": 134,
+          "code": "\\n"
+        },
+        {
+          "pos": 146,
+          "code": "\\n"
+        },
+        {
+          "pos": 165,
+          "code": "\\f"
+        },
+        {
+          "pos": 173,
+          "code": "\\n"
+        },
+        {
+          "pos": 193,
+          "code": "\\n"
+        }
+      ],
+      "pages": 5,
+      "lines_per_page": [
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "3e3c07eecd9cdfc0ddce119afb0599dc39b3beb90f08f97acd79dc3c2cc6109b",
+      "current_translation": "ZERO\nNo quiero luchar. Apártate.\fCOLONEL\nLo siento. No puedo dejarte pasar.\fZERO\nIris sufrirá si te pierde...\fCOLONEL\n¡No seas tan arrogante, Zero!\fCOLONEL\n¡Dilo cuando me hayas vencido!"
+    },
+    {
+      "id": "dialogue.zero.031",
+      "source": "HUNTER H.Q.\nThey've left for\nouter space!\fHUNTER H.Q.\nScramble all\nMaverick Hunters!\fZERO\nIris? Where are\nyou? Iris!\fZERO\nShe left with them?\nNo!!\fHUNTER H.Q.\nMaverick Hunters!\nScramble!\fZERO\nI'm on my way!\fZERO\nDon't do this to me\nIris...",
+      "chars": 239,
+      "control_codes": [
+        {
+          "pos": 11,
+          "code": "\\n"
+        },
+        {
+          "pos": 28,
+          "code": "\\n"
+        },
+        {
+          "pos": 41,
+          "code": "\\f"
+        },
+        {
+          "pos": 53,
+          "code": "\\n"
+        },
+        {
+          "pos": 66,
+          "code": "\\n"
+        },
+        {
+          "pos": 84,
+          "code": "\\f"
+        },
+        {
+          "pos": 89,
+          "code": "\\n"
+        },
+        {
+          "pos": 105,
+          "code": "\\n"
+        },
+        {
+          "pos": 116,
+          "code": "\\f"
+        },
+        {
+          "pos": 121,
+          "code": "\\n"
+        },
+        {
+          "pos": 141,
+          "code": "\\n"
+        },
+        {
+          "pos": 146,
+          "code": "\\f"
+        },
+        {
+          "pos": 158,
+          "code": "\\n"
+        },
+        {
+          "pos": 176,
+          "code": "\\n"
+        },
+        {
+          "pos": 186,
+          "code": "\\f"
+        },
+        {
+          "pos": 191,
+          "code": "\\n"
+        },
+        {
+          "pos": 206,
+          "code": "\\f"
+        },
+        {
+          "pos": 211,
+          "code": "\\n"
+        },
+        {
+          "pos": 231,
+          "code": "\\n"
+        }
+      ],
+      "pages": 7,
+      "lines_per_page": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "69748cb91ca59d9674d76dc4b99d0dc6c135fcb5489175c06e40ba57606bbfbc",
+      "current_translation": "CUARTEL\n¡Han partido hacia el espacio!\fCUARTEL\n¡Desplieguen a todos los cazadores!\fZERO\n¿Iris? ¿Dónde estás? ¡Iris!\fZERO\n¿Se fue con ellos? ¡¡No!!\fCUARTEL\n¡Cazadores! ¡A sus puestos!\fZERO\n¡Estoy en camino!\fZERO\nNo me hagas esto, Iris..."
+    },
+    {
+      "id": "dialogue.zero.032",
+      "source": "ZERO\nIris!\fIRIS\nSo you fought with\nmy brother...\fZERO\nI'm sorry...\fIRIS\nThen it's over.\nEverything...\fZERO\nWait Iris!\nListen to me!\fIRIS\nGood bye Zero...\fZERO\nIris!",
+      "chars": 164,
+      "control_codes": [
+        {
+          "pos": 4,
+          "code": "\\n"
+        },
+        {
+          "pos": 10,
+          "code": "\\f"
+        },
+        {
+          "pos": 15,
+          "code": "\\n"
+        },
+        {
+          "pos": 34,
+          "code": "\\n"
+        },
+        {
+          "pos": 48,
+          "code": "\\f"
+        },
+        {
+          "pos": 53,
+          "code": "\\n"
+        },
+        {
+          "pos": 66,
+          "code": "\\f"
+        },
+        {
+          "pos": 71,
+          "code": "\\n"
+        },
+        {
+          "pos": 87,
+          "code": "\\n"
+        },
+        {
+          "pos": 101,
+          "code": "\\f"
+        },
+        {
+          "pos": 106,
+          "code": "\\n"
+        },
+        {
+          "pos": 117,
+          "code": "\\n"
+        },
+        {
+          "pos": 131,
+          "code": "\\f"
+        },
+        {
+          "pos": 136,
+          "code": "\\n"
+        },
+        {
+          "pos": 153,
+          "code": "\\f"
+        },
+        {
+          "pos": 158,
+          "code": "\\n"
+        }
+      ],
+      "pages": 7,
+      "lines_per_page": [
+        2,
+        3,
+        2,
+        3,
+        3,
+        2,
+        2
+      ],
+      "max_line_len": 18,
+      "source_sha256": "f9e6b69df69633576964eabc0712fd23bec7222ac63167e9afc184790baeb59f",
+      "current_translation": "ZERO\n¡Iris!\fIRIS\nAsí que luchaste contra mi hermano...\fZERO\nLo siento...\fIRIS\nEntonces se acabó. Todo...\fZERO\n¡Espera, Iris! ¡Escúchame!\fIRIS\nAdiós, Zero...\fZERO\n¡Iris!"
+    },
+    {
+      "id": "dialogue.zero.033",
+      "source": "ZERO\nGeneral! Many died\nbecause of you!\fZERO\nThose lives are on\nyour conscience!\fGENERAL\nIndependence always\nhas a high price...\fZERO\nWhat about Iris?!\nDid you forget her?\fGENERAL\nI have no regrets.\nCome on, Zero!",
+      "chars": 213,
+      "control_codes": [
+        {
+          "pos": 4,
+          "code": "\\n"
+        },
+        {
+          "pos": 23,
+          "code": "\\n"
+        },
+        {
+          "pos": 39,
+          "code": "\\f"
+        },
+        {
+          "pos": 44,
+          "code": "\\n"
+        },
+        {
+          "pos": 63,
+          "code": "\\n"
+        },
+        {
+          "pos": 80,
+          "code": "\\f"
+        },
+        {
+          "pos": 88,
+          "code": "\\n"
+        },
+        {
+          "pos": 108,
+          "code": "\\n"
+        },
+        {
+          "pos": 128,
+          "code": "\\f"
+        },
+        {
+          "pos": 133,
+          "code": "\\n"
+        },
+        {
+          "pos": 151,
+          "code": "\\n"
+        },
+        {
+          "pos": 171,
+          "code": "\\f"
+        },
+        {
+          "pos": 179,
+          "code": "\\n"
+        },
+        {
+          "pos": 198,
+          "code": "\\n"
+        }
+      ],
+      "pages": 5,
+      "lines_per_page": [
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "68ad4d0c0ed86b01992c85c83d270785fa03d37e42e31c1adda43d88e89f22a7",
+      "current_translation": "ZERO\n¡General! ¡Muchos murieron por tu culpa!\fZERO\n¡Esas vidas pesan sobre tu conciencia!\fGENERAL\nLa independencia tiene un alto precio...\fZERO\n¡¿Y qué hay de Iris?! ¡¿La olvidaste?!\fGENERAL\nNo me arrepiento. ¡Ven, Zero!"
+    },
+    {
+      "id": "dialogue.zero.034",
+      "source": "ZERO\nWhat is this!?\nWhat happened!?\fGENERAL\nNo! This weapon\ncan't be working...\fZERO\nGeneral! What's\nwrong?\fGENERAL\nSomeone else is\ncontrolling it!\fZERO\nThen... Earth's\nin grave danger!\fZERO\nIt must be stopped!\nI'll handle this...",
+      "chars": 230,
+      "control_codes": [
+        {
+          "pos": 4,
+          "code": "\\n"
+        },
+        {
+          "pos": 19,
+          "code": "\\n"
+        },
+        {
+          "pos": 35,
+          "code": "\\f"
+        },
+        {
+          "pos": 43,
+          "code": "\\n"
+        },
+        {
+          "pos": 59,
+          "code": "\\n"
+        },
+        {
+          "pos": 79,
+          "code": "\\f"
+        },
+        {
+          "pos": 84,
+          "code": "\\n"
+        },
+        {
+          "pos": 100,
+          "code": "\\n"
+        },
+        {
+          "pos": 107,
+          "code": "\\f"
+        },
+        {
+          "pos": 115,
+          "code": "\\n"
+        },
+        {
+          "pos": 131,
+          "code": "\\n"
+        },
+        {
+          "pos": 147,
+          "code": "\\f"
+        },
+        {
+          "pos": 152,
+          "code": "\\n"
+        },
+        {
+          "pos": 168,
+          "code": "\\n"
+        },
+        {
+          "pos": 185,
+          "code": "\\f"
+        },
+        {
+          "pos": 190,
+          "code": "\\n"
+        },
+        {
+          "pos": 210,
+          "code": "\\n"
+        }
+      ],
+      "pages": 6,
+      "lines_per_page": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "d5c1f47ffddc3cc7aa9275b850064f0c5109ada87291268d14dd519d47b66af7",
+      "current_translation": "ZERO\n¡¿Qué es esto?! ¡¿Qué ha pasado?!\fGENERAL\n¡No! Esta arma no debería funcionar...\fZERO\n¡General! ¿Qué ocurre?\fGENERAL\n¡Alguien más la controla!\fZERO\n¡La Tierra corre un grave peligro!\fZERO\n¡Hay que detenerla! Yo me encargaré..."
+    },
+    {
+      "id": "dialogue.zero.035",
+      "source": "SIGMA\nHee hee hee.\nGood work, Zero!\fZERO\nYou're... Sigma!\n...So it was you!\fSIGMA\nHee hee hee. Yes!\nSimply brilliant!\fSIGMA\nYou even defeated\nColonel and Iris!\fZERO\n...You made me\ndo it!\fSIGMA\nNo. You wanted to\ndestroy them!\fSIGMA\nAllow me to remind\nyou that I was once\fSIGMA\nthe leader of the\nMaverick Hunters...",
+      "chars": 313,
+      "control_codes": [
+        {
+          "pos": 5,
+          "code": "\\n"
+        },
+        {
+          "pos": 18,
+          "code": "\\n"
+        },
+        {
+          "pos": 35,
+          "code": "\\f"
+        },
+        {
+          "pos": 40,
+          "code": "\\n"
+        },
+        {
+          "pos": 57,
+          "code": "\\n"
+        },
+        {
+          "pos": 75,
+          "code": "\\f"
+        },
+        {
+          "pos": 81,
+          "code": "\\n"
+        },
+        {
+          "pos": 99,
+          "code": "\\n"
+        },
+        {
+          "pos": 117,
+          "code": "\\f"
+        },
+        {
+          "pos": 123,
+          "code": "\\n"
+        },
+        {
+          "pos": 141,
+          "code": "\\n"
+        },
+        {
+          "pos": 159,
+          "code": "\\f"
+        },
+        {
+          "pos": 164,
+          "code": "\\n"
+        },
+        {
+          "pos": 179,
+          "code": "\\n"
+        },
+        {
+          "pos": 186,
+          "code": "\\f"
+        },
+        {
+          "pos": 192,
+          "code": "\\n"
+        },
+        {
+          "pos": 210,
+          "code": "\\n"
+        },
+        {
+          "pos": 224,
+          "code": "\\f"
+        },
+        {
+          "pos": 230,
+          "code": "\\n"
+        },
+        {
+          "pos": 249,
+          "code": "\\n"
+        },
+        {
+          "pos": 269,
+          "code": "\\f"
+        },
+        {
+          "pos": 275,
+          "code": "\\n"
+        },
+        {
+          "pos": 293,
+          "code": "\\n"
+        }
+      ],
+      "pages": 8,
+      "lines_per_page": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "46cb89854fa572f3fde07ad08e9cad7790cde63fea95b7d6260144b7c99f86f0",
+      "current_translation": "SIGMA\nJe, je, je. ¡Buen trabajo, Zero!\fZERO\n¡Eres... Sigma! ¡Todo fue obra tuya!\fSIGMA\n¡Je, je, je! ¡Sí! ¡Brillante!\fSIGMA\n¡Derrotaste a Colonel y a Iris!\fZERO\n...¡Tú me obligaste a hacerlo!\fSIGMA\nNo. ¡Tú querías destruirlos!\fSIGMA\nPermíteme recordarte que fui...\fSIGMA\n...el líder de los cazadores..."
+    },
+    {
+      "id": "dialogue.zero.036",
+      "source": "SIGMA\nZero! You were\na Maverick?!\fZERO\nWhat's your point?!\fZERO\nAre you that\nsurprised?\fSIGMA\nAh... Zero! You're\nmost impressive!\fZERO\nSigma... I will\ndefeat you!",
+      "chars": 162,
+      "control_codes": [
+        {
+          "pos": 5,
+          "code": "\\n"
+        },
+        {
+          "pos": 20,
+          "code": "\\n"
+        },
+        {
+          "pos": 33,
+          "code": "\\f"
+        },
+        {
+          "pos": 38,
+          "code": "\\n"
+        },
+        {
+          "pos": 58,
+          "code": "\\f"
+        },
+        {
+          "pos": 63,
+          "code": "\\n"
+        },
+        {
+          "pos": 76,
+          "code": "\\n"
+        },
+        {
+          "pos": 87,
+          "code": "\\f"
+        },
+        {
+          "pos": 93,
+          "code": "\\n"
+        },
+        {
+          "pos": 112,
+          "code": "\\n"
+        },
+        {
+          "pos": 129,
+          "code": "\\f"
+        },
+        {
+          "pos": 134,
+          "code": "\\n"
+        },
+        {
+          "pos": 150,
+          "code": "\\n"
+        }
+      ],
+      "pages": 5,
+      "lines_per_page": [
+        3,
+        2,
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "ba659e88c014da67228de438aee7822321e8c8d83ad7522cc629d617817b3787",
+      "current_translation": "SIGMA\n¡¿Zero?! ¡¿Tú eras un Maverick?!\fZERO\n¡¿Qué pretendes decir?!\fZERO\n¿Tanto te sorprende?\fSIGMA\n¡Ah, Zero! ¡Eres impresionante!\fZERO\nSigma... ¡Te derrotaré!"
+    },
+    {
+      "id": "dialogue.zero.037",
+      "source": "SIGMA\n...Hee hee hee.\fZERO\nWhat's so funny?\fSIGMA\nThis weapon is\naimed at Earth...\fSIGMA\nNo one can\nstop it...\fZERO\nNo!\fSIGMA\nHa ha ha ha ha!!\nGood bye, Zero!",
+      "chars": 158,
+      "control_codes": [
+        {
+          "pos": 5,
+          "code": "\\n"
+        },
+        {
+          "pos": 21,
+          "code": "\\f"
+        },
+        {
+          "pos": 26,
+          "code": "\\n"
+        },
+        {
+          "pos": 43,
+          "code": "\\f"
+        },
+        {
+          "pos": 49,
+          "code": "\\n"
+        },
+        {
+          "pos": 64,
+          "code": "\\n"
+        },
+        {
+          "pos": 82,
+          "code": "\\f"
+        },
+        {
+          "pos": 88,
+          "code": "\\n"
+        },
+        {
+          "pos": 99,
+          "code": "\\n"
+        },
+        {
+          "pos": 110,
+          "code": "\\f"
+        },
+        {
+          "pos": 115,
+          "code": "\\n"
+        },
+        {
+          "pos": 119,
+          "code": "\\f"
+        },
+        {
+          "pos": 125,
+          "code": "\\n"
+        },
+        {
+          "pos": 142,
+          "code": "\\n"
+        }
+      ],
+      "pages": 6,
+      "lines_per_page": [
+        2,
+        2,
+        3,
+        3,
+        2,
+        3
+      ],
+      "max_line_len": 17,
+      "source_sha256": "3ec17fd650ace19f8ece671f2e38744060e6cc323b7847a35b12b9e8b2b5ddf4",
+      "current_translation": "SIGMA\n...Je, je, je.\fZERO\n¿Qué te hace tanta gracia?\fSIGMA\nEsta arma está apuntando a la Tierra...\fSIGMA\nNadie podrá detenerla...\fZERO\n¡No!\fSIGMA\n¡Ja, ja, ja! ¡Adiós, Zero!"
+    },
+    {
+      "id": "dialogue.zero.038",
+      "source": "ZERO\nGeneral!\fGENERAL\n...Zero...\nI was... wrong.\fGENERAL\nSigma... He blinded\nme to the truth...\fZERO\nIt's okay... Rest.\fGENERAL\n...With my body I\ncan stop the weapon.\fZERO\nBut then you'll...\fGENERAL\nIt's over for this\nsoldier. Farewell!\fZERO\nGeneral!!!",
+      "chars": 252,
+      "control_codes": [
+        {
+          "pos": 4,
+          "code": "\\n"
+        },
+        {
+          "pos": 13,
+          "code": "\\f"
+        },
+        {
+          "pos": 21,
+          "code": "\\n"
+        },
+        {
+          "pos": 32,
+          "code": "\\n"
+        },
+        {
+          "pos": 48,
+          "code": "\\f"
+        },
+        {
+          "pos": 56,
+          "code": "\\n"
+        },
+        {
+          "pos": 76,
+          "code": "\\n"
+        },
+        {
+          "pos": 95,
+          "code": "\\f"
+        },
+        {
+          "pos": 100,
+          "code": "\\n"
+        },
+        {
+          "pos": 119,
+          "code": "\\f"
+        },
+        {
+          "pos": 127,
+          "code": "\\n"
+        },
+        {
+          "pos": 145,
+          "code": "\\n"
+        },
+        {
+          "pos": 166,
+          "code": "\\f"
+        },
+        {
+          "pos": 171,
+          "code": "\\n"
+        },
+        {
+          "pos": 190,
+          "code": "\\f"
+        },
+        {
+          "pos": 198,
+          "code": "\\n"
+        },
+        {
+          "pos": 217,
+          "code": "\\n"
+        },
+        {
+          "pos": 236,
+          "code": "\\f"
+        },
+        {
+          "pos": 241,
+          "code": "\\n"
+        }
+      ],
+      "pages": 8,
+      "lines_per_page": [
+        2,
+        3,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2
+      ],
+      "max_line_len": 20,
+      "source_sha256": "ca4b10764caa1cd5f9cbac3b251f6ebaf5fe7e334c8aab0c7e7dbdb8576e2671",
+      "current_translation": "ZERO\n¡General!\fGENERAL\nZero... Estaba... equivocado.\fGENERAL\nSigma... No me dejó ver la verdad...\fZERO\nEstá bien... Descansa.\fGENERAL\nCon mi cuerpo puedo detener el arma.\fZERO\nPero entonces tú...\fGENERAL\nEste soldado llegó a su fin. ¡Adiós!\fZERO\n¡¡¡General!!!"
+    },
+    {
+      "id": "dialogue.zero.039",
+      "source": "ZERO\nDragoon!?\fZERO\nYou're in the 14th\nunit. Why...?\fDRAGOON\nThis doesn't look\ngood, Zero!\fDRAGOON\nThat Maverick took\nout the power!\fZERO\nWhat! Then the Sky\nLagoon will...\fZERO\ncome crashing into\nthe ground!\fDRAGOON\nYes... And destroy\nthe entire city.\fZERO\nWe have to do\nsomething!\fDRAGOON\nIt's too late.\nI must escape now.\fDRAGOON\nYou'd best do the\nsame Zero...",
+      "chars": 362,
+      "control_codes": [
+        {
+          "pos": 4,
+          "code": "\\n"
+        },
+        {
+          "pos": 14,
+          "code": "\\f"
+        },
+        {
+          "pos": 19,
+          "code": "\\n"
+        },
+        {
+          "pos": 38,
+          "code": "\\n"
+        },
+        {
+          "pos": 52,
+          "code": "\\f"
+        },
+        {
+          "pos": 60,
+          "code": "\\n"
+        },
+        {
+          "pos": 78,
+          "code": "\\n"
+        },
+        {
+          "pos": 90,
+          "code": "\\f"
+        },
+        {
+          "pos": 98,
+          "code": "\\n"
+        },
+        {
+          "pos": 117,
+          "code": "\\n"
+        },
+        {
+          "pos": 132,
+          "code": "\\f"
+        },
+        {
+          "pos": 137,
+          "code": "\\n"
+        },
+        {
+          "pos": 156,
+          "code": "\\n"
+        },
+        {
+          "pos": 171,
+          "code": "\\f"
+        },
+        {
+          "pos": 176,
+          "code": "\\n"
+        },
+        {
+          "pos": 195,
+          "code": "\\n"
+        },
+        {
+          "pos": 207,
+          "code": "\\f"
+        },
+        {
+          "pos": 215,
+          "code": "\\n"
+        },
+        {
+          "pos": 234,
+          "code": "\\n"
+        },
+        {
+          "pos": 251,
+          "code": "\\f"
+        },
+        {
+          "pos": 256,
+          "code": "\\n"
+        },
+        {
+          "pos": 270,
+          "code": "\\n"
+        },
+        {
+          "pos": 281,
+          "code": "\\f"
+        },
+        {
+          "pos": 289,
+          "code": "\\n"
+        },
+        {
+          "pos": 304,
+          "code": "\\n"
+        },
+        {
+          "pos": 323,
+          "code": "\\f"
+        },
+        {
+          "pos": 331,
+          "code": "\\n"
+        },
+        {
+          "pos": 349,
+          "code": "\\n"
+        }
+      ],
+      "pages": 10,
+      "lines_per_page": [
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 18,
+      "source_sha256": "ec916098fdbc3a0350a1e0f5c703e8822d6b85fb78c9d69f0dbd7e377b9e6067",
+      "current_translation": "ZERO\n¡¿Dragoon?!\fZERO\nEres de la unidad 14. ¿Por qué...?\fDRAGOON\n¡Esto no pinta bien, Zero!\fDRAGOON\n¡Ese Maverick cortó la energía!\fZERO\n¡¿Qué?! ¡Entonces Sky Lagoon...\fZERO\n...caerá al suelo!\fDRAGOON\nSí... Y destruirá toda la ciudad.\fZERO\n¡Tenemos que hacer algo!\fDRAGOON\nYa es tarde. Debo escapar.\fDRAGOON\nSerá mejor que hagas lo mismo, Zero..."
+    },
+    {
+      "id": "dialogue.zero.040",
+      "source": "ZERO\nDamn! If the Sky\nLagoon falls...\fZERO\nit will be\ndisastrous!\fZERO\nThere's no time...\nI'm going down!",
+      "chars": 105,
+      "control_codes": [
+        {
+          "pos": 4,
+          "code": "\\n"
+        },
+        {
+          "pos": 21,
+          "code": "\\n"
+        },
+        {
+          "pos": 37,
+          "code": "\\f"
+        },
+        {
+          "pos": 42,
+          "code": "\\n"
+        },
+        {
+          "pos": 53,
+          "code": "\\n"
+        },
+        {
+          "pos": 65,
+          "code": "\\f"
+        },
+        {
+          "pos": 70,
+          "code": "\\n"
+        },
+        {
+          "pos": 89,
+          "code": "\\n"
+        }
+      ],
+      "pages": 3,
+      "lines_per_page": [
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 18,
+      "source_sha256": "a60efd591cec94d10de41e234ecf1b10c8f8528950cc8b2914b9a16acb8fb90c",
+      "current_translation": "ZERO\n¡Maldición! Si Sky Lagoon cae...\fZERO\n...¡será un desastre!\fZERO\n¡No hay tiempo! ¡Voy a bajar!"
+    },
+    {
+      "id": "dialogue.zero.041",
+      "source": "ZERO\nIris! What are you\ndoing here?\fZERO\nAre you OK!?\fIRIS\nZero... Did you\ncome to save me?\fZERO\nYes. Hang on!\fIRIS\nA huge Maverick\nappeared and...\fZERO\nStay here Iris.\nI'll handle it!",
+      "chars": 184,
+      "control_codes": [
+        {
+          "pos": 4,
+          "code": "\\n"
+        },
+        {
+          "pos": 23,
+          "code": "\\n"
+        },
+        {
+          "pos": 35,
+          "code": "\\f"
+        },
+        {
+          "pos": 40,
+          "code": "\\n"
+        },
+        {
+          "pos": 53,
+          "code": "\\f"
+        },
+        {
+          "pos": 58,
+          "code": "\\n"
+        },
+        {
+          "pos": 74,
+          "code": "\\n"
+        },
+        {
+          "pos": 91,
+          "code": "\\f"
+        },
+        {
+          "pos": 96,
+          "code": "\\n"
+        },
+        {
+          "pos": 110,
+          "code": "\\f"
+        },
+        {
+          "pos": 115,
+          "code": "\\n"
+        },
+        {
+          "pos": 131,
+          "code": "\\n"
+        },
+        {
+          "pos": 147,
+          "code": "\\f"
+        },
+        {
+          "pos": 152,
+          "code": "\\n"
+        },
+        {
+          "pos": 168,
+          "code": "\\n"
+        }
+      ],
+      "pages": 6,
+      "lines_per_page": [
+        3,
+        2,
+        3,
+        2,
+        3,
+        3
+      ],
+      "max_line_len": 18,
+      "source_sha256": "a4acf5cb596ac5e1058faa8004ff755ebda9416be5d805760297487299a20af9",
+      "current_translation": "ZERO\n¡Iris! ¿Qué haces aquí?\fZERO\n¡¿Estás bien?!\fIRIS\nZero... ¿Viniste a salvarme?\fZERO\nSí. ¡Resiste!\fIRIS\nApareció un enorme Maverick y...\fZERO\n¡Quédate aquí, Iris! ¡Yo me encargo!"
+    },
+    {
+      "id": "dialogue.zero.042",
+      "source": "ZERO\nIs this really one\nof Repliforce's?\fZERO\nI don't have a\nmoment to spare!\fZERO\nI have to defeat\nhim or else...",
+      "chars": 114,
+      "control_codes": [
+        {
+          "pos": 4,
+          "code": "\\n"
+        },
+        {
+          "pos": 23,
+          "code": "\\n"
+        },
+        {
+          "pos": 40,
+          "code": "\\f"
+        },
+        {
+          "pos": 45,
+          "code": "\\n"
+        },
+        {
+          "pos": 60,
+          "code": "\\n"
+        },
+        {
+          "pos": 77,
+          "code": "\\f"
+        },
+        {
+          "pos": 82,
+          "code": "\\n"
+        },
+        {
+          "pos": 99,
+          "code": "\\n"
+        }
+      ],
+      "pages": 3,
+      "lines_per_page": [
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 18,
+      "source_sha256": "cff7acbf1529d793f3c6a548aecb1b4b9a6c225c5af0ba2b1903e7e38049c0e0",
+      "current_translation": "ZERO\n¿De verdad es de Repliforce?\fZERO\n¡No tengo ni un segundo que perder!\fZERO\n¡Debo derrotarlo o de lo contrario...!"
+    },
+    {
+      "id": "dialogue.zero.043",
+      "source": "ZERO\nDamn! This isn't\ngood Colonel!\fZERO\nThey may decide the\nentire Repliforce\fZERO\nis a group of\nMavericks!",
+      "chars": 108,
+      "control_codes": [
+        {
+          "pos": 4,
+          "code": "\\n"
+        },
+        {
+          "pos": 21,
+          "code": "\\n"
+        },
+        {
+          "pos": 35,
+          "code": "\\f"
+        },
+        {
+          "pos": 40,
+          "code": "\\n"
+        },
+        {
+          "pos": 60,
+          "code": "\\n"
+        },
+        {
+          "pos": 78,
+          "code": "\\f"
+        },
+        {
+          "pos": 83,
+          "code": "\\n"
+        },
+        {
+          "pos": 97,
+          "code": "\\n"
+        }
+      ],
+      "pages": 3,
+      "lines_per_page": [
+        3,
+        3,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "e6e6f9abc217a48c457578d113119d5d42d49f354d1eb9d82c1f2de2b4669137",
+      "current_translation": "ZERO\n¡Maldición! ¡Esto va mal, Colonel!\fZERO\n¡Pueden declarar a toda Repliforce...\fZERO\n...como un grupo de Mavericks!"
+    },
+    {
+      "id": "dialogue.zero.044",
+      "source": "SIGMA\nI've been waiting\nfor you Zero!\fSIGMA\nIt's time for us\nto settle this!",
+      "chars": 76,
+      "control_codes": [
+        {
+          "pos": 5,
+          "code": "\\n"
+        },
+        {
+          "pos": 23,
+          "code": "\\n"
+        },
+        {
+          "pos": 37,
+          "code": "\\f"
+        },
+        {
+          "pos": 43,
+          "code": "\\n"
+        },
+        {
+          "pos": 60,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 17,
+      "source_sha256": "9b790ee46eae6bf9ba276c5f285bdf00f967e60617bfd98bfa2642e57c12b350",
+      "current_translation": "SIGMA\n¡Te estaba esperando, Zero!\fSIGMA\n¡Es hora de saldar nuestras cuentas!"
+    },
+    {
+      "id": "dialogue.zero.045",
+      "source": "SIGMA\nHa ha ha! You're\nfinished Zero!\fSIGMA\nIris is waiting\nfor you!",
+      "chars": 68,
+      "control_codes": [
+        {
+          "pos": 5,
+          "code": "\\n"
+        },
+        {
+          "pos": 22,
+          "code": "\\n"
+        },
+        {
+          "pos": 37,
+          "code": "\\f"
+        },
+        {
+          "pos": 43,
+          "code": "\\n"
+        },
+        {
+          "pos": 59,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 16,
+      "source_sha256": "e184be869f0221a1f5103d60a934f14bcda04fa2ef71b5a6d0090d9c289e9d4d",
+      "current_translation": "SIGMA\n¡Ja, ja, ja! ¡Estás acabado, Zero!\fSIGMA\n¡Iris te está esperando!"
+    },
+    {
+      "id": "dialogue.zero.046",
+      "source": "COLONEL\n...Impressive Zero!\nBut it's too late!\fZERO\nWhat!?\fCOLONEL\nRepliforce has left\nfor the space!\fCOLONEL\nEven if I perish,\nRepliforce lives.\fZERO\n...Colonel.\fCOLONEL\n...Zero. Tell Iris\fCOLONEL\nthat her brother\ndied happily!\fCOLONEL\n...Good bye Zero!\fZERO\nColonel!!!",
+      "chars": 270,
+      "control_codes": [
+        {
+          "pos": 7,
+          "code": "\\n"
+        },
+        {
+          "pos": 27,
+          "code": "\\n"
+        },
+        {
+          "pos": 46,
+          "code": "\\f"
+        },
+        {
+          "pos": 51,
+          "code": "\\n"
+        },
+        {
+          "pos": 58,
+          "code": "\\f"
+        },
+        {
+          "pos": 66,
+          "code": "\\n"
+        },
+        {
+          "pos": 86,
+          "code": "\\n"
+        },
+        {
+          "pos": 101,
+          "code": "\\f"
+        },
+        {
+          "pos": 109,
+          "code": "\\n"
+        },
+        {
+          "pos": 127,
+          "code": "\\n"
+        },
+        {
+          "pos": 145,
+          "code": "\\f"
+        },
+        {
+          "pos": 150,
+          "code": "\\n"
+        },
+        {
+          "pos": 162,
+          "code": "\\f"
+        },
+        {
+          "pos": 170,
+          "code": "\\n"
+        },
+        {
+          "pos": 189,
+          "code": "\\f"
+        },
+        {
+          "pos": 197,
+          "code": "\\n"
+        },
+        {
+          "pos": 214,
+          "code": "\\n"
+        },
+        {
+          "pos": 228,
+          "code": "\\f"
+        },
+        {
+          "pos": 236,
+          "code": "\\n"
+        },
+        {
+          "pos": 254,
+          "code": "\\f"
+        },
+        {
+          "pos": 259,
+          "code": "\\n"
+        }
+      ],
+      "pages": 9,
+      "lines_per_page": [
+        3,
+        2,
+        3,
+        3,
+        2,
+        2,
+        3,
+        2,
+        2
+      ],
+      "max_line_len": 19,
+      "source_sha256": "3bc0ff07a59461e3b13be12bd6a3b0f561a9ea003fb98c29ca11a50067741f25",
+      "current_translation": "COLONEL\n¡Impresionante, Zero! ¡Pero es tarde!\fZERO\n¡¿Qué?!\fCOLONEL\n¡Repliforce ha partido al espacio!\fCOLONEL\nAunque yo muera, Repliforce vivirá.\fZERO\n...Colonel.\fCOLONEL\n...Zero. Dile a Iris...\fCOLONEL\n...que su hermano murió feliz.\fCOLONEL\n...¡Adiós, Zero!\fZERO\n¡¡¡Colonel!!!"
+    },
+    {
+      "id": "dialogue.zero.047",
+      "source": "ZERO\nThe carnage...\nIt's... horrible...\fZERO\nThose Mavericks\nwill pay for this!",
+      "chars": 79,
+      "control_codes": [
+        {
+          "pos": 4,
+          "code": "\\n"
+        },
+        {
+          "pos": 19,
+          "code": "\\n"
+        },
+        {
+          "pos": 39,
+          "code": "\\f"
+        },
+        {
+          "pos": 44,
+          "code": "\\n"
+        },
+        {
+          "pos": 60,
+          "code": "\\n"
+        }
+      ],
+      "pages": 2,
+      "lines_per_page": [
+        3,
+        3
+      ],
+      "max_line_len": 19,
+      "source_sha256": "a34c17bafcae80f6d403aacb57a14b08772c646157f9915f46f9d2e77c94469a",
+      "current_translation": "ZERO\nEsta matanza... Es... horrible...\fZERO\n¡Esos Mavericks van a pagar por esto!"
+    },
+    {
+      "id": "dialogue.zero.048",
+      "source": "{glyph:38}",
+      "chars": 10,
+      "control_codes": [],
+      "pages": 1,
+      "lines_per_page": [
+        1
+      ],
+      "max_line_len": 10,
+      "source_sha256": "3ee61c13c00be8ed627baf784445afe23bbe813fe1a23ffc47863f1d2f4d2fbb",
+      "current_translation": ""
+    }
+  ]
+}

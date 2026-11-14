@@ -1,0 +1,65 @@
+# تسليم إلى Antigravity — تحديد بلاطات قوائم Mega Man X4
+
+## السياق
+نعمل على تعريب **Mega Man X4 (PS1, USA)** إلى العربية. اكتمل:
+- استخراج القرص (163 ملفاً)
+- فك حاوية ARC وترميز النصوص (u16: glyph = code & 0x7FF، 0x2000=فاصل صندوق، 0x8000=نهاية)
+- ترجمة **102/104** رسالة إلى العربية
+- خط عربي 8×8 (120 غليفاً مميَّزاً من 127) في `LOAD_U/0x10001`
+- باتش `.bps` جاهز
+
+**المتبقي:** قوائم اللعبة (New Game / Continue / Options / Save / Load / name entry) و FMVs.
+
+## المطلوب منك (Antigravity)
+افتح هذه الصور شخصياً (لديك رؤية):
+```
+C:\Users\user\Desktop\m x4\_work_ar\out\candidates\
+  PL00_U_00010206_320x240.png
+  PL00_U_00000002_320x240.png
+  PL00_U_00020101_320x240.png
+  PL00_U_00020000_320x240.png
+  PL00_U_00000003_128x256.png
+  PL00_U_00010007_256x256.png
+  PL00_U_00020301_128x256.png
+```
+
+**المطلوب:** أي صورة تحتوي على **نص قائمة** (كلمات مثل NEW GAME / CONTINUE / OPTION)؟
+اذكر:
+1. اسم الملف
+2. إحداثيات النص التقريبية (x,y بالبكسل)
+3. مقاس الحرف (8×8؟ 16×16؟) ولونه
+4. كم حرفاً في السطر
+
+## إن لم تجد القوائم في هذه الصور
+القوائم قد تكون في أعضاء أخرى. افحص أيضاً:
+```
+C:\Users\user\Desktop\m x4\_work_ar\arc\PL00_U\    (15 member)
+C:\Users\user\Desktop\m x4\_work_ar\arc\LOAD_U\    (3 members)
+C:\Users\user\Desktop\m x4\_work_ar\arc\FONT8X8\   (2 members)
+```
+الأعضاء ك **4bpp linear**; العرض المرجّح 256 أو 320 بكسل. البصمة:
+```
+LOAD_U/0x10001  = 32768 B  (أطلس الخط — مستخدم)
+LOAD_U/0x10008  = 32768 B
+FONT8X8/0       = 4096 B
+FONT8X8/1       = 512 B
+```
+
+## ما لا تفعله
+- لا تعدّل أي ملف مباشرة.
+- لا تفترض موقع البلاطات — أريد **تأكيداً بصرياً** أولاً.
+- أبلغ فقط: الملف + الإحداثيات + المقاس.
+
+## إعادة ما تجده
+اكتب النتيجة في:
+```
+C:\Users\user\Desktop\m x4\_work_ar\docs\ANTIGRAVITY_FINDINGS.md
+```
+بهذه الصيغة:
+```
+MEMBER: PL00_U/00000002
+TEXT REGION: x=..., y=..., w=..., h=...
+GLYPH SIZE: 8x8 / 16x16
+COLOR: index ... (ink)
+SAMPLE: "NEW GAME" at tile (col,row)
+```
