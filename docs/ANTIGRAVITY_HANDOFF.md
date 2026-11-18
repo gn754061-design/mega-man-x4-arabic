@@ -13,7 +13,7 @@
 ## المطلوب منك (Antigravity)
 افتح هذه الصور شخصياً (لديك رؤية):
 ```
-C:\Users\user\Desktop\m x4\_work_ar\out\candidates\
+_work_ar\out\candidates\
   PL00_U_00010206_320x240.png
   PL00_U_00000002_320x240.png
   PL00_U_00020101_320x240.png
@@ -33,9 +33,9 @@ C:\Users\user\Desktop\m x4\_work_ar\out\candidates\
 ## إن لم تجد القوائم في هذه الصور
 القوائم قد تكون في أعضاء أخرى. افحص أيضاً:
 ```
-C:\Users\user\Desktop\m x4\_work_ar\arc\PL00_U\    (15 member)
-C:\Users\user\Desktop\m x4\_work_ar\arc\LOAD_U\    (3 members)
-C:\Users\user\Desktop\m x4\_work_ar\arc\FONT8X8\   (2 members)
+_work_ar\arc\PL00_U\    (15 member)
+_work_ar\arc\LOAD_U\    (3 members)
+_work_ar\arc\FONT8X8\   (2 members)
 ```
 الأعضاء ك **4bpp linear**; العرض المرجّح 256 أو 320 بكسل. البصمة:
 ```
@@ -53,7 +53,7 @@ FONT8X8/1       = 512 B
 ## إعادة ما تجده
 اكتب النتيجة في:
 ```
-C:\Users\user\Desktop\m x4\_work_ar\docs\ANTIGRAVITY_FINDINGS.md
+`_work_ar\docs\ANTIGRAVITY_FINDINGS.md`
 ```
 بهذه الصيغة:
 ```

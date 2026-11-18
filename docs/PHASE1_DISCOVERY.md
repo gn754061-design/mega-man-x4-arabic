@@ -10,7 +10,7 @@
 | MD5 | `1c425b49bb25c45b3964b2d565dd0ec0` |
 | SHA-1 | `26ffe24a79384b24af7571674251ee575e889b38` |
 | مطابقة `DISC.md` | **نعم** — الأساس مقبول من المحرك |
-| مجلد العمل | `C:\Users\user\Desktop\m x4\_work_ar` |
+| مجلد العمل | `_work_ar` |
 
 ## 2. نموذج المحرك — ليس ROM Hack بالمعنى التقليدي
 الهدف ليس ملف ROM خاماً قابلاً للتعديل، بل **MegaManX4Recomp v1.0.29**: إعادة تجميع (static recompilation)

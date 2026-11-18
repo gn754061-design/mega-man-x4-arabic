@@ -8,7 +8,7 @@
 ## 1. البصمة والتحقق
 | البند | القيمة |
 |---|---|
-| ملف الأصل | `C:\Users\user\Desktop\m x4\New folder\Megaman X4.bin` |
+| ملف الأصل | `Megaman X4.bin` (USA / SLUS-00561) |
 | حجم الأصل | 592,217,136 بايت |
 | CRC32 الأصل | `84774766` (مطابق لنسخة USA الأصلية SLUS-00561) |
 | SHA-256 الأصل | `3ceab06ac99add4035f912188bcbf5b16c02056f46a33d38ff0c8dbce6cb613b` |

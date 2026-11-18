@@ -4,9 +4,11 @@ import json
 import os
 import hashlib
 import importlib.util
+from pathlib import Path
 
-WORK = r'C:\Users\user\Desktop\m x4\_work_ar'
-BUNDLED = r'C:\Users\user\Desktop\m x4\MegaManX4Recomp\mods\bundled\mmx4.localization\1.0.0'
+ROOT = Path(__file__).resolve().parent.parent
+WORK = os.environ.get('MMX4_WORK', str(ROOT))
+BUNDLED = os.environ.get('MMX4_BUNDLED', '')
 
 HARAKAT = dict.fromkeys([0x064B, 0x064C, 0x064D, 0x064E, 0x064F, 0x0650,
                          0x0651, 0x0652, 0x0653, 0x0654, 0x0655, 0x0670])
@@ -20,24 +22,37 @@ def load(path, name):
 
 
 ar = {}
+data_dir = os.path.join(WORK, 'data')
 for f in ('ar_batch1.py', 'ar_batch2.py', 'ar_fixes.py'):
-    ar.update(load(WORK + r'\data\\' + f, f[:-3]))
+    batch_file = os.path.join(data_dir, f)
+    if os.path.exists(batch_file):
+        ar.update(load(batch_file, f[:-3]))
 
 # normalise: strip harakat (native font has no combining marks)
 ar = {k: v.translate(HARAKAT) for k, v in ar.items()}
 
-src = json.load(open(WORK + r'\data\source_text.json', encoding='utf-8'))
-base = json.load(open(os.path.join(BUNDLED, 'catalog', 'es.json'), encoding='utf-8'))
-
-entries = []
-for e in src['entries']:
-    eid = e['id']
-    entries.append({
-        'id': eid,
-        'original': e['source'],
-        'translation': ar.get(eid, ''),
-        'source_sha256': e['source_sha256'],
-    })
+source_json = os.path.join(data_dir, 'source_text.json')
+if os.path.exists(source_json):
+    src = json.load(open(source_json, encoding='utf-8'))
+    entries = []
+    for e in src['entries']:
+        eid = e['id']
+        entries.append({
+            'id': eid,
+            'original': e['source'],
+            'translation': ar.get(eid, ''),
+            'source_sha256': e['source_sha256'],
+        })
+else:
+    # Fallback when raw source text is excluded for distribution
+    entries = []
+    for eid, translation in sorted(ar.items()):
+        entries.append({
+            'id': eid,
+            'original': '',
+            'translation': translation,
+            'source_sha256': '',
+        })
 
 catalog = {
     'schema': 1,
