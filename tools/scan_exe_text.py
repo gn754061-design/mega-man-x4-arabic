@@ -3,7 +3,7 @@
 import os
 import struct
 
-WORK = r'C:\Users\user\Desktop\m x4\_work_ar'
+WORK = "./_work_ar"'
 GLYPHS = set(range(0x40, 0x7E)) | {0x1FF} | set(range(0x83, 0x8C)) | set(range(0x200, 0x300))
 
 targets = [

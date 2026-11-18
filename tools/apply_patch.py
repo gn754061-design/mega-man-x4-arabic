@@ -5,8 +5,8 @@ import os
 import struct
 import zlib
 
-SRC = r'C:\Users\user\Desktop\m x4\New folder\Megaman X4.bin'
-WORK = r'C:\Users\user\Desktop\m x4\_work_ar'
+SRC = "./"m x4\New folder\Megaman X4.bin'
+WORK = "./_work_ar"'
 OUT = os.path.join(WORK, 'out')
 USER = 2048
 ALIGN = 0x800

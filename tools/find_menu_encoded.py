@@ -3,7 +3,7 @@
 import os
 import struct
 
-WORK = r'C:\Users\user\Desktop\m x4\_work_ar'
+WORK = "./_work_ar"'
 
 # glyph codes from the verified codec
 G = {'A': 0x4A, 'B': 0x4B, 'C': 0x4C, 'D': 0x4D, 'E': 0x4E, 'F': 0x4F,

@@ -10,7 +10,7 @@ Guarantees:
 import os
 import json
 
-BASE_DIR = r'C:\Users\user\Desktop\m x4\_work_ar'
+BASE_DIR = "./_work_ar"'
 CAT_PATH = os.path.join(BASE_DIR, 'out', 'ar_catalog.json')
 
 D = {}

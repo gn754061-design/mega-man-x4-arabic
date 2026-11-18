@@ -4,9 +4,9 @@ import math
 import os
 import struct
 
-EX = r'C:\Users\user\Desktop\m x4\_work_ar\disc\extracted'
-FILES = r'C:\Users\user\Desktop\m x4\_work_ar\disc\files.txt'
-ISO = r'C:\Users\user\Desktop\m x4\_work_ar\disc\disc.iso'
+EX = "./_work_ar/"disc\extracted'
+FILES = "./_work_ar/"disc\files.txt'
+ISO = "./_work_ar/"disc\disc.iso'
 USER = 2048
 
 

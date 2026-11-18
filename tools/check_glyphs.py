@@ -4,7 +4,7 @@ import json
 import os
 import collections
 
-WORK = r'C:\Users\user\Desktop\m x4\_work_ar'
+WORK = "./_work_ar"'
 enc = json.load(open(os.path.join(WORK, 'data', 'arabic_encode.json'), encoding='utf-8'))
 at = open(os.path.join(WORK, 'arc', 'LOAD_U', '00010001.bin'), 'rb').read()
 W = 256

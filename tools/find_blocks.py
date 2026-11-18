@@ -3,7 +3,7 @@
 import os
 import struct
 
-ARC = r'C:\Users\user\Desktop\m x4\_work_ar\arc'
+ARC = "./_work_ar/"arc'
 
 results = []
 for dirpath, _, files in os.walk(ARC):

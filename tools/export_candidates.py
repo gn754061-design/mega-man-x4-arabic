@@ -3,8 +3,8 @@
 import os
 from PIL import Image
 
-ARC = r'C:\Users\user\Desktop\m x4\_work_ar\arc'
-OUT = r'C:\Users\user\Desktop\m x4\_work_ar\out\candidates'
+ARC = "./_work_ar/"arc'
+OUT = "./_work_ar/"out\candidates'
 os.makedirs(OUT, exist_ok=True)
 
 CANDS = [

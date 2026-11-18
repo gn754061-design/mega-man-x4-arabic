@@ -6,7 +6,7 @@ as aligned tiles inside the member that stores the menu artwork.
 """
 import os
 
-ARC = r'C:\Users\user\Desktop\m x4\_work_ar\arc'
+ARC = "./_work_ar/"arc'
 ATLAS = os.path.join(ARC, 'LOAD_U', '00010001.bin')
 at = open(ATLAS, 'rb').read()
 W = 256

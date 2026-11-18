@@ -2,7 +2,7 @@
 """Render PL00_U/00010206.bin at 320x240 and dump an ASCII thumbnail."""
 import os
 
-P = r'C:\Users\user\Desktop\m x4\_work_ar\arc\PL00_U\00010206.bin'
+P = "./_work_ar/"arc\PL00_U\00010206.bin'
 blob = open(P, 'rb').read()
 W, H = 320, 240
 RAMP = ' .:-=+*#%@'

@@ -6,7 +6,7 @@ import os
 import arabic_reshaper
 from PIL import ImageFont
 
-WORK = r'C:\Users\user\Desktop\m x4\_work_ar'
+WORK = "./_work_ar"'
 FONT_CANDIDATES = [
     (r'C:\Windows\Fonts\arabtype.ttf', 8),
     (r'C:\Windows\Fonts\simpo.ttf', 8),

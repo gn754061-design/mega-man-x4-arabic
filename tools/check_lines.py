@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import json
 
-cat = json.load(open(r'C:\Users\user\Desktop\m x4\_work_ar\out\ar_catalog.json', encoding='utf-8'))
+cat = json.load(open("./_work_ar/"out\ar_catalog.json', encoding='utf-8'))
 print('Total entries:', len(cat['entries']))
 
 max_line_len = 0

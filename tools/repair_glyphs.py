@@ -6,7 +6,7 @@ import os
 import arabic_reshaper
 from PIL import ImageFont
 
-WORK = r'C:\Users\user\Desktop\m x4\_work_ar'
+WORK = "./_work_ar"'
 CELL = 8
 
 FONTS = [

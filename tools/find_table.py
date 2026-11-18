@@ -8,7 +8,7 @@ so the 6 codes that open a message equal the 6 codes that open its second box.
 import os
 import struct
 
-ARC = r'C:\Users\user\Desktop\m x4\_work_ar\arc'
+ARC = "./_work_ar/"arc'
 
 
 def blocks(codes):

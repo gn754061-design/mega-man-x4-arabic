@@ -2,7 +2,7 @@
 """Check whether atlas cells 0x100-0x1FF are UI glyphs or artwork."""
 import os
 
-P = r'C:\Users\user\Desktop\m x4\_work_ar\arc\LOAD_U\00010001.bin'
+P = "./_work_ar/"arc\LOAD_U\00010001.bin'
 at = open(P, 'rb').read()
 W = 256
 RAMP = ' .:-=+*#%@'

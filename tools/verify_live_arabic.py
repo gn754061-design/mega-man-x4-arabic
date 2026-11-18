@@ -4,7 +4,7 @@ import struct
 import json
 from PIL import Image
 
-BASE_DIR = r'C:\Users\user\Desktop\m x4\_work_ar'
+BASE_DIR = "./_work_ar"'
 BIN_PATH = os.path.join(BASE_DIR, 'out', 'Megaman X4 (Arabic).bin')
 FILES = os.path.join(BASE_DIR, 'disc', 'files.txt')
 USER = 2048

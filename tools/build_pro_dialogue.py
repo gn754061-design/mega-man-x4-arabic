@@ -8,7 +8,7 @@ import json
 import os
 import re
 
-BASE_DIR = r'C:\Users\user\Desktop\m x4\_work_ar'
+BASE_DIR = "./_work_ar"'
 CAT_PATH = os.path.join(BASE_DIR, 'out', 'ar_catalog.json')
 
 def wrap_text(words, max_len=20):

@@ -21,7 +21,7 @@ import unicodedata
 from PIL import Image, ImageDraw, ImageFont
 import arabic_reshaper
 
-BASE_DIR = r'C:\Users\user\Desktop\m x4\_work_ar'
+BASE_DIR = "./_work_ar"'
 CAT_PATH = os.path.join(BASE_DIR, 'out', 'ar_catalog.json')
 ORIG_ATLAS = os.path.join(BASE_DIR, 'arc', 'LOAD_U', '00010001_orig.bin')
 OUT_ATLAS = os.path.join(BASE_DIR, 'arc', 'LOAD_U', '00010001.bin')

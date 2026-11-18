@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """Count used vs blank 8x8 cells in the dialogue atlas (256x256, 4bpp, 32x32 grid)."""
-P = r'C:\Users\user\Desktop\m x4\_work_ar\arc\LOAD_U\00010001.bin'
+P = "./_work_ar/"arc\LOAD_U\00010001.bin'
 blob = open(P, 'rb').read()
 W = H = 256
 px = bytearray(W * H)

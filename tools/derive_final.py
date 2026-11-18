@@ -68,7 +68,7 @@ for lo, hi, name in [(0x20, 0x3F, 'punct/digits?'), (0x40, 0x5F, 'digits+upper')
         print('  %s: %s' % (name, '  '.join(row)))
 
 json.dump({'%04X' % g: c for g, c in sorted(mapping.items())},
-          open(r'C:\Users\user\Desktop\m x4\_work_ar\data\glyph_map.json', 'w', encoding='utf-8'),
+          open("./_work_ar/"data\glyph_map.json', 'w', encoding='utf-8'),
           ensure_ascii=False, indent=1)
 print()
 print('wrote data/glyph_map.json')

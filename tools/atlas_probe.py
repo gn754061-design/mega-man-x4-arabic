@@ -3,8 +3,8 @@
 import os
 from PIL import Image
 
-EX = r'C:\Users\user\Desktop\m x4\_work_ar\arc\LOAD_U\00010001.bin'
-OUT = r'C:\Users\user\Desktop\m x4\_work_ar\disc\font'
+EX = "./_work_ar/"arc\LOAD_U\00010001.bin'
+OUT = "./_work_ar/"disc\font'
 
 blob = open(EX, 'rb').read()
 

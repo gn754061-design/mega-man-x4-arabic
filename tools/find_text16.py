@@ -3,8 +3,8 @@
 import re
 import struct
 
-ISO = r'C:\Users\user\Desktop\m x4\_work_ar\disc\disc.iso'
-FILES = r'C:\Users\user\Desktop\m x4\_work_ar\disc\files.txt'
+ISO = "./_work_ar/"disc\disc.iso'
+FILES = "./_work_ar/"disc\files.txt'
 USER = 2048
 
 files = []

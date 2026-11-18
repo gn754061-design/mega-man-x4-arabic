@@ -4,7 +4,7 @@ import os
 import struct
 from PIL import Image
 
-WORK = r'C:\Users\user\Desktop\m x4\_work_ar'
+WORK = "./_work_ar"'
 OUT = os.path.join(WORK, 'out')
 USER = 2048
 

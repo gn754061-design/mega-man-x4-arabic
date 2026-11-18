@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """Render PL00_U/00000003.bin (128x256) as ASCII."""
-P = r'C:\Users\user\Desktop\m x4\_work_ar\arc\PL00_U\00000003.bin'
+P = "./_work_ar/"arc\PL00_U\00000003.bin'
 blob = open(P, 'rb').read()
 W, H = 128, 256
 RAMP = ' .:-=+*#%@'

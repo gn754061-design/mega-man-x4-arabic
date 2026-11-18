@@ -2,7 +2,7 @@
 import json
 import os
 
-BASE_DIR = r'C:\Users\user\Desktop\m x4\_work_ar'
+BASE_DIR = "./_work_ar"'
 cat = json.load(open(os.path.join(BASE_DIR, 'out', 'ar_catalog.json'), encoding='utf-8'))
 out_path = os.path.join(BASE_DIR, 'out', 'dump_all_dialogue.txt')
 

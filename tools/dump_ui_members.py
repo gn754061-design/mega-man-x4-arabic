@@ -8,10 +8,10 @@ for v in range(16):
     PAL.extend([c, c, c])
 PAL.extend([0, 0, 0] * (256 - 16))
 
-out_dir = r'C:\Users\user\Desktop\m x4\_work_ar\out\menu_investigation'
+out_dir = "./_work_ar/"out\menu_investigation'
 os.makedirs(out_dir, exist_ok=True)
 
-arc_base = r'C:\Users\user\Desktop\m x4\_work_ar\arc'
+arc_base = "./_work_ar/"arc'
 targets = ['ST0E_U0', 'ST0E_U1', 'ST0F_U1', 'ST0F_UX', 'ST0F_UZ', 'LOAD_U', 'FONT8X8']
 
 for t in targets:

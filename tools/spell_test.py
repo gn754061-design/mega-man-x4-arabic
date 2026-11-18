@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """Render the word JUNGLE (codes 0x53 0x5E 0x57 0x50 0x55 0x4E) under candidate grids."""
-P = r'C:\Users\user\Desktop\m x4\_work_ar\arc\LOAD_U\00010001.bin'
+P = "./_work_ar/"arc\LOAD_U\00010001.bin'
 blob = open(P, 'rb').read()
 W = H = 256
 px = bytearray(W * H)

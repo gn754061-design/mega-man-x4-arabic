@@ -15,7 +15,7 @@ import struct
 
 from PIL import Image
 
-WORK = r'C:\Users\user\Desktop\m x4\_work_ar'
+WORK = "./_work_ar"'
 OUT = os.path.join(WORK, 'out', 'render')
 os.makedirs(OUT, exist_ok=True)
 

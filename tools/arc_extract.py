@@ -4,9 +4,9 @@ import math
 import os
 import struct
 
-ISO = r'C:\Users\user\Desktop\m x4\_work_ar\disc\disc.iso'
-FILES = r'C:\Users\user\Desktop\m x4\_work_ar\disc\files.txt'
-OUT = r'C:\Users\user\Desktop\m x4\_work_ar\arc'
+ISO = "./_work_ar/"disc\disc.iso'
+FILES = "./_work_ar/"disc\files.txt'
+OUT = "./_work_ar/"arc'
 USER = 2048
 ALIGN = 0x800
 

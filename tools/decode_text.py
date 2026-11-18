@@ -19,8 +19,8 @@ import json
 import os
 import struct
 
-ARC = r'C:\Users\user\Desktop\m x4\_work_ar\arc'
-CAT = r'C:\Users\user\Desktop\m x4\_work_ar\data\source_text.json'
+ARC = "./_work_ar/"arc'
+CAT = "./_work_ar/"data\source_text.json'
 
 END = 0x8000
 BOX = 0x2000
