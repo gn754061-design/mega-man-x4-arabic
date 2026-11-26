@@ -6,7 +6,7 @@ import struct
 
 import arabic_reshaper
 
-WORK = "./_work_ar"'
+WORK = r'./_work_ar'
 ATLAS = os.path.join(WORK, 'arc', 'LOAD_U', '00010001.bin')
 
 CELL = 8

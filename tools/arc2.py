@@ -3,9 +3,9 @@
 import os
 import struct
 
-ISO = "./_work_ar/"disc\disc.iso'
-FILES = "./_work_ar/"disc\files.txt'
-OUT = "./_work_ar/"arc'
+ISO = r'./_work_ar\disc\disc.iso'
+FILES = r'./_work_ar\disc\files.txt'
+OUT = r'./_work_ar\arc'
 USER = 2048
 
 END_TEXT = 0x8000

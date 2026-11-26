@@ -3,7 +3,7 @@
 import os
 import struct
 
-ARC = "./_work_ar/"arc'
+ARC = r'./_work_ar\arc'
 GLYPHS = set(range(0x40, 0x7E)) | {0x1FF} | set(range(0x83, 0x8C)) | set(range(0x200, 0x300))
 
 

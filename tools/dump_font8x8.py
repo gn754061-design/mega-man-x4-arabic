@@ -3,8 +3,8 @@
 import os
 from PIL import Image
 
-SRC = "./_work_ar/"disc\extracted\ARC_FONT8X8.ARC'
-OUT = "./_work_ar/"disc\font8x8_sheet.png'
+SRC = r'./_work_ar\disc\extracted\ARC_FONT8X8.ARC'
+OUT = r'./_work_ar\disc\font8x8_sheet.png'
 
 blob = open(SRC, 'rb').read()
 print('file bytes:', len(blob))

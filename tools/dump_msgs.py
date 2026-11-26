@@ -3,7 +3,7 @@
 import struct
 import sys
 
-P = "./_work_ar/"arc\PL00_U\00000015.bin'
+P = r'./_work_ar\arc\PL00_U\00000015.bin'
 data = open(P, 'rb').read()
 n = len(data) // 2
 codes = struct.unpack('<%dH' % n, data[:n * 2])

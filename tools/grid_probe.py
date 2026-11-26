@@ -2,7 +2,7 @@
 """Brute-force the atlas cell geometry by rendering glyph 0x53 ('J') under several grids."""
 import os
 
-P = "./_work_ar/"arc\LOAD_U\00010001.bin'
+P = r'./_work_ar\arc\LOAD_U\00010001.bin'
 blob = open(P, 'rb').read()
 
 W = H = 256

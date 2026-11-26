@@ -3,9 +3,9 @@
 import os
 import struct
 
-ISO = "./_work_ar/"disc\disc.iso'
-OUT = "./_work_ar/"disc\extracted'
-FILES = "./_work_ar/"disc\files.txt'
+ISO = r'./_work_ar\disc\disc.iso'
+OUT = r'./_work_ar\disc\extracted'
+FILES = r'./_work_ar\disc\files.txt'
 USER = 2048
 
 os.makedirs(OUT, exist_ok=True)

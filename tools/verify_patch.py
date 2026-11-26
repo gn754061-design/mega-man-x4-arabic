@@ -4,7 +4,7 @@ import os
 import struct
 import sys
 
-WORK = "./_work_ar"'
+WORK = r'./_work_ar'
 OUT = os.path.join(WORK, 'out')
 USER = 2048
 MASK, COL, EOL, BOX, END = 0x07FF, 0x0800, 0x1000, 0x2000, 0x8000

@@ -6,7 +6,7 @@ import os
 import struct
 from PIL import Image
 
-BASE_DIR = "./_work_ar"'
+BASE_DIR = r'./_work_ar'
 ATLAS_PATH = os.path.join(BASE_DIR, 'arc', 'LOAD_U', '00010001.bin')
 PL00_PATH = os.path.join(BASE_DIR, 'arc', 'PL00_U', '00000015.bin')
 OUT_DIR = os.path.join(BASE_DIR, 'out', 'simulated_scenes')
@@ -26,7 +26,7 @@ for code in range(256):
         for x in range(16):
             ax = tx * 16 + x
             b = atlas[row_off + (ax // 2)]
-            v = (b & 0x0F) if ax % 2 == 0 else (b >> 4)
+            v = (b >> 4) if ax % 2 == 0 else (b & 0x0F)
             if v > 0:
                 gray = int((v / 15.0) * 255)
                 im.putpixel((x, y), (gray, gray, gray, 255))
@@ -55,9 +55,9 @@ def render_box_rtl(codes, title=""):
         box.putpixel((250, y), (100, 180, 255, 255))
         
     # In native RTL engine:
-    # baseX is 236 (column 19 on the right edge)
-    # curX steps by -12
-    baseX = 236
+    # baseX is 216 (PS1 X = 104)
+    # curX steps by -9
+    baseX = 216
     baseY = 8
     curX = baseX
     curY = baseY
@@ -74,7 +74,7 @@ def render_box_rtl(codes, title=""):
         elif c & 0x2000 or c & 0x8000:
             break
         else:
-            curX -= 12
+            curX -= 9
             
     return box
 

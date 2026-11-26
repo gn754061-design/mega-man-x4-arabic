@@ -3,8 +3,8 @@
 import os
 from PIL import Image
 
-EX = "./_work_ar/"arc\LOAD_U'
-OUT = "./_work_ar/"disc\font'
+EX = r'./_work_ar\arc\LOAD_U'
+OUT = r'./_work_ar\disc\font'
 os.makedirs(OUT, exist_ok=True)
 W = H = 256
 RAMP = ' .:-=+*#%@'

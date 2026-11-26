@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """Render one atlas band (cells 0x40..0x5F) at 8x8 and 8x16 to confirm the glyph order."""
-P = "./_work_ar/"arc\LOAD_U\00010001.bin'
+P = r'./_work_ar\arc\LOAD_U\00010001.bin'
 blob = open(P, 'rb').read()
 W = H = 256
 px = bytearray(W * H)

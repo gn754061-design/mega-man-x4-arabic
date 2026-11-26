@@ -2,7 +2,7 @@
 import json
 import os
 
-BASE_DIR = "./_work_ar"'
+BASE_DIR = r'./_work_ar'
 cat = json.load(open(os.path.join(BASE_DIR, 'out', 'ar_catalog.json'), encoding='utf-8'))
 
 for mi in [0, 8, 11, 25, 30, 31]:

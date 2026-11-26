@@ -4,9 +4,9 @@ import os
 import re
 import sys
 
-ISO = "./_work_ar/"disc\disc.iso'
+ISO = r'./_work_ar\disc\disc.iso'
 USER = 2048
-FILES = "./_work_ar/"disc\files.txt'
+FILES = r'./_work_ar\disc\files.txt'
 
 files = []
 for line in open(FILES, encoding='utf-8'):

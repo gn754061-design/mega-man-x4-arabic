@@ -5,8 +5,8 @@ import os
 import struct
 import sys
 
-ARC = "./_work_ar/"arc'
-CAT = "./_work_ar/"data\source_text.json'
+ARC = r'./_work_ar\arc'
+CAT = r'./_work_ar\data\source_text.json'
 
 END, BOX, EOL, COL, MASK = 0x8000, 0x2000, 0x1000, 0x0800, 0x07FF
 

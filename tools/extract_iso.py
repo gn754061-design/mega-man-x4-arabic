@@ -139,8 +139,8 @@ def parse_iso(flat_path):
 
 
 if __name__ == '__main__':
-    binp = sys.argv[1] if len(sys.argv) > 1 else "./"m x4\New folder\Megaman X4.bin'
-    outd = sys.argv[2] if len(sys.argv) > 2 else "./_work_ar/"disc'
+    binp = sys.argv[1] if len(sys.argv) > 1 else r'./Megaman X4.bin'
+    outd = sys.argv[2] if len(sys.argv) > 2 else r'./_work_ar\disc'
     flat = extract(binp, outd)
     files = parse_iso(flat)
     if files:

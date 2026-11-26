@@ -15,10 +15,10 @@ import sys
 import arabic_reshaper
 from PIL import Image, ImageDraw, ImageFont
 
-ARC = "./_work_ar/"arc'
-WORK = "./_work_ar"'
+ARC = r'./_work_ar\arc'
+WORK = r'./_work_ar'
 FONT = r'C:\Windows\Fonts\arial.ttf'
-CAT = "./_work_ar/"out\ar_catalog.json'
+CAT = r'./_work_ar\out\ar_catalog.json'
 
 CELL = 8
 COLS = 32

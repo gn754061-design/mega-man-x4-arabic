@@ -7,7 +7,7 @@ cells in 0x8C-0x1FE, which must belong to a second (menu/UI) font set.
 import os
 import struct
 
-WORK = "./_work_ar"'
+WORK = r'./_work_ar'
 UI_LO, UI_HI = 0x8C, 0x1FE
 GLYPHS = set(range(0x8C, 0x1FF)) | set(range(0x40, 0x8C)) | set(range(0x200, 0x280))
 

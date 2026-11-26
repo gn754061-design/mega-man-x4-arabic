@@ -4,8 +4,8 @@ import json
 import os
 import struct
 
-ARC = "./_work_ar/"arc'
-WORK = "./_work_ar"'
+ARC = r'./_work_ar\arc'
+WORK = r'./_work_ar'
 
 enc = json.load(open(os.path.join(WORK, 'data', 'arabic_encode.json'), encoding='utf-8'))
 msgs = {m['id']: m['codes'] for m in enc['messages']}

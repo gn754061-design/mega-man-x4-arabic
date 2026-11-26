@@ -4,7 +4,7 @@ import struct
 import json
 from PIL import Image
 
-BASE_DIR = "./_work_ar"'
+BASE_DIR = r'./_work_ar'
 BIN_PATH = os.path.join(BASE_DIR, 'out', 'Megaman X4 (Arabic).bin')
 FILES = os.path.join(BASE_DIR, 'disc', 'files.txt')
 USER = 2048
@@ -72,10 +72,10 @@ assert slus_disc == local_slus, "SLUS mismatch!"
 print('SLUS_005.61 in patched BIN matches local out/SLUS_005.61 exactly!')
 
 # Verify exact RTL opcodes in disc image
-assert slus_disc[0x012D74:0x012D78] == bytes([0x6C, 0x00, 0x02, 0x24]), "RTL opcode 1 mismatch!"
-assert slus_disc[0x0137E8:0x0137EC] == bytes([0x6C, 0x00, 0x02, 0x24]), "RTL opcode 2 mismatch!"
-assert slus_disc[0x013C64:0x013C68] == bytes([0x6C, 0x00, 0x02, 0x24]), "RTL opcode 3 mismatch!"
-assert slus_disc[0x013C80:0x013C84] == bytes([0xF4, 0xFF, 0x42, 0x24]), "RTL opcode 4 mismatch!"
+assert slus_disc[0x012D74:0x012D78] == bytes([0x68, 0x00, 0x02, 0x24]), "RTL opcode 1 mismatch!"
+assert slus_disc[0x0137E8:0x0137EC] == bytes([0x68, 0x00, 0x02, 0x24]), "RTL opcode 2 mismatch!"
+assert slus_disc[0x013C64:0x013C68] == bytes([0x68, 0x00, 0x02, 0x24]), "RTL opcode 3 mismatch!"
+assert slus_disc[0x013C80:0x013C84] == bytes([0xF7, 0xFF, 0x42, 0x24]), "RTL opcode 4 mismatch!"
 print('All 4 RTL engine opcodes verified in disc image!')
 
 # 5. Decode first 3 messages from patched BIN to verify text

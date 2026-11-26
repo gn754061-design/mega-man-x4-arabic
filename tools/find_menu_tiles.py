@@ -3,7 +3,7 @@
 import os
 import struct
 
-ARC = "./_work_ar/"arc'
+ARC = r'./_work_ar\arc'
 RAMP = ' .:-=+*#%@'
 
 

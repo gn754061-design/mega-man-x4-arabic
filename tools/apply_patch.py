@@ -5,8 +5,8 @@ import os
 import struct
 import zlib
 
-SRC = "./"m x4\New folder\Megaman X4.bin'
-WORK = "./_work_ar"'
+SRC = r'./Megaman X4.bin'
+WORK = r'./_work_ar'
 OUT = os.path.join(WORK, 'out')
 USER = 2048
 ALIGN = 0x800
@@ -128,44 +128,6 @@ print('patched bin:', patched, os.path.getsize(patched), 'bytes')
 
 
 # ------------------------------------------------------------------ BPS v1
-def varint(n):
-    out = bytearray()
-    while True:
-        b = n & 0x7F
-        n >>= 7
-        if n:
-            out.append(b | 0x80)
-        else:
-            out.append(b)
-            break
-    return bytes(out)
+from generate_bps import create_bps
 
-
-def bps_create(src_path, tgt_path, out_path):
-    src = open(src_path, 'rb').read()
-    tgt = open(tgt_path, 'rb').read()
-    patch = bytearray()
-    patch += b'BPS1'
-    patch += varint(len(src))
-    patch += varint(len(tgt))
-    patch += varint(0)              # no metadata
-    # emit TargetRead runs (0) in <=0xFFFF chunks
-    n = len(tgt)
-    pos = 0
-    while pos < n:
-        chunk = min(0xFFFF, n - pos)
-        patch += b'\x00'
-        patch += varint(chunk)
-        patch += tgt[pos:pos + chunk]
-        pos += chunk
-    patch += b'\x00'                # End
-    body = bytes(patch)
-    patch += struct.pack('<I', zlib.crc32(src) & 0xFFFFFFFF)
-    patch += struct.pack('<I', zlib.crc32(tgt) & 0xFFFFFFFF)
-    patch += struct.pack('<I', zlib.crc32(body) & 0xFFFFFFFF)
-    open(out_path, 'wb').write(bytes(patch))
-    print('bps:', out_path, len(patch), 'bytes  (source crc %08X target crc %08X)'
-          % (zlib.crc32(src) & 0xFFFFFFFF, zlib.crc32(tgt) & 0xFFFFFFFF))
-
-
-bps_create(SRC, patched, os.path.join(OUT, 'MegaManX4_Arabic.bps'))
+create_bps(SRC, patched, os.path.join(OUT, 'MegaManX4_Arabic.bps'), verify=True)

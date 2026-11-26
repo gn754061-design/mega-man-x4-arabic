@@ -3,7 +3,7 @@
 import os
 import re
 
-WORK = "./_work_ar"'
+WORK = r'./_work_ar'
 TARGETS = [
     ('EXE', os.path.join(WORK, 'disc', 'extracted', 'SLUS_005.61')),
     ('LOAD_U/0x10008', os.path.join(WORK, 'arc', 'LOAD_U', '00010008.bin')),

@@ -2,8 +2,8 @@
 """Save a magnified 8x8 atlas band as PNG for visual confirmation."""
 from PIL import Image
 
-P = "./_work_ar/"arc\LOAD_U\00010001.bin'
-OUT = "./_work_ar/"disc\font\atlas_band_40_5F.png'
+P = r'./_work_ar\arc\LOAD_U\00010001.bin'
+OUT = r'./_work_ar\disc\font\atlas_band_40_5F.png'
 blob = open(P, 'rb').read()
 W = H = 256
 px = bytearray(W * H)
@@ -38,6 +38,6 @@ for y in range(H):
             for sy in range(2):
                 for sx in range(2):
                     op[x * 2 + sx, y * 2 + sy] = 255
-o = "./_work_ar/"disc\font\atlas_overview.png'
+o = r'./_work_ar\disc\font\atlas_overview.png'
 ov.save(o)
 print('saved', o, ov.size)
